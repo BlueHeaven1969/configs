@@ -1,0 +1,148 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.statusBar.feedback.visible": false,
+    "editor.fontFamily": "Hack Nerd Font, Fantasque Sans Mono, Fira Code, Consolas, monospace",
+    "editor.fontSize": 12,
+    "editor.rulers": [ 80 ],
+    "editor.formatOnType": false,
+    "editor.renderControlCharacters": false,
+    "search.useIgnoreFiles": false,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.project": true,
+        "**/.pydevproject": true,
+        "**/.settings": true,
+        "**/*_boot": true,
+        "**/*_exe": true,
+        "**/*_ramboot": true
+    },
+    "todo-tree.tags": [
+        "TODO",
+        "FIXME",
+        "NOTE",
+        "#warning",
+        "#error",
+        "xxRSPxx"
+    ],
+    "todo-tree.showInExplorer": false,
+    "todo-tree.defaultHighlight": {
+        "foreground": "#85a900",
+        "background": "#001e29",
+        "iconColour": "#85a900",
+        "type": "text"
+    },
+    "todo-tree.customHighlight": {
+        "TODO": {
+            "foreground": "#b58900",
+            "iconColour": "#b58900",
+        },
+        "FIXME": {
+            "icon": "bug",
+            "iconColour": "#cb4b16",
+            "foreground": "#cb4b16"
+        },
+        "NOTE": {
+            "icon": "info"
+        },
+        "#warning": {
+            "icon": "alert",
+            "foreground": "#d33682",
+            "iconColour": "#d33682"
+        },
+        "#error": {
+            "icon": "stop",
+            "foreground": "#dc322f",
+            "iconColour": "#dc322f"
+        },
+        "xxRSPxx": {
+            "icon": "issue-opened",
+            "iconColour": "#6c71c4",
+            "foreground": "#6c71c4"
+        }
+    },
+    "todo-tree.expanded": true,
+    "doxdocgen.c.commentPrefix": "/// ",
+    "doxdocgen.c.firstLine": "///-----------------------------------------------------------------------------",
+    "doxdocgen.c.lastLine": "///------------------------------------------------------------------------------",
+    "doxdocgen.c.triggerSequence": "///-",
+    "doxdocgen.file.fileTemplate": "@file {name}",
+    "doxdocgen.generic.authorTag": "@author Rick St Pierre",
+    "doxdocgen.generic.authorName": "Rick St Pierre",
+    "C_Cpp.clang_format_path": "C:/Users/Rst.Pie/scoop/apps/LLVM/current/bin/clang-format.exe",
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-k>": false
+    },
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Hack Nerd Font, Hack",
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k", "C:\\Users\\Rst.Pie\\scoop\\apps\\cmder\\current\\vendor\\init.bat"
+    ],
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": false
+    },
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.inputValidation": "off",
+    "git.confirmSync": false,
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "markdown",
+        "plaintext",
+        "restructuredtext",
+        "text",
+        "typescript",
+    ],
+    "cSpell.allowCompoundWords": true,
+    "cSpell.userWords": [
+        "logix",
+        "sdcard",
+        "vlatest",
+        "wuppertal"
+    ],
+    "cSpell.ignoreRegExpList": [
+        "/[A-Z]{2,}/g",
+        "/cr[\\w]*_[\\w]*/g"
+    ],
+    "projects.configPath": "C:/Users/Rst.Pie/Projects/projects.json",
+    "projects.checkDirty": true,
+    "projects.showBranch":true,
+    "projects.viewAllEnabled": true,
+    "projects.sortGroups": false,
+    "projects.sortProjects": false,
+    "projects.ignoreBranches": [
+        "master",
+        "CR50-INT"
+    ],
+    "workbench.iconTheme": "solarized",
+    "workbench.colorTheme": "Rick's Solarized Dark",
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.renderWhitespace": "none",
+    "debug.toolBarLocation": "docked",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.html": true
+    },
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.detectIndentation": false,
+    "editor.smoothScrolling": true,
+    "editor.minimap.maxColumn": 90,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.enableExperiments": false,
+    "editor.minimap.renderCharacters": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "search.showLineNumbers": true,
+    "terminal.integrated.rendererType": "dom",
+    "extensions.autoUpdate": false,
+}

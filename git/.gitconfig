@@ -1,0 +1,32 @@
+[mergetool "winmerge"]
+	path = C:/Users/RSt.Pie/scoop/apps/winmerge/current/WinMergeU.exe
+	cmd = \"C:/Users/RSt.Pie/scoop/apps/winmerge/current/WinMergeU.exe\" -e -u  -wl -wr -fm -dl \"Mine: $LOCAL\" -dm \"Merged: $BASE\" -dr \"Theirs: $REMOTE\" \"$LOCAL\" \"$BASE\" \"$REMOTE\" -o \"$MERGED\"
+[difftool "winmerge"]
+	path = C:/Users/RSt.Pie/scoop/apps/winmerge/current/WinMergeU.exe
+	cmd = \"C:/Users/RSt.Pie/scoop/apps/winmerge/current/WinMergeU.exe\" -e -u \"$LOCAL\" \"$REMOTE\"
+[i18n]
+	filesEncoding = Windows-1252
+[user]
+	name = Rick St Pierre
+	email = rst.pie@ra.rockwell.com
+[core]
+	editor = Notepad++ -multiInst -nosession
+	autocrlf = true
+[diff]
+	guitool = winmerge
+[merge]
+	tool = winmerge
+[mergetool]
+	keepBackup = false
+[pull]
+	rebase = false
+[fetch]
+	prune = false
+[rebase]
+	autoStash = false
+[credential]
+	helper = manager
+[http]
+	sslCAInfo = C:/Users/Rst.Pie/.gitssl/ca-bundle.crt
+[winUpdater]
+	recentlySeenVersion = 2.21.0.windows.1

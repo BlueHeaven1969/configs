@@ -1,0 +1,2875 @@
+cd c:\users\rst.pie\tools
+cd OpenOCD\
+cd bin
+dir
+openocd
+cd .. 
+cd ..
+exit
+exit
+exit
+greenshot
+set
+cd ..
+cd notepadplusplus
+dir
+cd current\
+mklink config.xml c:\Users\RSt.Pie\scoop\persist\notepadplusplus\config.xml
+exit
+exit
+dir
+ls
+exit
+exit
+exit
+cd ..
+cd notepadplusplus
+cd current\
+mklink config.xml c:\Users\RSt.Pie\scoop\persist\notepadplusplus\config.xml
+exit
+ls
+ls -l
+cd Projects\Source\CR50APP\
+dir
+which vim
+set
+\
+chcp
+chcp 16001
+chcp /?
+chcp 65001
+corey.py
+vim corey.py
+c:\Users\RSt.Pie\Tools\Python36-32\python.exe corey.py
+python corey.py
+which python
+python --version
+hxd
+py
+exit
+py
+pyw
+exit
+pyw
+shellexview
+shexview
+dir
+pip -V
+cd Downloads
+python configure_ratools.py 
+pip install -r requirements_2_7_14.txt 
+python -m pip install --upgrade pip
+UploadCipFile.py --help
+exit
+UploadCipFile.py --help
+cd projects\build
+cd cr50\vlatest
+dir
+cr50_builder.py --buildall
+cr50_builder.py --upload
+exit
+cd projects
+cd source
+cd cr50app
+exit
+cd Projects\Source\CR50APP
+cd .gin
+cd .git
+cd ..
+cd project
+exit
+cd Projects\source\cr50app
+exit
+cd projects\source\CR50APP
+exit
+cd Projects\source\cr50app
+exit
+cd projects\source\CR50APP
+cd projects\source\cr50app
+scoop search draw
+scoop install plantuml
+scoop update *
+plantuml
+cd CR50APP_CR50-INT\
+cd ..
+dir
+cd EDLT_3_3_1-work\
+which powershell
+exit
+exit
+exit
+exit
+exit
+python /?
+python -?
+cd Projects\Scripts\
+mv cr50_builder.py cr50_builder.py.old
+dir
+mklink cr50_builder.py ..\Source\CR50APP\bldScripts\cr50_builder.py 
+mklink /H cr50_builder.py ..\Source\CR50APP\bldScripts\cr50_builder.py
+mklink /?
+mklink /J CR50ToolBox ..\Source\CR50APP\CR50ToolBox
+mklink /J EIPScan ..\Source\CR50APP\tools\EipScan
+udpListen.py
+exit
+cd Projects\
+cd scripts
+dir
+exit
+cd projects\scripts
+dir
+exit
+cd projects/scripts
+exit
+cd projects\Scripts\
+ls
+exit
+cd Projects\Scripts\
+dir
+ls
+exit
+dir
+exit
+cd projects\scripts
+dir
+exit
+cd projects/scripts
+exit
+cd projects\Scripts\
+ls
+exit
+dir
+cd Projects\Scripts\
+ls
+udpListen.py --help
+udpListen.py -n
+udpListen.py
+mklink /h udpListen.py ..\Source\CR50APP\tools\udpListen.py 
+mklink /h neo_flash.py ..\Source\CR50APP\tools\neo_flash.py 
+neo_flash.py --help
+mklink
+erit
+exit
+erit
+exit
+scoop update
+cd projects
+ls
+cd Scripts\
+ls -l
+cd ..
+cd source
+cd cr50app
+ag --help
+ag [fF]ormat
+cr50_flash.py --help
+cd Projects\Testing\flash_4MB\
+neo_flash.py --help
+neo_flash.py --write -f 2M_fat.bin
+neo_flash.py --read -f 2M_fat.bin
+neo_flash.py --help
+neo_flash.py --write -f 2M_fat.bin
+neo_flash.py --read -f 2M_fat.bin
+cd Projects\Build\cr50_mainline\
+vim CR50_PATHS.bat 
+cd v1
+dir
+cr50_builder.py --corey --cmake --buildall
+cmake
+cmake --version
+cmake --help
+scoop uninstall cmake
+exit
+scoop uninstall cmake
+cd Projects\Source\EDLT_3_3_1-work\
+patches\ApplyPatchesMod.py --help
+patches\ApplyPatchesMod.py --singleGit
+exit
+ls
+cd Scripts\
+ls -l
+cd ..
+cd source
+cd cr50app
+ag --help
+ag [fF]ormat
+cr50_flash.py --help
+cd Projects\Testing\flash_4MB\
+neo_flash.py --help
+neo_flash.py --write -f 2M_fat.bin
+neo_flash.py --read -f 2M_fat.bin
+neo_flash.py --help
+neo_flash.py --write -f 2M_fat.bin
+neo_flash.py --read -f 2M_fat.bin
+cd Projects\Build\cr50_mainline\
+vim CR50_PATHS.bat 
+cd v1
+cr50_builder.py --corey --cmake --buildall
+cmake
+cmake --version
+cmake --help
+scoop uninstall cmake
+cd Projects\Build\cr50\vlatest
+dir
+dir *.nvs
+cflash.bat EipToolkit_vlatest.nvs 
+cr50_builder.py --builda
+cr50_builder.py --update
+cflash EipToolkit_vlatest.nvs 
+cr50_builder.py --build
+cr50_builder.py --buildall
+querycipfile.py --help
+querycipfile.py -i 0xc7
+querycipfile.py -i 0x100
+querycipfile.py -i 0x210
+querycipfile.py -i 0x200
+cr50_builder.py -u
+exit
+cmake
+cmake --version
+cmake --help
+scoop uninstall cmake
+cd Projects\Build\cr50\vlatest
+dir
+dir *.nvs
+cflash.bat EipToolkit_vlatest.nvs 
+cr50_builder.py --builda
+cr50_builder.py --update
+querycipfile.py --help
+querycipfile.py -i 0xc7
+querycipfile.py -i 0x100
+querycipfile.py -i 0x210
+querycipfile.py -i 0x200
+cd Projects\Build\cr50\Debug\
+cr50_builder.py --corey
+cr50_builder.py --buildall
+cd v1
+cr50_builder.py --corey --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --cmake --buildall
+cr50_builder.py -u
+cr50_builder.py --build
+
+cflash EipToolkit_vlatest.nvs 
+set
+"c:\Program Files (x86)\ControlFLASH\ControlFLASH.exe -?
+"c:\Program Files (x86)\ControlFLASH\ControlFLASH.exe" -?
+cr50_builder.py -b -f
+cr50_builder.py -f
+ScanCipObj.py
+QueryCipFile.py -i 0x208
+QueryCipFile.py -i 0x1dc
+cr50_builder.py -a -f
+QueryFileObj.py -i 199
+QueryCipFile.py -i 199
+QueryCipFile.py -i 200
+QueryCipFile.py -i 256
+QueryCipFile.py -i 458
+QueryCipFile.py -i 476
+QueryCipFile.py -i 512
+QueryCipFile.py -i 517
+QueryCipFile.py -i 518
+QueryCipFile.py -i 520
+QueryCipFile.py -i 521
+QueryCipFile.py -i 522
+QueryCipFile.py -i 528
+exit
+QueryCipFile.py -i 522
+QueryCipFile.py -i 528
+cd Projects\Build\Images\clearfs\
+dir
+neo_flash.py --write -f file_system.bin 
+cd ..
+cd cr50
+cd vlatest
+cr50_builder.py --buildall
+neo_flash.py --help
+cr50_builder.py --build
+cr50_builder.py -u
+exit
+set
+"c:\Program Files (x86)\ControlFLASH\ControlFLASH.exe -?
+"c:\Program Files (x86)\ControlFLASH\ControlFLASH.exe" -?
+cr50_builder.py -b -f
+cr50_builder.py -f
+ScanCipObj.py
+QueryCipFile.py -i 0x208
+QueryCipFile.py -i 0x1dc
+cr50_builder.py -a -f
+QueryFileObj.py -i 199
+QueryCipFile.py -i 199
+QueryCipFile.py -i 200
+QueryCipFile.py -i 256
+QueryCipFile.py -i 458
+QueryCipFile.py -i 476
+QueryCipFile.py -i 512
+QueryCipFile.py -i 517
+QueryCipFile.py -i 518
+QueryCipFile.py -i 520
+QueryCipFile.py -i 521
+QueryCipFile.py -i 522
+QueryCipFile.py -i 528
+cd Projects\Testing\poland\
+dir
+pip install autopep8
+record_parser.py -n record.bin
+record_parser.py --help
+record_parser.py record.bin
+exit
+QueryCipFile.py -i 512
+QueryCipFile.py -i 517
+QueryCipFile.py -i 518
+QueryCipFile.py -i 520
+QueryCipFile.py -i 521
+QueryCipFile.py -i 522
+QueryCipFile.py -i 528
+pip install autopep8
+record_parser.py -n record.bin
+record_parser.py --help
+record_parser.py record.bin
+pip install imagemounter
+cd Projects\Testing\poland\
+imount
+imount filesystem.bin 
+cd ..\..
+cd tools
+cd FATtools\
+ipython
+pip install ipython
+msbuild
+refreshenv
+cd Projects\Source\cr50app\cr50toolbox
+dir
+MENU.py
+cd ..
+cd Projects\Source\emFile-winbuild\
+msbuild /p:PlatformToolset=v141 /property:GenerateFullPaths=true /t:build
+exit
+cd projects\Source\emFile-winbuild\
+msbuild /p:PlatformToolset=v141 /property:GenerateFullPaths=true /t:build
+exit
+exit
+QueryCipFile.py -i 512
+QueryCipFile.py -i 517
+QueryCipFile.py -i 518
+QueryCipFile.py -i 520
+QueryCipFile.py -i 521
+QueryCipFile.py -i 522
+QueryCipFile.py -i 528
+cd Projects\Testing\poland\
+pip install autopep8
+record_parser.py -n record.bin
+record_parser.py --help
+record_parser.py record.bin
+cd Projects\Build\cr50_mainline\
+cd v1
+cr50_builder.py --corey --cmake --buildall
+cr50_builder.py --cmake --buildall
+cd cr50_lcdtest
+dir
+cr50_builder.py --build
+cr50_builder.py --build --cflash
+cd ..
+cd cr50
+cd vlatest
+cr50_builder.py -u
+cr50_builder.py --cmake --buildall --cflash
+exit
+cr50_builder.py --corey --cmake --buildall
+cr50_builder.py --cmake --buildall
+cd cr50_lcdtest
+cr50_builder.py --build
+cr50_builder.py --build --cflash
+cd vlatest
+cr50_builder.py --cmake --buildall --cflash
+msbuild
+cd Projects\Source\emFile-winbuild\
+msbuild /p:PlatformToolset=v141 /property:GenerateFullPaths=true /t:build
+cl
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /verbosity:d /t:build
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /verbosity:d
+ls
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /v:d /t:Debug
+set
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /v:d /t:Build
+msbuild /v:d /t:Build
+msbuild /p:PlatformToolset=v141 /v:d /t:Build
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /fileLogger
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /distributedFileLogger
+msbuild /
+msbuild /
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /nr:true
+cd ..
+cd cr50
+cd cr50app
+dir
+cd CR50ToolBox\
+menu.py
+cd ..\..\..\Build\cr50\vlatest
+cr50_builder.py --buildall
+record_parser.py
+cr50_builder.py -u
+QueryCipFile.py -i 0x1ca
+QueryCipFile.py -i 0x1dc
+QueryCipFile.py -i 0x100
+QueryCipFile.py -i 0x101
+exit
+cr50_builder.py --corey --cmake --buildall
+cr50_builder.py --cmake --buildall
+cd cr50_lcdtest
+dir
+cr50_builder.py --build
+cr50_builder.py --build --cflash
+cd ..
+cd cr50
+cd vlatest
+cr50_builder.py -u
+cr50_builder.py --cmake --buildall --cflash
+exit
+cr50_builder.py --corey --cmake --buildall
+cr50_builder.py --cmake --buildall
+cd cr50_lcdtest
+cr50_builder.py --build
+cr50_builder.py --build --cflash
+cd vlatest
+cr50_builder.py --cmake --buildall --cflash
+msbuild
+msbuild /p:PlatformToolset=v141 /property:GenerateFullPaths=true /t:build
+cl
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /verbosity:d /t:build
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /verbosity:d
+ls
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /v:d /t:Debug
+set
+msbuild /p:PlatformToolset=v141;GenerateFullPaths=true /v:d /t:Build
+msbuild /v:d /t:Build
+msbuild /p:PlatformToolset=v141 /v:d /t:Build
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /fileLogger
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /distributedFileLogger
+msbuild /
+msbuild /
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /nr:true
+cd cr50
+cd cr50app
+cd CR50ToolBox\
+menu.py
+cd ..\..\..\Build\cr50\vlatest
+cr50_builder.py --buildall
+record_parser.py
+QueryCipFile.py -i 0x1dc
+QueryCipFile.py -i 0x100
+QueryCipFile.py -i 0x101
+cd Projects\Source\emFile-winbuild\
+MSBuild.exe /p:PlatformToolset=v141;GenerateFullPaths=true /t:build
+MSBuild.exe /p:PlatformToolset=v141
+MSBuild.exe /p:PlatformToolset=v141;configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vxcproj /p:PlatformToolset=v141;configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vcxproj /p:PlatformToolset=v141;configuration=debug /p:platform=win32
+
+MSBuild.exe FS_Start.vxcproj /p:PlatformToolset=v141 /p:configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vcxproj /p:PlatformToolset=v141 /p:configuration=debug /p:platform=win32
+msbuild /?
+MSBuild.exe FS_Start.vcxproj /p:PlatformToolset=v141 /p:configuration=debug /p:platform=win32 /v:d
+cmake
+cmake .
+MSBuild.exe FS_Start.vcxproj /p:configuration=debug /p:platform=win32 /v:d
+MSBuild.exe FS_Start.vcxproj
+MSBuild.exe FS_Start.vcxproj /v:d
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat"
+devenv
+call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat"
+MSBuild.exe FS_Start.vcxproj /v:n
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:QUEUE /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+MSBuild.exe FS_Start.vcxproj /?
+MSBuild.exe FS_Start.vcxproj /t:Rebuild
+MSBuild.exe FS_Start.vcxproj /t:Debug
+MSBuild.exe FS_Start.vcxproj 
+MSBuild.exe FS_Start.vcxproj /fileLogger
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\bin\Tracker.exe" /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.tlog /r "C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_API.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_CHECKDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DIRENTRY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DISKINFO.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_FORMAT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_FORMATSD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_IOCT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_MISC.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_MOVE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_OPEN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_READ.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_RENAME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_SETENDOFFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_VOLUMELABEL.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_WRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ADDSPACEHEX.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ASSIGNCACHE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ATTRIB.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHEALL.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHEMAN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHERW.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHERWQUOTA.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CLIB.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CONFIGIO.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CONFIGRAMDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_COPYFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CORE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CRC16.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CREATEDIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_DIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_DIROLD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ERRORNO2TEXT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ERROROUT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FORMAT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FREAD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FWRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETFILEPOS.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETFILESIZE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETNUMFILES.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETNUMOPENFILES.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOG.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOGBLOCK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOGVOLUME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MEMCPY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MISC.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MOVE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_OS_INTERFACE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_PARTITION.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_PRNG.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_READ.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_RENAME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_SETENDOFFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_SETFILEPOS.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_START.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_STORAGE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_TIME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_TRUNCATE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_UNMOUNT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_VERIFY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_VOLUME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_WARN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_WRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_X_WIN32.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS__ECC256.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\MAIN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\RAMDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\SEGGER_SNPRINTF.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\SIMULATION.RES|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\WINDRIVE.OBJ" /b MSBuildConsole_CancelEventbaa1a5e2b5a64c67a1bf9e3b4de255be  /c "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE /OUT:".\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE /OUT:".\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+cd scripts
+dir
+QueryCipFile.py -i 256
+QueryCipFile.py -i 512
+scancipfile.py
+ipython
+arm-none-eabi.gdb.exe
+arm-none-eabi-gdb.exe
+QueryCipFile.py -i 0x1ca
+cd ..
+cd build\cr50\vlatest
+cr50_builder.py --buildall -u
+cr50_builder.py -u
+ScanCipFile.py
+exit
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /fileLogger
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /distributedFileLogger
+msbuild /
+msbuild /
+msbuild /p:PlatformToolset=v141 /v:d /t:Build /nr:true
+cd cr50
+cd cr50app
+cd CR50ToolBox\
+menu.py
+cd ..\..\..\Build\cr50\vlatest
+cr50_builder.py --buildall
+record_parser.py
+QueryCipFile.py -i 0x1dc
+QueryCipFile.py -i 0x100
+QueryCipFile.py -i 0x101
+cd Projects\Source\emFile-winbuild\
+MSBuild.exe /p:PlatformToolset=v141;GenerateFullPaths=true /t:build
+MSBuild.exe /p:PlatformToolset=v141
+MSBuild.exe /p:PlatformToolset=v141;configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vxcproj /p:PlatformToolset=v141;configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vcxproj /p:PlatformToolset=v141;configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vxcproj /p:PlatformToolset=v141 /p:configuration=debug /p:platform=win32
+MSBuild.exe FS_Start.vcxproj /p:PlatformToolset=v141 /p:configuration=debug /p:platform=win32
+msbuild /?
+MSBuild.exe FS_Start.vcxproj /p:PlatformToolset=v141 /p:configuration=debug /p:platform=win32 /v:d
+cmake
+cmake .
+MSBuild.exe FS_Start.vcxproj /p:configuration=debug /p:platform=win32 /v:d
+MSBuild.exe FS_Start.vcxproj
+MSBuild.exe FS_Start.vcxproj /v:d
+C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat"
+devenv
+call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat"
+MSBuild.exe FS_Start.vcxproj /v:n
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:QUEUE /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+MSBuild.exe FS_Start.vcxproj /?
+MSBuild.exe FS_Start.vcxproj /t:Rebuild
+MSBuild.exe FS_Start.vcxproj /t:Debug
+MSBuild.exe FS_Start.vcxproj 
+MSBuild.exe FS_Start.vcxproj /fileLogger
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\bin\Tracker.exe" /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.tlog /r "C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_API.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_CHECKDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DIRENTRY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DISKINFO.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_FORMAT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_FORMATSD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_IOCT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_MISC.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_MOVE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_OPEN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_READ.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_RENAME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_SETENDOFFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_VOLUMELABEL.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_WRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ADDSPACEHEX.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ASSIGNCACHE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ATTRIB.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHEALL.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHEMAN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHERW.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHERWQUOTA.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CLIB.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CONFIGIO.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CONFIGRAMDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_COPYFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CORE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CRC16.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CREATEDIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_DIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_DIROLD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ERRORNO2TEXT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ERROROUT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FORMAT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FREAD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FWRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETFILEPOS.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETFILESIZE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETNUMFILES.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETNUMOPENFILES.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOG.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOGBLOCK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOGVOLUME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MEMCPY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MISC.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MOVE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_OS_INTERFACE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_PARTITION.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_PRNG.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_READ.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_RENAME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_SETENDOFFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_SETFILEPOS.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_START.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_STORAGE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_TIME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_TRUNCATE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_UNMOUNT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_VERIFY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_VOLUME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_WARN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_WRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_X_WIN32.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS__ECC256.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\MAIN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\RAMDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\SEGGER_SNPRINTF.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\SIMULATION.RES|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\WINDRIVE.OBJ" /b MSBuildConsole_CancelEventbaa1a5e2b5a64c67a1bf9e3b4de255be  /c "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE /OUT:".\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE /OUT:".\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+cd scripts
+QueryCipFile.py -i 256
+QueryCipFile.py -i 512
+scancipfile.py
+arm-none-eabi.gdb.exe
+arm-none-eabi-gdb.exe
+QueryCipFile.py -i 0x1ca
+cd build\cr50\vlatest
+cr50_builder.py --buildall -u
+cr50_builder.py -u
+ScanCipFile.py
+cd Projects\Build\cr50\debug
+dir *.pem
+ipython
+tlsConnect2.py 
+cipspec-config --channel=CR50 --pull --obj CertificateManagement --protect-locals
+cd ..
+cd testing
+mkdir tls
+cd tls
+cipsec-config --channel=CR50 --pull --obj CertificateManagement --protect-locals
+cd c:\RAEngineering\
+cipsec-config --channel=CR50 --pull --obj ssl > ssl.yaml
+type ssl.yaml
+cp c:\Users\RSt.Pie\Projects\Testing\tls\CACert.pem .
+cipping --channel=EDLT_SECURE
+cipping --channel=CR50
+cipping --version
+cipping -v
+pip --help
+pip list --help
+pip list --outdated
+pip install -U ratools-cip-security
+python -m pip install --upgrade pip
+python -m pip install --upgrade ratools-cip-objects
+python -m pip install --upgrade ratools-cip-objects-ra
+python -m pip install --upgrade ratools-cip-objects-ra-controller ratools-cip-objects-ra-io-map
+python -m pip list -o
+ratools --version
+vim ssl.yaml
+cip_security --version
+vi channel_dict.yaml
+vi ssl.yaml 
+vi channel_dict.yaml 
+vi ssl.yaml
+cipping --help
+vim defaultconfig.py
+wget https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py
+wget
+curl
+curl https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py
+curl --help
+curl -k https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py
+curl -k https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py > configure_ratools.py
+curl -k https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/requirements_2_7_14.txt > requirements_2_7_14.txt
+vim requirements_2_7_14.txt 
+pip install -r requirements_2_7_14.txt 
+python configure_ratools.py 
+pip list -o
+set
+python -m pip install --upgrade --no-deps ratools
+python -m pip install --upgrade ratools
+vim 
+dir
+cipping
+ls
+cipping --channel=?
+cipping --channel=CR50_STD
+vim channel_dict.yaml 
+cipping --channel=CR50_TLS
+exit
+call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars32.bat"
+MSBuild.exe FS_Start.vcxproj /v:n
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:QUEUE /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+MSBuild.exe FS_Start.vcxproj /?
+MSBuild.exe FS_Start.vcxproj /t:Rebuild
+MSBuild.exe FS_Start.vcxproj /t:Debug
+MSBuild.exe FS_Start.vcxproj 
+MSBuild.exe FS_Start.vcxproj /fileLogger
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\bin\Tracker.exe" /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.tlog /r "C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_API.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_CHECKDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DIRENTRY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_DISKINFO.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_FORMAT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_FORMATSD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_IOCT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_MISC.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_MOVE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_OPEN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_READ.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_RENAME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_SETENDOFFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_VOLUMELABEL.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FAT_WRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ADDSPACEHEX.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ASSIGNCACHE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ATTRIB.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHEALL.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHEMAN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHERW.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CACHERWQUOTA.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CLIB.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CONFIGIO.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CONFIGRAMDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_COPYFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CORE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CRC16.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_CREATEDIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_DIR.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_DIROLD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ERRORNO2TEXT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_ERROROUT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FORMAT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FREAD.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_FWRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETFILEPOS.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETFILESIZE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETNUMFILES.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_GETNUMOPENFILES.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOG.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOGBLOCK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_LOGVOLUME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MEMCPY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MISC.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_MOVE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_OS_INTERFACE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_PARTITION.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_PRNG.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_READ.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_RENAME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_SETENDOFFILE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_SETFILEPOS.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_START.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_STORAGE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_TIME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_TRUNCATE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_UNMOUNT.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_VERIFY.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_VOLUME.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_WARN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_WRITE.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS_X_WIN32.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\FS__ECC256.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\MAIN.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\RAMDISK.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\SEGGER_SNPRINTF.OBJ|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\SIMULATION.RES|C:\USERS\RST.PIE\PROJECTS\SOURCE\EMFILE-WINBUILD\DEBUG\WINDRIVE.OBJ" /b MSBuildConsole_CancelEventbaa1a5e2b5a64c67a1bf9e3b4de255be  /c "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE /OUT:".\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe"  /ERRORREPORT:QUEUE /OUT:".\Debug\FS_Start.exe" /NOLOGO odbc32.lib odbccp32.lib winmm.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res
+cd scripts
+QueryCipFile.py -i 256
+QueryCipFile.py -i 512
+scancipfile.py
+arm-none-eabi.gdb.exe
+arm-none-eabi-gdb.exe
+QueryCipFile.py -i 0x1ca
+cd build\cr50\vlatest
+cr50_builder.py --buildall -u
+ScanCipFile.py
+cd Projects\Build\cr50\debug
+tlsConnect2.py 
+cipspec-config --channel=CR50 --pull --obj CertificateManagement --protect-locals
+cd testing
+mkdir tls
+cd tls
+cipsec-config --channel=CR50 --pull --obj CertificateManagement --protect-locals
+cipsec-config --channel=CR50 --pull --obj ssl > ssl.yaml
+type ssl.yaml
+cp c:\Users\RSt.Pie\Projects\Testing\tls\CACert.pem .
+cipping --channel=EDLT_SECURE
+cipping --channel=CR50
+cipping --version
+cipping -v
+pip --help
+pip list --help
+pip list --outdated
+pip install -U ratools-cip-security
+python -m pip install --upgrade pip
+python -m pip install --upgrade ratools-cip-objects
+python -m pip install --upgrade ratools-cip-objects-ra
+python -m pip install --upgrade ratools-cip-objects-ra-controller ratools-cip-objects-ra-io-map
+python -m pip list -o
+ratools --version
+vim ssl.yaml
+cip_security --version
+vi channel_dict.yaml
+vi ssl.yaml 
+vi channel_dict.yaml 
+vi ssl.yaml
+cipping --help
+vim defaultconfig.py
+wget https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py
+wget
+curl
+curl https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py
+curl --help
+curl -k https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py
+curl -k https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/configure_ratools.py > configure_ratools.py
+curl -k https://ratools.readthedocs.ra.rockwell.com/en/latest/_downloads/requirements_2_7_14.txt > requirements_2_7_14.txt
+vim requirements_2_7_14.txt 
+pip install -r requirements_2_7_14.txt 
+python configure_ratools.py 
+set
+python -m pip install --upgrade --no-deps ratools
+python -m pip install --upgrade ratools
+vim 
+cipping
+cipping --channel=CR50_STD
+vim channel_dict.yaml 
+cd c:\RAEngineering\
+cipsec-config -c CR50 --pull
+cipsec-config -c CR50_STD --pull
+pip list -o
+cipping --channel=?
+cipping --channel=CR50_TLS
+cipsec-config --channel=CR50 --pull > device.yaml
+cipsec-config --channel=CR50_STD --pull > device.yaml
+ScanCipObj.py -c CR50_CONN
+ScanCipObj.py --help
+ScanCipObj.py -c CR50_TLS_connected
+ScanCipObj.py -c CR50_TLS
+ScanCipObj.py -c CR50_TLS_noenc_connected
+ScanCipObj.py -c CR50_TLS_noenc
+ipython
+cd c:\Users\RSt.Pie\Projects\Source\cr50app\src\securityapps\certs\
+openssl pkcs8 -nocrpyt -in devKeyEc.der -informat DER -out devDeyEc2.pem -outformat PEM
+openssl pkcs8 -nocrypt -in devKeyEc.der -informat DER -out devDeyEc2.pem -outformat PEM
+openssl -help
+openssl help
+openssl pkcs8 help
+openssl pkcs8 -help
+openssl pkcs8 -nocrypt -in devKeyEc.der -inform DER -out devDeyEc2.pem -outform PEM
+openssl pkcs8 -in devKeyEc.der -inform DER -out devDeyEc2.pem -outform PEM
+cd .. /../../..
+cd ../../..
+cr50_builder.py --cmake --buildall
+openssl
+cd source\CR50APP\src\securityapps\certs\
+openssl pkcs8 -in devKeyRsa.der -inform DER -out test.pem -outform PEM
+cd src
+cd project\tlskey
+cd test\
+openssl req -config openssl-ca.cnf -new -key caKeyEc.pem -sha256 -out caCertEc.csr -outform PEM -batch -subj "/C=US/ST=Massachusetts/L=RA/O=CR50/OU=CR50 Development/CN=CR50 Testing key"
+openssl ca -notext -config -openssl-ca.cnf -selfsign -keyfile caKeyEc.pem -startdate 500101000000Z -enddate 180501000000Z -out caCertEc.pem -in caCertEc.csr
+openssl ca -notext -config openssl-ca.cnf -selfsign -keyfile caKeyEc.pem -startdate 500101000000Z -enddate 1805
+openssl req -config openssl-ca.cnf -new -key caKeyEc.pem -sha256 -out caCertEc.csr -outform PEM
+del *.*
+openssl ca -notext -selfsign -keyfile caKeyEc.pem -startdate 180101000000Z -enddate 180501000000Z -out caCertEc.pem -in caCertEc.csr
+echo '01' >serial
+openssl ca -notext -config openssl.cnf -selfsign -keyfile caKeyEc.pem -startdate 180101000000Z -enddate 180501000000Z -out caCertEc.pem -in caCertEc.csr
+del serial
+del index.txt 
+del *.csr
+del *.pem
+mkdir cr50_ca
+vim openssl.cnf
+mkdir cr50_ca\certs
+mkdir cr50_ca\private
+mkdir cr50_cfl
+rmdir cr50_cfl
+mkdir newcerts
+mkdir crl
+cp ..\openssl.cnf ./openssl.cr50.cnf
+touch index.txt
+touch serial
+openssl ecparam -genkey -name prime256v1 -out caKeyEc.pem
+openssl req -new -key caKeyEc.pem -sha256 -out caCertEc.csr -outform PEM
+rm ca*
+vim openssl.cr50.cnf 
+rmdir certs
+rmdir crl
+rm index.txt
+rmdir newcerts
+rmdir private
+rm serial
+ls
+openssl ecparam -genkey -name prime256v1 -out ca.key
+openssl req -x509 -new -SHA256 -nodes -key ca.key -days 3650 -out ca.crt
+openssl ecparam -genkey -name prime256v1 -out tls.key
+openssl -req -new -SHA256 -key tls.key -nodes -out server.csr
+openssl req -new -SHA256 -key tls.key -nodes -out server.csr
+openssl x509 -req -SHA256 -days 3560 -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out tls.crt
+mv server.csr tls.csr
+openssl x509 -in tls.crt -out tlsCert.pem -outform PEM
+cd cr50_ca\
+openssl x509 -in ca.crt -out caCert.pem -outform PEM
+openssl x509 -outform der -in tls.key -out tlsKey.der
+openssl ecparam -help
+openssl ecparam -outform der -in tls.key -out tlsKey.der
+openssl ecparam -inform pem -outform der -in tls.key -out tlsKey.der
+openssl ecparam -listcurves
+openssl ecparam -list_curves
+cd cr50_ca
+openssl ecparam -inform pem -outform der -in ca.key -out caKey.der
+cd ../../../..
+cd ../..
+cd build
+cd cr50
+cd debug
+dir
+vim CR50_build_with_cmakeVLDebug.bat 
+CR50_build_with_cmakeVLDebug.bat 
+dir *.der
+dir *.pem
+cd ..
+cd vlatest
+CR50_build_with_cmakeVLatest.bat 
+cr50_builder.py --buildall
+cr50_builder.py -u
+cr50_builder.py --cmake --buildall -u
+ScanCipObj.py
+exit
+rmdir crl
+rm index.txt
+rmdir newcerts
+rmdir private
+rm serial
+ls
+openssl ecparam -genkey -name prime256v1 -out ca.key
+openssl req -x509 -new -SHA256 -nodes -key ca.key -days 3650 -out ca.crt
+openssl ecparam -genkey -name prime256v1 -out tls.key
+openssl -req -new -SHA256 -key tls.key -nodes -out server.csr
+openssl req -new -SHA256 -key tls.key -nodes -out server.csr
+openssl x509 -req -SHA256 -days 3560 -in server.csr -CA ca.crt -CAkey ca.key -CAcreateserial -out tls.crt
+mv server.csr tls.csr
+openssl x509 -in tls.crt -out tlsCert.pem -outform PEM
+cd cr50_ca\
+openssl x509 -in ca.crt -out caCert.pem -outform PEM
+openssl x509 -outform der -in tls.key -out tlsKey.der
+openssl ecparam -help
+openssl ecparam -outform der -in tls.key -out tlsKey.der
+openssl ecparam -inform pem -outform der -in tls.key -out tlsKey.der
+openssl ecparam -listcurves
+openssl ecparam -list_curves
+cd cr50_ca
+openssl ecparam -inform pem -outform der -in ca.key -out caKey.der
+cd ../../../..
+cd ../..
+cd build
+cd cr50
+vim CR50_build_with_cmakeVLDebug.bat 
+CR50_build_with_cmakeVLDebug.bat 
+dir *.der
+dir *.pem
+cr50_builder.py --buildall
+ScanCipObj.py
+cd projects
+cd build\cr50
+more Output
+type Output
+cd Debug
+set /p BUILDV=<Output
+set
+[%BUILDV%]
+[%BUILDV%]==[]
+vim ..\CR50_PATHS.bat 
+dir ..
+cr50_builder.py
+cr50_builder.py --help
+ IF NOT DEFINED PROJ_DIR GOTO projNotFound IF NOT EXIST %PROJ_DIR% (    :projNotFound      ECHO "Couldn't find CR50 Project dir: %PROJ_DIR%"      GOTO options )
+CR50_build_with_cmakeVLatest.bat 
+ IF NOT DEFINED PROJ_DIR GOTO projNotFound IF NOT EXIST %PROJ_DIR% (    :projNotFound      ECHO "Couldn't find CR50 Project dir: %PROJ_DIR%"      GOTO options )
+dir
+cr50_builder.py --cmake
+set /?
+cd v1
+cd debug
+cd ..
+cd vlatest
+cr50_builder.py --cmake --buildall
+cr50_builder.py -u
+cr50_builder.py --cmake --buildall -u
+scancipobj.py --help
+cr50_builder.py --build --cflash
+scancipobj.py -c CR50_connected
+scancipobj.py -c CR50_TLS_connected
+scancipobj.py -c CR50_TLS_noenc_connected
+exit
+scancipobj.py -c CR50_TLS_noenc_connected
+exit
+cd Downloads\STLinkReflash_170807\
+cmake --version
+dir
+STLinkReflash.exe 
+ls
+dir
+df
+exit
+df
+cd Projects\Build\cr50\vlatest
+dir
+cr50_builder.py --cmake --buildall
+cr50_builder.py --build
+cr50_builder.py -u
+ag
+deviceioview
+scoop list
+scoop update
+exit
+ag
+deviceioview
+scoop list
+scoop update
+exit
+cd projects
+cd testing
+cd configfiles
+UploadCipFile.py --help
+UploadCipFile.py -i 0x200 -f neo.cfg
+UploadCipFile.py -i 0x210 -f cr50SafeNew.cfg
+cd ..
+cd Source\cr50app
+cd cr50toolbox
+dir
+menu.py
+cd Projects\Source\CR50APP\CR50ToolBox\
+menu.py
+exit
+rsync
+c:\users\rst.pie\tools.grsync\bin\rsync.exe
+c:\users\rst.pie\tools\Grsync\bin\rsync.exe 
+set
+run_rsync.cmd 
+exit
+exit
+exit
+exit
+cd projects
+cd Source\ST-Flasher\EWARM\ST-Flasher\Exe\
+cd "c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe
+cd "c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe"
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe" ST-Flasher.stldr --all
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe"
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe" --code ST-Flasher.stldr 
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe" --code ST-Flasher.stldr -o elfdump.txt
+[%BUILDV%]==[]
+vim ..\CR50_PATHS.bat 
+dir ..
+cr50_builder.py
+cr50_builder.py --help
+ IF NOT DEFINED PROJ_DIR GOTO projNotFound IF NOT EXIST %PROJ_DIR% (    :projNotFound      ECHO "Couldn't find CR50 Project dir: %PROJ_DIR%"      GOTO options )
+CR50_build_with_cmakeVLatest.bat 
+ IF NOT DEFINED PROJ_DIR GOTO projNotFound IF NOT EXIST %PROJ_DIR% (    :projNotFound      ECHO "Couldn't find CR50 Project dir: %PROJ_DIR%"      GOTO options )
+dir
+cr50_builder.py --cmake
+set /?
+cd v1
+cd debug
+cd ..
+cd vlatest
+cr50_builder.py --cmake --buildall
+cr50_builder.py -u
+cr50_builder.py --cmake --buildall -u
+scancipobj.py --help
+cr50_builder.py --build --cflash
+scancipobj.py -c CR50_connected
+scancipobj.py -c CR50_TLS_connected
+scancipobj.py -c CR50_TLS_noenc_connected
+exit
+scancipobj.py -c CR50_TLS_noenc_connected
+exit
+cd Downloads\STLinkReflash_170807\
+cmake --version
+dir
+STLinkReflash.exe 
+dir
+df
+exit
+df
+cd Projects\Build\cr50\vlatest
+dir
+cr50_builder.py --cmake --buildall
+cr50_builder.py --build
+cr50_builder.py -u
+ag
+deviceioview
+scoop list
+scoop update
+exit
+ag
+deviceioview
+scoop list
+scoop update
+exit
+cd projects
+cd configfiles
+UploadCipFile.py --help
+UploadCipFile.py -i 0x200 -f neo.cfg
+UploadCipFile.py -i 0x210 -f cr50SafeNew.cfg
+cd Source\cr50app
+cd cr50toolbox
+menu.py
+cd Projects\Source\CR50APP\CR50ToolBox\
+menu.py
+exit
+rsync
+c:\users\rst.pie\tools.grsync\bin\rsync.exe
+c:\users\rst.pie\tools\Grsync\bin\rsync.exe 
+run_rsync.cmd 
+exit
+exit
+exit
+cd projects
+cd Source\ST-Flasher\EWARM\ST-Flasher\Exe\
+cd "c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe
+cd "c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe"
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe" ST-Flasher.stldr --all
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe"
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe" --code ST-Flasher.stldr 
+"c:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\arm\bin\ielfdumparm.exe" --code ST-Flasher.stldr -o elfdump.txt
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" 
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usbx
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usb0
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usb2
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usb3
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usb4
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usb5
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=usb1
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=USB1
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=USB0
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=JTAG
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=SWD
+cd Projects\Build\
+cd images
+cd baseout
+ls
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=SWD -el ST_Loader.stldr
+"c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe" -c port=SWD -el ST-Flasher.stldr
+cd Testing\
+cd full
+
+writeimage
+writeimage random.bin
+writeimage mfgimage.bin > output.txt
+writeimage mfgimage.bin 1
+������������������������
+readimage .\outimage.bin 1
+"%ProgramFiles%\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe"
+readimage .\outimage.ldr 1
+readimage outimage.ldr
+readimage outimage.bin 1
+readimage outimage.ldr 1
+readimage outimage.hex 1
+readimage ..
+readimage ..\Full\out.bin 1
+readimage out.bin 1
+crc
+crc32
+scoop search diff
+scoop install vbindiff
+scoop status
+scoop update *
+vbindiff
+writeimage mfgimage.bin
+vbindiff mfgimage.bin out.bin
+fciv
+certutil
+certutil -hashfile mfgimage.bin MD5
+certutil -hashfile out.bin MD5
+scoop search compare
+scoop search sha
+scoop install shasum
+shasum mfgimage.bin
+shasum mfgimage.bin > mfgimage.sha
+shasum --check out.bin
+shasum --check 
+shasum --check mfgimage.sha
+mkdir temp
+deltree temp
+rmtree temp
+shasum mfgimage.bin > temp\flash.sha
+copy out.bin temp\mfgimage.bin
+shasum --check temp\flash.sha
+shasum
+shasum -h
+shasum -p mfgimage.bin
+shasum -p mfgimage.bin > temp\flash.sha
+shasum -c temp\flash.sha
+del mfgimage.sha
+deltree
+del /?
+del /S temp
+rmdir temp
+eraseall
+readdimage empty.bin
+readimage empty.bin
+scoop search hash
+hashcat
+scoop install dirhash
+dirhash mfgimage.bin
+dirhash 
+dirhash mfgimage.bin -t mfgimage.out -overwrite
+writeverify.cmd test.bin
+cd ..\..\..
+cd Source\ST-Flasher\Scripts\
+flash.py --help
+flash.py
+set
+flash.py -h
+flash.py -v randtest.bin
+cd Scripts
+cd Install
+cd ..
+cd testing
+cd flashwriter\
+dir
+vbindiff r2.bin c:\users\RSt.Pie\AppData\Local\Temp\readfile.bin 
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin
+"%ProgramFiles%\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin > out.txt
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r2.bin > out.txt
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r2.bin
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r3.bin
+exit
+cd ..\..\..
+cd Source\ST-Flasher\Scripts\
+flash.py --help
+flash.py
+set
+flash.py -h
+flash.py -v randtest.bin
+cd Scripts
+cd Install
+cd ..
+vbindiff r2.bin c:\users\RSt.Pie\AppData\Local\Temp\readfile.bin 
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin
+"%ProgramFiles%\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin > out.txt
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r2.bin > out.txt
+cd projects
+cd testing
+cd flashwriter\
+dir
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r2.bin
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -h
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -s 24 r2.bin
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin > test4M.txt
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v mfgimage.bin
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -s 1 r3.bin
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r3.bin
+exit
+cd flashwriter\
+vbindiff r2.bin c:\users\RSt.Pie\AppData\Local\Temp\readfile.bin 
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin
+"%ProgramFiles%\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_Programmer_CLI.exe
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v -d r2.bin > out.txt
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r2.bin > out.txt
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r2.bin
+python c:\Users\RSt.Pie\Projects\Source\ST-Flasher\Install\flash.py -v r3.bin
+cd Projects\Build\cr50_latest
+cd Projects\Build\cr50_mainline\v1
+dir
+CR50_build.py --corey --cmake --buildall
+CR50_builder.py --corey --cmake --buildall
+vim ..\CR50_PATHS.bat 
+cd ..
+cd vlatest
+CR50_builder.py --cmake --buildall
+CR50_builder.py -u
+exit
+CR50_builder.py -u
+cd Projects\Scripts\
+python neo_flash.py --help
+exit
+ls
+exit
+cd Projects\Build\cr50_latest
+cd Projects\Build\cr50_mainline\v1
+CR50_build.py --corey --cmake --buildall
+CR50_builder.py --corey --cmake --buildall
+vim ..\CR50_PATHS.bat 
+cd vlatest
+CR50_builder.py --cmake --buildall
+CR50_builder.py -u
+exit
+CR50_builder.py -u
+cd Projects\Scripts\
+python neo_flash.py --help
+exit
+elf
+ielftool
+cd "c:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\ExternalLoader\
+ielfdumparm --code AT45DQ161-12MHz.stldr 
+ielfdumparm 
+ielfdumparm -s name,SectorErase
+ielfdumparm -s name,SectorErase AT45DQ161-12MHz.stldr 
+ielfdumparm -s name
+ielfdumparm -s name AT45DQ161-12MHz.stldr 
+ielfdumparm -s name[SectorErase] AT45DQ161-12MHz.stldr 
+arm-none-eabi-objdump.exe 
+arm-none-eabi-objdump.exe  AT45DQ161-12MHz.stldr 
+arm-none-eabi-readelf.exe 
+arm-none-eabi-readelf.exe -l AT45DQ161-12MHz.stldr 
+arm-none-eabi-readelf.exe -h AT45DQ161-12MHz.stldr 
+ls
+arm-none-eabi-readelf.exe -s N25Q256A_STM32L476G-EVAL_Cube.stldr
+arm-none-eabi-readelf.exe -s AT45DQ161-12MHz.stldr 
+cd ~\projects
+cd ~
+cd
+cd %HOME%
+cd projects
+cd testing
+cd flashwriter
+cd source
+cd ST-Flasher\Install\
+flash.py --help
+flash.py -l -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r3.bin
+dir
+flash.py -v -l c:\users\RSt.Pie\Projects\Testing\flashwriter\r_4m.bin
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd ..
+cd emFile-winbuild\
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd projects
+cd testing
+cd flashwriter
+cd source
+cd ST-Flasher\Install\
+flash.py --help
+flash.py -l -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r3.bin
+flash.py -v -l c:\users\RSt.Pie\Projects\Testing\flashwriter\r_4m.bin
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd emFile-winbuild\
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd Projects\Source\NeoFDK\Utilities\FsGenerator\
+NeoScripts\PreBuildScript.cmd 
+NeoScripts\PreBuildScript.cmd .
+pip install setuptools
+cd %HOME%
+cd Projects\Build\cr50\Debug\
+dir
+cr50_builder.py --corey --cmake --buildall
+cd v1
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build
+cr50_builder.py --build --cflash
+exit
+cr50_builder.py --cmake --buildall
+cr50_builder.py --build --cflash
+exit
+cd Build\
+cd cr50
+cd v1
+chcp 65001
+cd ..
+cd vlatest
+cr50_builder.py --build
+cd
+cd %HOME%
+cd projects
+cd testing
+cd flashwriter
+cd source
+cd ST-Flasher\Install\
+flash.py --help
+flash.py -l -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r3.bin
+dir
+flash.py -v -l c:\users\RSt.Pie\Projects\Testing\flashwriter\r_4m.bin
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd ..
+cd emFile-winbuild\
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd projects
+cd testing
+cd flashwriter
+cd source
+cd ST-Flasher\Install\
+flash.py --help
+flash.py -l -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r2.bin
+flash.py -v c:\users\RSt.Pie\Projects\Testing\flashwriter\r3.bin
+flash.py -v -l c:\users\RSt.Pie\Projects\Testing\flashwriter\r_4m.bin
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd emFile-winbuild\
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+"C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe" /ERRORREPORT:PROMPT /OUT:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.exe" /VERBOSE /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG:FULL /PDB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RSt.Pie\Projects\Source\emFile-winbuild\Debug\FS_Start.lib" /MACHINE:X86 /SAFESEH Debug\Simulation.res          Debug\FS_Start.obj          Debug\main.obj          Debug\FS_ConfigIO.obj          Debug\FS_ConfigRamDisk.obj          Debug\FAT_API.obj          Debug\FAT_CheckDisk.obj          Debug\FAT_Dir.obj          Debug\FAT_DirEntry.obj          Debug\FAT_DiskInfo.obj          Debug\FAT_Format.obj          Debug\FAT_FormatSD.obj          Debug\FAT_Ioct.obj          Debug\FAT_Misc.obj          Debug\FAT_Move.obj          Debug\FAT_Open.obj          Debug\FAT_Read.obj          Debug\FAT_Rename.obj          Debug\FAT_SetEndOfFile.obj          Debug\FAT_VolumeLabel.obj          Debug\FAT_Write.obj          Debug\FS__ECC256.obj          Debug\FS_AddSpaceHex.obj          Debug\FS_AssignCache.obj          Debug\FS_Attrib.obj          Debug\FS_CacheAll.obj          Debug\FS_CacheMan.obj          Debug\FS_CacheRW.obj          Debug\FS_CacheRWQuota.obj          Debug\FS_CLib.obj          Debug\FS_CopyFile.obj          Debug\FS_Core.obj          Debug\FS_CRC16.obj          Debug\FS_CreateDir.obj          Debug\FS_Dir.obj          Debug\FS_DirOld.obj          Debug\FS_ErrorNo2Text.obj          Debug\FS_ErrorOut.obj          Debug\FS_Format.obj          Debug\FS_FRead.obj          Debug\FS_FWrite.obj          Debug\FS_GetFilePos.obj          Debug\FS_GetFileSize.obj          Debug\FS_GetNumFiles.obj          Debug\FS_GetNumOpenFiles.obj          Debug\FS_Log.obj          Debug\FS_LogBlock.obj          Debug\FS_LogVolume.obj          Debug\FS_memcpy.obj          Debug\FS_Misc.obj          Debug\FS_Move.obj          Debug\FS_OS_Interface.obj          Debug\FS_Partition.obj          Debug\FS_PRNG.obj          Debug\FS_Read.obj          Debug\FS_Rename.obj          Debug\FS_SetEndOfFile.obj          Debug\FS_SetFilePos.obj          Debug\FS_Storage.obj          Debug\FS_Time.obj          Debug\FS_Truncate.obj          Debug\FS_Unmount.obj          Debug\FS_Verify.obj          Debug\FS_Volume.obj          Debug\FS_Warn.obj          Debug\FS_Write.obj          Debug\RAMDISK.obj          Debug\WinDrive.obj          Debug\FS_X_Win32.obj          Debug\SEGGER_snprintf.obj
+cd Projects\Source\NeoFDK\Utilities\FsGenerator\
+NeoScripts\PreBuildScript.cmd 
+NeoScripts\PreBuildScript.cmd .
+pip install setuptools
+cd %HOME%
+cd Projects\Build\cr50\Debug\
+cr50_builder.py --corey --cmake --buildall
+exit
+cd Projects\Build\cr50\vlatest
+cd ../v1
+cd ../vlatest
+cr50_builder.py --build -u
+cd v12
+cd v1
+cr50_builder.py --cmake --buildall
+cr50_builder.py -u
+cr50_builder.py --cflash
+vnote
+vim EipToolkit_vlatest.nvs 
+cr50_builder.py --build
+cr50_builder.py --build --cflash
+proj_neo_postbuild.bat 
+proj_neo_postbuild.bat release
+cr50_builder.py --build 
+vim proj_neo_postbuild.bat
+cd Binaries\DevRelease_794\
+cd controlflash
+cflash.cmd EipToolkit_vlatest.nvs 
+cd ..
+cd debug
+cd build
+cd cr50_mainline\
+cd vlatest
+cr50_builder.py --cmake --buildall -u
+ls
+dir
+CR50_bu
+vi CR50_build_with_cmakeVLatest.bat 
+vim ..\CR50_PATHS.bat 
+CR50_build_with_cmakeVLatest.bat 
+dir *.bat
+BUILD_CR50FW.bat 
+cr50_builder.py --build
+cd Projects\Binaries\DevRelease_794\
+cd mfgimage
+dir
+burnimage.cmd
+cr50_builder.py -u
+cd %HOME%
+exit
+dir
+burnimage.cmd
+cd %HOME%
+cd builf
+cd Projects\Build\cr50_mainline\vlatest
+cr50_builder.py -u
+vi ..\CR50_PATHS.bat 
+cr50_builder.py --cmake --buildall -u
+cr50_builder.py --build -u
+exit
+cr50_builder.py --build
+clink
+cd mfgimage
+dir
+burnimage.cmd
+cr50_builder.py -u
+cd %HOME%
+exit
+burnimage.cmd
+cd %HOME%
+cd builf
+vi ..\CR50_PATHS.bat 
+cr50_builder.py --cmake --buildall -u
+cd Projects\Build\cr50_mainline\vlatest
+fdisk
+scoop install boostnote
+boostnote
+scoop remove boostnote
+scoop uninstall boostnote
+vnote
+cd ..
+cd cr50\vlatest
+dir
+cr50_builder.py --build -u
+cr50_builder.py --build 
+cr50_builder.py -u
+cr50_builder.py --build --cflash
+exit
+cd cr50\vlatest
+dir
+cr50_builder.py --build -u
+cr50_builder.py --build 
+cr50_builder.py -u
+cr50_builder.py --build --cflash
+cd Projects\Build\cr50\Debug\
+cr50_builder.py --cmake
+cr50_builder.py --buildall
+
+cr50_builder.py --build
+udpListen.py 
+udpListen.py --help
+udpListen.py
+cd ..
+cd vlatest
+cr50_builder.py --cmake --buildall
+exit
+fdisk
+scoop install boostnote
+boostnote
+scoop remove boostnote
+scoop uninstall boostnote
+vnote
+cd ..
+cd cr50\vlatest
+dir
+cr50_builder.py --build -u
+cr50_builder.py --build 
+cr50_builder.py -u
+cr50_builder.py --build --cflash
+exit
+cd cr50\vlatest
+cr50_builder.py --build -u
+cr50_builder.py --build 
+cr50_builder.py -u
+cr50_builder.py --build --cflash
+cd Projects\Build\cr50\Debug\
+udpListen.py 
+udpListen.py --help
+udpListen.py
+cd vlatest
+cr50_builder.py --cmake --buildall
+cd Projects\Source\CR50_Test_RX\
+megaBuild.py -p NsrBoard_Incip
+megaBuild.py -p CR50
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+cd ..
+cd build
+mkdir cr50_fulltest
+cd cr50_fulltest\
+mkdir debug
+mkdir vlatest'
+rmdir vlatest'
+mkdir vlatest
+cp ..\cr50\CR50_PATHS.bat .
+dir
+vim CR50_PATHS.bat 
+cd debug
+cr50_builder.py --corey --cmake
+cr50_builder.py --buildall
+cr50_builder.py --build
+cr50_builder.py --cmake
+exit
+megaBuild.py -p CR50
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+cd build
+mkdir cr50_fulltest
+cd cr50_fulltest\
+mkdir debug
+mkdir vlatest'
+rmdir vlatest'
+mkdir vlatest
+cp ..\cr50\CR50_PATHS.bat .
+vim CR50_PATHS.bat 
+cd debug
+cr50_builder.py --corey --cmake
+cr50_builder.py --buildall
+cr50_builder.py --build
+cr50_builder.py --cmake
+cd projects\source\CR50_Test_RX\
+vim dblog_safeio.py
+debricker.py --help
+debricker.py
+cd tools
+dblog_jlink.py -p CR50_Incip
+cd ..
+megabuild.py -p CR50_Incip_A --load
+megabuild.py -p CR50_Incip --load
+dir
+megabuild.py -p CR50_Incip
+exit
+scoop install boostnote
+boostnote
+scoop remove boostnote
+scoop uninstall boostnote
+vnote
+cd ..
+cd cr50\vlatest
+dir
+cr50_builder.py --build -u
+cr50_builder.py --build 
+cr50_builder.py -u
+cr50_builder.py --build --cflash
+exit
+cd cr50\vlatest
+cr50_builder.py --build 
+cr50_builder.py --build --cflash
+cd Projects\Build\cr50\Debug\
+udpListen.py 
+udpListen.py --help
+udpListen.py
+cd Projects\Source\CR50_Test_RX\
+megaBuild.py -p NsrBoard_Incip
+megaBuild.py -p CR50
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+mkdir cr50_fulltest
+mkdir debug
+mkdir vlatest'
+rmdir vlatest'
+mkdir vlatest
+cp ..\cr50\CR50_PATHS.bat .
+vim CR50_PATHS.bat 
+cd debug
+cr50_builder.py --corey --cmake
+cr50_builder.py --buildall
+cr50_builder.py --cmake
+scoop update
+cd Projects\Build\
+cd cr50_fulltest
+"C:/Program Files (x86)/SEGGER/JLink_V634a/JLinkGDBServerCL.exe" -device Cortex-R4 -endian little -if JTAG -speed 10000 -noir -vd -jlinkscriptfile ${workspaceFolder}/.vscode/cr50.jlinkscript
+"C:/Program Files (x86)/SEGGER/JLink_V634a/JLinkGDBServerCL.exe" -device Cortex-R4 -endian little -if JTAG -speed 10000 -noir -vd -jlinkscriptfile C:/users/rst.pie/projects/source/CR50_Test_NEO/.vscode/cr50.jlinkscript
+cr50_builder.py --build -u
+cr50_builder.py --cmake --buildall
+cr50_builder.py --build
+cr50_builder.py -u
+cd binaries
+cd ST_Flash_Programmer\
+flash.py
+cd vlatest_output\
+cd nonsecureboot\
+flash.py --help
+cd Binaries\
+cd neo
+cd "Base MfgImage\
+flash.py -v mfgimage.bin
+cd ..
+cd build
+cd cr50_fulltest\
+cd vlatest
+dir
+dir *.nvs
+cflash.cmd EipToolkit_vlatest.nvs 
+exit
+vim dblog_safeio.py
+debricker.py --help
+megabuild.py -p CR50_Incip_A --load
+megabuild.py -p CR50_Incip --load
+megabuild.py -p CR50_Incip
+cd Projects\Source\CR50_Test_RX\
+megabuild.py --help
+megaBuild.py -p CR50_Incip --load
+cd tools
+dir
+dblog_jlink.py --help
+dblog_jlink.py -p CR50_Incip_A
+dblog_jlink.py -p CR50_Incip
+debricker.py
+cd ..
+megaBuild.py -p CR50_Incip_B --load
+megaBuild.py -p CR50_Incip_A --load
+exit
+cd cr50_fulltest
+"C:/Program Files (x86)/SEGGER/JLink_V634a/JLinkGDBServerCL.exe" -device Cortex-R4 -endian little -if JTAG -speed 10000 -noir -vd -jlinkscriptfile ${workspaceFolder}/.vscode/cr50.jlinkscript
+"C:/Program Files (x86)/SEGGER/JLink_V634a/JLinkGDBServerCL.exe" -device Cortex-R4 -endian little -if JTAG -speed 10000 -noir -vd -jlinkscriptfile C:/users/rst.pie/projects/source/CR50_Test_NEO/.vscode/cr50.jlinkscript
+cr50_builder.py --build -u
+cr50_builder.py --cmake --buildall
+cr50_builder.py --build
+cr50_builder.py -u
+cd binaries
+cd ST_Flash_Programmer\
+flash.py
+cd vlatest_output\
+cd nonsecureboot\
+flash.py --help
+cd Binaries\
+cd neo
+cd "Base MfgImage\
+flash.py -v mfgimage.bin
+cd ..
+cd build
+cd cr50_fulltest\
+cd vlatest
+dir
+dir *.nvs
+cflash.cmd EipToolkit_vlatest.nvs 
+exit
+vim dblog_safeio.py
+debricker.py --help
+megabuild.py -p CR50_Incip_A --load
+megabuild.py -p CR50_Incip --load
+megabuild.py -p CR50_Incip
+megabuild.py --help
+dblog_jlink.py -p CR50_Incip_A
+scoop update
+scoop status
+cd Projects\Source\CR50_Test_RX\
+megaBuild.py -p CR50_Incip_A
+debricker.py
+megaBuild.py -p CR50_Incip_B
+dir
+dblog_jlink.py --help
+megaBuild.py -p CR50_Incip_A --load
+megaBuild.py -p CR50_Incip_B --load
+cd tools
+dblog_jlink.py -p CR50_Incip
+cd ..
+tools\dblog_jlink.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+exit
+megaBuild.py -p CR50_Incip_B --load
+megaBuild.py -p CR50_Incip_A --load
+udpListen.py --help
+cd Projects\Build\cr50_fulltest\debug\
+cr50_builder.py --cmake --buildall
+udpListen.py
+quit
+exit
+cd Projects\Source\CR50_Test_RX\
+megabuild.py --help
+megaBuild.py -p CR50_Incip --load
+cd tools
+dblog_jlink.py --help
+dblog_jlink.py -p CR50_Incip_A
+dblog_jlink.py -p CR50_Incip
+debricker.py
+cd ..
+megaBuild.py -p CR50_Incip_B --load
+megaBuild.py -p CR50_Incip_A --load
+cd projects
+cd testing
+dir
+mkdir incip
+cd incip
+SaveCipFile.py --help
+SaveCipFile.py -i 0x206 -f change.txt
+SaveCipFile.py -i 0x205 -f fault.txt
+exit
+dir *.nvs
+cflash.cmd EipToolkit_vlatest.nvs 
+exit
+vim dblog_safeio.py
+debricker.py --help
+megabuild.py -p CR50_Incip_A --load
+megabuild.py -p CR50_Incip --load
+megabuild.py -p CR50_Incip
+cd Projects\Source\CR50_Test_RX\
+megabuild.py --help
+megaBuild.py -p CR50_Incip --load
+cd tools
+dblog_jlink.py --help
+dblog_jlink.py -p CR50_Incip_A
+dblog_jlink.py -p CR50_Incip
+debricker.py
+megaBuild.py -p CR50_Incip_B --load
+megaBuild.py -p CR50_Incip_A --load
+cd Projects\Build\cr50_fulltest\
+dir
+cr50_builder.py --build -u
+cr50_builder.py --cflash
+cd 
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build --cflash
+cr50_builder.py -u
+exit
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py -u
+cd Projects\Build\cr50_fulltest\vlatest
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+exit
+cd Projects\Source\CR50_Test_RX\
+megabuild.py --help
+cd tools
+dblog_jlink.py --help
+dblog_jlink.py -p CR50_Incip_A
+dblog_jlink.py -p CR50_Incip
+debricker.py
+megaBuild.py -p CR50_Incip_B --load
+megaBuild.py -p CR50_Incip_A --load
+cd Projects\Build\cr50_fulltest\
+cr50_builder.py --build -u
+cr50_builder.py --cflash
+cd 
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build --cflash
+cr50_builder.py -u
+exit
+cd debug
+cr50_builder.py --cmake --buildall
+cd vlatest
+cr50_builder.py -u
+cd Projects\Build\cr50_fulltest\vlatest
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+cd projects
+cd Source-external\
+cd rsp-scoop\
+ls bin
+cd ..
+cd source
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+dir
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+exit
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+cd projects\Build\Images\clearfs
+cd ~
+cd ..
+cd build\images\clearfs
+neo_flash.py --help
+dir
+neo_flash.py --write -f file_system.bin
+exit
+cd Projects\Build\cr50_fulltest\
+cr50_builder.py --build -u
+cr50_builder.py --cflash
+cd 
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build --cflash
+cr50_builder.py -u
+exit
+cd debug
+cr50_builder.py --cmake --buildall
+cd vlatest
+cr50_builder.py -u
+cd Projects\Build\cr50_fulltest\vlatest
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+cd projects
+cd Source-external\
+cd rsp-scoop\
+ls bin
+cd ..
+cd source
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+dir
+cd Projects\Source\CR50_Test_RX\
+\
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+exit
+megaBuild.py -p CR50_Incip
+cd Projects\Source\CR50_Test_RX\
+\
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+exit
+cd Projects\Build\EIP\vlatest
+dir
+vim build_with_cmake.bat 
+build_with_cmake.bat 
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+cd Projects\Build\EIP\vlatest
+vim build_with_cmake.bat 
+build_with_cmake.bat 
+cd Projects\Source\EIP\
+cd CAT_Safety_Host_Toolkit\
+dir
+vim tools\builder\megaBuilderIAR.py
+vim products.py
+megaBuild.py -p ENETR
+exit
+build_with_cmake.bat 
+cd Projects\Build\Images\clearfs
+neo_flash.py -h
+neo_flash.py --write -f file_system.bin
+exit
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+cd projects
+cd Source-external\
+cd rsp-scoop\
+ls bin
+cd ..
+cd source
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+dir
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+exit
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+cd projects\Build\Images\clearfs
+cd ~
+cd ..
+cd build\images\clearfs
+neo_flash.py --help
+dir
+neo_flash.py --write -f file_system.bin
+exit
+cd Projects\Build\cr50_fulltest\
+cr50_builder.py --build -u
+cr50_builder.py --cflash
+cd 
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build --cflash
+cr50_builder.py -u
+exit
+cd debug
+cr50_builder.py --cmake --buildall
+cd vlatest
+cr50_builder.py -u
+cd Projects\Build\cr50_fulltest\vlatest
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+cd projects
+cd Source-external\
+cd rsp-scoop\
+ls bin
+cd ..
+cd source
+cd CR50_Test_RX\
+megaBuild.py -p CR50_Incip
+dir
+\
+scoop update
+scoop status
+cd Projects\Source\CR50_Test_RX\
+vim products.py 
+megaBuild.py --help
+megaBuild.py -p CR50_Incip --load --clean
+vim tools\dblog_safeio.py
+git pull --help
+
+tools\dblog_jlink.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+exit
+cd Projects\Build\Images\clearfs
+dir
+neo_flash.py --write -f file_system.bin
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+dir
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+exit
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+cd projects\Build\Images\clearfs
+cd ~
+cd ..
+cd build\images\clearfs
+neo_flash.py --help
+dir
+neo_flash.py --write -f file_system.bin
+exit
+cd Projects\Build\cr50_fulltest\
+cr50_builder.py --build -u
+cr50_builder.py --cflash
+cd 
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build --cflash
+cr50_builder.py -u
+exit
+cd debug
+cr50_builder.py --cmake --buildall
+cd vlatest
+cr50_builder.py -u
+cd Projects\Build\cr50_fulltest\vlatest
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+cd projects
+cd Source-external\
+cd rsp-scoop\
+ls bin
+cd ..
+cd source
+cd CR50_Test_RX\
+megaBuild.py -p CR50_Incip
+\
+vim products.py 
+megaBuild.py --help
+vim tools\dblog_safeio.py
+git pull --help
+scoop update
+scoop status
+wowi
+cd Projects\Source\CR50_Test_RX\
+dir
+megaBuild.py -p CR50_Incip --load --clean
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+exit
+exit
+cd Projects\testing
+dir
+mkdir neo_badfs
+cd neo_badfs
+neo_flash.py --read -f filesys.bin
+neo_flash.py --help
+neo_flash.py --read -a fullflash.bin
+cd ..\..\build\Images\clearfs
+ls
+neo_flash.py --write -f file_system.bin 
+exit
+cd CR50_Test_RX\
+megaBuild.py --help
+megaBuild.py -p CR50_Incip
+megaBuild.py -p CR50_Incip --load
+cd projects\Build\Images\clearfs
+cd ~
+cd ..
+cd build\images\clearfs
+neo_flash.py --help
+dir
+neo_flash.py --write -f file_system.bin
+exit
+cd Projects\Build\cr50_fulltest\
+cr50_builder.py --build -u
+cr50_builder.py --cflash
+cd 
+cd debug
+cr50_builder.py --cmake --buildall
+cd ..
+cd vlatest
+cr50_builder.py --build --cflash
+cr50_builder.py -u
+exit
+cd debug
+cr50_builder.py --cmake --buildall
+cd vlatest
+cr50_builder.py -u
+cd Projects\Build\cr50_fulltest\vlatest
+cr50_builder.py --build
+cr50_builder.py --cflash
+cr50_builder.py --build --cflash
+cd projects
+cd Source-external\
+cd rsp-scoop\
+ls bin
+cd ..
+cd source
+cd CR50_Test_RX\
+megaBuild.py -p CR50_Incip
+\
+vim products.py 
+megaBuild.py --help
+vim tools\dblog_safeio.py
+git pull --help
+wowi
+cd Projects\Source\CR50_Test_RX\
+megaBuild.py -p CR50_Incip --load --clean
+exit
+scoop update
+scoop status
+scoop update *
+cd Projects\Source\CR50_Test_RX
+dir
+
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+ping 192.168.1.99
+megaBuild.py -p CR50_Incip --load
+tools\dblog_jlink.py -p CR50_Incip
+ping 192.168.1.99
+ping 192.168.1.99
+scoop update
+scoop status
+scoop uninstall notepadplusplus-pm
+ls
+ratools --version
+pip list
+scoop uninstall notepadplusplus-pm
+ls
+pip list
+pip install -r c:\users\RSt.Pie\Downloads\requirements_2_7_14.txt 
+python -m pip install --upgrade pip
+pip list --outdated
+cipping --help
+ratools --version
+scoop cleanup
+scoop cleanup gitextensions-dev
+scoop uninstall gitextensions-dev
+scoop help
+scoop bucket list
+scoop remove rsp-scoop
+scoop bucket remove rsp-scoop
+scoop bucket rm rsp-scoop
+scoop install gitextensions
+scoop cleanup *
+scoop checkup
+scoop update
+exit
+scoop cleanup *
+scoop checkup
+exit
+scoop update
+scoop status
+scoop install keepassxc
+keepassxc
+scoop uninstall keepassxc
+scoop search kee
+cd Projects\Build\eip\debug
+vim build_with_cmake.bat 
+build_with_cmake.bat
+vim build_with_cmake.bat 
+build_with_cmake.bat
+scoop updatee
+scoop update
+scoop install keepassxc
+keepassxc
+scoop uninstall keepassxc
+cd Projects\Source-external\
+cd rsp-scoop
+dir
+ls bin
+bin\checkver.ps1
+exit
+scoop search kee
+cd Projects\Build\eip\debug
+vim build_with_cmake.bat 
+build_with_cmake.bat
+vim build_with_cmake.bat 
+build_with_cmake.bat
+scoop updatee
+scoop update
+scoop install keepassxc
+keepassxc
+scoop uninstall keepassxc
+cd Projects\Source-external\
+cd rsp-scoop
+dir
+ls bin
+bin\checkver.ps1
+cd Projects\Scripts\
+pip install ipython
+tqdm --help
+ipython
+TestServices.py
+TestServices.py --niter 10000
+TestServices.py -c --niter 10000
+TestServices.py -c --buffsize 100
+TestServices.py -c --buffsize 300
+TestServices.py -c --buffsize 400
+TestServices.py -c --buffsize 440
+TestServices.py -c --buffsize 490
+TestServices.py -c --buffsize 495
+TestServices.py -c --buffsize 494
+TestServices.py -c --buffsize 491
+TestServices.py -c --buffsize 493
+exit
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 56498 c:\Users\RSt.Pie\Projects\Scripts\TestServices.py -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50335 c:\Users\RSt.Pie\Projects\Scripts\TestServices.py -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50346 c:\Users\RSt.Pie\Projects\Scripts\TestServices.py -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50681 c:\Users\RSt.Pie\Projects\Scripts\.vscode\launch.json -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50690 c:\Users\RSt.Pie\Projects\Scripts\.vscode\launch.json -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50703 c:\Users\RSt.Pie\Projects\Scripts\.vscode\launch.json -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50706 c:\Users\RSt.Pie\Projects\Scripts\.vscode\launch.json -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50728 c:\Users\RSt.Pie\Projects\Scripts\.vscode\launch.json -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 50732 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 1 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 51016 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 51316 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 51331 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 51852 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 52360 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 52366 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 52371 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 53264 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 53325 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 53617 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+cd c:\Users\RSt.Pie\Projects\Scripts && cmd /C "set "PYTHONIOENCODING=UTF-8" && set "PYTHONUNBUFFERED=1" && C:\Users\RSt.Pie\scoop\apps\python27\current\python.exe c:\Users\RSt.Pie\.vscode\extensions\ms-python.python-2019.2.5433\pythonFiles\ptvsd_launcher.py --default --client --host localhost --port 53625 C:/Users/Rst.Pie/Projects/Scripts/TestServices.py -c -n 5 "
+scoop updatee
+scoop update
+scoop install keepassxc
+keepassxc
+scoop uninstall keepassxc
+cd Projects\Source-external\
+cd rsp-scoop
+dir
+ls bin
+bin\checkver.ps1
+exit
+scoop search kee
+cd Projects\Build\eip\debug
+vim build_with_cmake.bat 
+build_with_cmake.bat
+vim build_with_cmake.bat 
+build_with_cmake.bat
+scoop updatee
+scoop update
+scoop install keepassxc
+keepassxc
+scoop uninstall keepassxc
+cd Projects\Source-external\
+cd rsp-scoop
+ls bin
+bin\checkver.ps1
+cd Projects\Scripts\
+pip install ipython
+tqdm --help
+TestServices.py --niter 10000
+TestServices.py -c --niter 10000
+TestServices.py -c --buffsize 100
+TestServices.py -c --buffsize 300
+TestServices.py -c --buffsize 400
+TestServices.py -c --buffsize 440
+TestServices.py -c --buffsize 490
+TestServices.py -c --buffsize 495
+TestServices.py -c --buffsize 494
+TestServices.py -c --buffsize 491
+TestServices.py -c --buffsize 493
+exit
+cd Projects\scripts
+TestServices.py
+TestServices.py -c
+TestServices.py -a 192.168.1.16 -n 10
+TestServices.py -c -a 192.168.1.16 -n 10
+TestServices.py -c -n 10
+TestServices.py -c -n 10000
+TestServices.py -c -n 1
+TestServices.py -c -n 1000
+TestServices.py -c -n 1 -t 0.5
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9
+ipython
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 1
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 380
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 250
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 254
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 255
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 300
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 320
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 340
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 350
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 355
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 354
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 353
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 352
+TestServices.py -t 0.5 -c -n 2 --buffsize 352
+TestServices.py -t 0.5 -c -n 2 --buffsize 354
+TestServices.py -t 0.5 -c -n 20000
+TestServices.py -t 0.003 -c -n 20000
+TestServices.py -t 0.01 -c -n 20000
+git config --global http.sslVerify false
+cd build\cr50
+cd vlatest
+cr50_builder.py --corey --cmake --buildall
+mv ~/a.git ~/.git
+cd ..
+cd debug
+cr50_builder.py --cmake --buildall
+cd ../../..
+cd scripts
+dir
+TestServices.py --help
+TestServices.py -a 192.168.1.16 -n 2
+ping 192.168.1.1
+ping 192.168.1.16
+cd scripts
+dir
+TestServices.py --help
+TestServices.py -a 192.168.1.16 -n 2
+ping 192.168.1.1
+ping 192.168.1.16
+cd Projects\Source-external\rsp-scoop\
+git push "manifest fix"
+git commit "manifest fix"
+git commit help
+git help commit
+git commit
+git commit -a
+git push
+psping
+psping -? i
+psping -n 3600s -i 0
+psping -n 3600s -i 0 192.168.1.99
+ping /?
+ping -i 0.1
+cd ~\Downloads
+cd ..
+cd Downloads\
+cd hrping-v507\
+hrping
+hrping -t -s 100
+hrping -t -s 100 192.168.1.99
+TestServices.py -c -n 1 -t 0.5
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 1
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 380
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 250
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 254
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 255
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 300
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 320
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 340
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 350
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 355
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 354
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 353
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 352
+TestServices.py -t 0.5 -c -n 2 --buffsize 352
+TestServices.py -t 0.5 -c -n 2 --buffsize 354
+TestServices.py -t 0.5 -c -n 20000
+TestServices.py -t 0.003 -c -n 20000
+TestServices.py -t 0.01 -c -n 20000
+git config --global http.sslVerify false
+cd build\cr50
+cd vlatest
+cr50_builder.py --corey --cmake --buildall
+mv ~/a.git ~/.git
+cd ..
+cd debug
+cr50_builder.py --cmake --buildall
+cd ../../..
+cd scripts
+TestServices.py -a 192.168.1.16 -n 2
+ping 192.168.1.1
+ping 192.168.1.16
+cd Projects\Source\EDLT_3_3_1-work\
+patches/ApplyPatches.py --help
+.\patches\ApplyPatches.py --help
+.\patches\ApplyPatches.py
+.\patches\ApplyPatchesMod.py --singleGit
+cd ..\..\Testing\Lightcurtain_Achilles\
+cd ..\..\Scripts\
+python ResetFactoryDefaults.py 
+vim ResetFactoryDefaults.py 
+dir *.py
+ResetFactoryDefaults.py
+vim TestServices.py
+pip install --help
+pip install -U ratools
+pip install -U ratools-cip
+pip install -U ratools-cip-objects-ra
+pip list --outdated
+pip install -U ratools-cip-objects ratools-cip-objects-common ratools-mycfg-testbed
+dir
+TestServices.py --help
+pip install ping
+netstat
+netstat -na
+ipython
+TestServices.py -c -n 25000 -t 0.5
+TestServices.py -c -n 25000 -t 0.2
+exit
+TestServices.py -c -n 1 -t 0.5
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 1
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 380
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 250
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 254
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 255
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 300
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 320
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 340
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 350
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 355
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 354
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 353
+TestServices.py -t 0.5 -c --srv 0x2c --ins 1 --cls 9 -n 2 --buffsize 352
+TestServices.py -t 0.5 -c -n 2 --buffsize 352
+TestServices.py -t 0.5 -c -n 2 --buffsize 354
+TestServices.py -t 0.5 -c -n 20000
+TestServices.py -t 0.003 -c -n 20000
+TestServices.py -t 0.01 -c -n 20000
+git config --global http.sslVerify false
+cd build\cr50
+cd vlatest
+cr50_builder.py --corey --cmake --buildall
+mv ~/a.git ~/.git
+cd debug
+cr50_builder.py --cmake --buildall
+cd ../../..
+cd scripts
+TestServices.py -a 192.168.1.16 -n 2
+ping 192.168.1.1
+ping 192.168.1.16
+cd Projects\Source\EDLT_3_3_1-work\
+patches/ApplyPatches.py --help
+.\patches\ApplyPatches.py --help
+.\patches\ApplyPatches.py
+.\patches\ApplyPatchesMod.py --singleGit
+cd ..\..\Testing\Lightcurtain_Achilles\
+cd ..\..\Scripts\
+python ResetFactoryDefaults.py 
+vim ResetFactoryDefaults.py 
+dir *.py
+ResetFactoryDefaults.py
+vim TestServices.py
+pip install --help
+pip install -U ratools
+pip install -U ratools-cip
+pip install -U ratools-cip-objects-ra
+pip list --outdated
+pip install -U ratools-cip-objects ratools-cip-objects-common ratools-mycfg-testbed
+TestServices.py --help
+pip install ping
+netstat
+netstat -na
+ipython
+TestServices.py -c -n 25000 -t 0.5
+cd Projects\Scripts\
+python TestServices.py --help
+TestServices.py -c -n 25000 -t 0.2
+cd Source
+cd EIP\CAT_Safety_Host_Toolkit\
+vim dblog_saveio.py
+pip install virtualenv
+cd c:\users\RSt.Pie\
+cd tools
+mkdir python27env
+cd python27env\
+mkdir safety
+cd safety
+virtualenv env
+cd env
+cd lib
+cd site-packages\
+ls env
+pip install virtualenvwrapper-win
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\tools\
+workon safety
+setprojectdir .
+vim dblog_safeio.py 
+dblog_jlink.py -p NsrEIP
+scoop list
+scoop uninstall python27
+cdvirtualenv
+lsvirtualenv
+cd Scripts
+ls
+activate
+cd Downloads\CshtRaTools_1.0.0\
+ratools_install.py
+c:\Users\RSt.Pie\Envs\safety\Scripts\python.exe ratools_install.py
+cd ..
+configure_ratools.py
+pip --help
+pip search ratools
+pip -v
+pip -V
+pip install ratools
+pip config
+set
+pip install colorama
+mkvirtualenv safety
+which python
+deactivate
+which pip
+pip install -r requirements_2_7_14.txt 
+python
+dir
+exit
+activate
+cd Downloads\CshtRaTools_1.0.0\
+ratools_install.py
+c:\Users\RSt.Pie\Envs\safety\Scripts\python.exe ratools_install.py
+configure_ratools.py
+pip --help
+pip search ratools
+pip -v
+pip -V
+pip install ratools
+pip config
+set
+pip install colorama
+mkvirtualenv safety
+deactivate
+which pip
+pip install -r requirements_2_7_14.txt 
+python
+ping 192.168.1.19
+ping 192.168.1.256
+ping 192.168.1.100
+ping 192.168.1.200
+vim ResetFactoryDefaults.py 
+ResetFactoryDefaults.py -a 192.168.1.192
+python -m pip install --upgrade pip
+pip list --outdated
+pip install --upgrade setuptools
+pip install --user virtualenv virtualenvwrapper-win
+PYTHON
+c:\users\RSt.Pie\Envs\safety\Scripts\activate.bat
+c:\users\RSt.Pie\Envs\safety\Scripts\deactivate.bat
+cd Downloads\
+more requirements_2_7_14.txt 
+type requirements_2_7_14.txt 
+pip install --user -r requirements_2_7_14.txt 
+cd ..
+cd Projects\Scripts\
+ResetFactoryDefaults.py 
+ResetFactoryDefaults.py -a 192.168.1.199
+ScanCipObj.py --help
+vim channel_dict.yaml
+ScanCipObj.py -c EIP -d channel_dict.yaml
+dir
+ipython
+which python
+pip install --user ipython
+refreshenv
+exit
+cd Projects\Scripts\
+ipython
+exit
+pip install --user ipython
+refreshenv
+cd Projects\Scripts\WindowsSupportApps\
+RegisterDLL.cmd
+GetLockouts
+Configurator
+TestZornInterface.exe 
+TCH
+cd ..
+dir
+runbackup
+scoop update
+exit
+exit
+cd Projects\
+cd build
+cd eip
+mkdir v1
+cd v1
+cd ..
+cd vlatest
+dir
+dir *.bat
+build_with_cmake.bat 
+cd Projects\Build\EIP\vlatest\
+dir
+dir *.bat
+build_with_cmake.bat 
+cd Projects\Build\EIP\vlatest\
+cd Projects\Scripts\
+ResetFactoryDefaults.py --help
+ResetFactoryDefaults.py -a 192.168.1.99
+dir
+runbackup
+exit
+dir
+runbackup
+scoop update
+exit
+exit
+cd Projects\
+cd build
+cd eip
+mkdir v1
+cd v1
+cd ..
+cd vlatest
+dir
+dir *.bat
+build_with_cmake.bat 
+cd Projects\Build\EIP\vlatest\
+dir
+dir *.bat
+build_with_cmake.bat 
+cd Projects\Build\EIP\vlatest\
+cd Projects\Scripts\
+ResetFactoryDefaults.py --help
+ResetFactoryDefaults.py -a 192.168.1.99
+runbackup
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\
+cd tools
+ls
+c:\users\RSt.Pie\Envs\safety\Scripts\activate.bat
+python dblog_jlink.py -p NsrEIP
+lsvirtualenv
+lssitepackages
+cd ../..
+cd Projects\source\EIP\CAT_Safety_Host_Toolkit\tools
+dblog_jlink.py -p NsrEIP
+set
+%PYTHONPATH%
+echo %PYTHONPATH%
+echo %VIRTUAL_ENV%
+source
+pip list
+c:\Users\RSt.Pie\Envs\safety\Scripts\activate.bat
+dblog_safeio.py --jlink
+dblog_safeio.py --jlink -p NsrEIP
+c:\Users\RSt.Pie\Envs\safety\Scripts\deactivate.bat 
+pip install virtualenv virtualenvwrapper_win
+virtualenv --version
+virtualenv --help
+cd c:\envs
+cdvirtualenv
+cdsitepackages
+cdproject
+cd c:\users\RSt.Pie\Envs\
+virtualenv --system-site-packages current
+virtualenv --system-site-packages safety
+pip install ipython
+current\Scripts\activate.bat 
+which python
+mv ..\Downloads\configure_ratools.py .
+mv ..\Downloads\requirements_2_7_14.txt .
+dir
+python configure_ratools.py
+pip install -r requirements_2_7_14.txt 
+scoop install python27 arch=32bit
+scoop install python27 --arch=32bit
+scoop --help
+scoop install --help
+scoop install
+scoop help install
+scoop 
+scoop cleanup
+scoop cleanup python27
+scoop cache
+scoop help cache
+scoop cache rm python27
+scoop uninstall python27
+scoop install python27 --arch 32bit
+exit
+scoop install python27 --arch=32bit
+scoop --help
+scoop install --help
+scoop install
+scoop help install
+scoop 
+scoop cleanup
+scoop cleanup python27
+scoop cache
+scoop help cache
+scoop cache rm python27
+scoop uninstall python27
+scoop install python27 --arch 32bit
+python --version
+python -m pip install update pip
+python -m pip install --user --upgrade pip
+pip list --outdated
+pip install --user --upgrade setuptools
+pip install --user --upgrade style
+pip install --user --upgrade update
+pip install --user ipython
+cd envs
+pip install --user virtualenv virtualenv_win
+pip install --user virtualenv
+pip install --user virtualenvwrapper-win
+mkvirutalenv --help
+mkvirtualenv --help
+mkvirtualenv --system-site-packages current
+mkvirtualenv --system-site-packages safety
+current\Scripts\activate.bat
+python configure_ratools.py 
+which pip
+pip install -r requirements_2_7_14.txt 
+current\Scripts\deactivate.bat 
+safety\Scripts\activate.bat
+cd Downloads\
+cd CshtRaTools_1.0.0\
+dir
+which python
+python ratools_install.py 
+python -m pip install --upgrade pip
+cd mod-ratools
+python -m pip install --ignore-installed pip
+pip install pyopensql=0.13
+pip install pyopensql==0.13
+pip install astroid==1.3.8
+pip install --help
+pip install ratools
+cd ..
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\tools\
+dblog_safeio.py --jlink -p NsREIP
+ipython
+python dblog_safeio.py --jlink -p NsrEIP
+exit
+pip install pyopensql=0.13
+pip install pyopensql==0.13
+pip install astroid==1.3.8
+pip install --help
+pip install ratools
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\tools\
+dblog_safeio.py --jlink -p NsREIP
+ipython
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\tools
+c:\Users\RSt.Pie\Envs\safety\Scripts\activate.bat
+dblog_safeio.py --jlink -p NsrEIP
+python dblog_safeio.py --jlink -p NsrEIP
+cd ..
+python megaBuild.py --help
+python megaBuild.py -p ENETR --load
+which python
+vim megaBuild.py 
+cd tools
+dir
+python FlashCSHT.py --help
+python FlashCSHT.py -n ..\products\ENETR\nvs
+exit
+ipython
+python dblog_safeio.py --jlink -p NsrEIP
+cd Projects\Scripts\
+dir
+c:\Users\RSt.Pie\Envs\safety\Scripts\activate.bat
+python ResetFactoryDefaults.py 
+exit
+exit
+cd Projects\Scripts\
+dir
+c:\Users\RSt.Pie\Envs\safety\Scripts\activate.bat
+python ResetFactoryDefaults.py 
+exit
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\tools\
+python_safety.cmd
+which python
+exit
+python_safety.cmd
+which python
+cd projects\Source\EIP\CAT_Safety_Host_Toolkit\tools
+python_safety.cmd 
+dir
+dblog_safeio.py --jlink -p ENETR
+python dblog_safeio.py --jlink -p ENETR
+which ratools
+dox
+ratools --version
+exit
+exit
+exit
+ls
+cd projects
+exit
+cd Projects
+cd Source\EIP
+exit
+cd Projects\Source\EIP
+python_safety.cmd 
+dir
+exit
+exit
+cd Projects\Source\EIP
+ls
+exit
+cd Projects\Source\eip
+exit
+cd Projects\Source\EIP
+scoop search unicode
+cd Projects
+cd Source
+exit
+cd Projects
+exit
+cd Projects
+cd Source\EIP
+python_safety.cmd
+exit
+python_safety.cmd 
+exit
+exit
+cd Projects\Source\EIP
+scoop search unicode
+cd Projects
+cd Source
+exit
+cd Projects
+exit
+cd Projects
+cd Source\EIP
+python_safety.cmd
+exit
+python_safety.cmd 
+scoop status
+cd Projects\Source\EIP\CAT_Safety_Host_Toolkit\tools\
+python dblog_safeio.py --jlink -p ENETR
+python megaBuild.py -p ENETR --load
+dir
+cd test
+cd tools
+dir *.py
+python FlashCSHT.py 
+python FlashCSHT.py -n ../products/ENETR/nvs
+cd ..
+python encryptBinaries.py
+python encryptBinaries.py -p ENETR
+python encryptBinaries.py -p ENETR -Vsm 1
+scoop update
+cd c:
+cd c:\
+cd rst.pie
+cd Projects\
+set
+cd C:\
+cd users
+cd Rst.Pie
+exit
+exit
+exit
+cd c:
+cd c:\
+cd users
+cd rst.pie
+cd Projects\Source\eip
+dir
+exit
+locale
+cd Projects\Source\eip
+exit
+exit
+locale
+exit
+cd Projects\Source\eip
+set
+which python
+scoop
+scoop info python
+scoop config
+scoop config *
+python --version
+python3 --version
+scoop install alacritty
+alacritty
+scoop uninstall alacritty
+python_current.cmd 
+pip install glances
+python_safety.cmd 
+glances
+wheee
+scoop search autojump
+driverquery
+dir
+ls
+scoop search fantasque
+scoop install FantasqueSansMono-NF
+ls
+ls
+dir
+cd Projects\Source\EIP
+python_safety.cmd 
+exit
+cd Projects\Source\EIP\
+python_safety.cmd 
+exit
+cd Projects\Source\EIP\
+cd Projects\Source\EIP
+exit
+cd Projects\
+cd source\eip
+exit
+cd projects
+cd source\eip
+exit
+cd Projects\Source
+exit
+cd projects\Source
+exit
+cd projects
+cd source
+cd projects
+dir
+exit
+exit
+cd projects\Source
+exit
+cd projects
+cd source
+cd projects
+scoop update
+scoop status
+scoop update *
+cd Projects\notes
+cd cr50
+dir
+:PluginList
+vim Readme.md
+python3 --version
+python3 -v
+vim
+exit
+cd projects\Source
+exit
+cd projects
+cd source
+cd projects
+dir
+exit
+exit
+cd projects\Source
+exit
+cd projects
+cd source
+cd projects
+scoop status
+scoop update *
+cd Projects\notes
+cd cr50
+:PluginList
+vim Readme.md
+python3 -v
+vim
+cd c:\
+cd users
+cd RSt.Pie\
+cd Projects\
+scoop search vim
+scoop uninstall python
+pipdeptree
+pycodestyle
+pydocstyle
+epylint
+pylint
+pyreverse
+symilar
+helpviewer
+img2png
+autopep8
+pycrust
+pyshell
+pyslices
+vba_extract.py
+python vba_extract.py
+baseline
+cleanview
+elftool
+labeldiff
+pygmentize
+scoop install python
+which python
+scoop reset python27
+python --version
+python3 --version
+cd source\CR50APP
+python corey.py clean
+python3 corey.py clean
+python3
+python3 -m pip install --upgrade pip
+python3 -m pip --help
+python3 -m pip install --help
+python3 -m pip install -U astroid
+python3 -m pip uninstall astroid typed-ast
+python3 -m pip install --user astroid
+python3 -m pip list --outdated
+python3 -m pip install --user -U isort pylint setuptools
+scoop update
+cls
+ping 192.168.1.99
+cd Binaries\
+cd eip
+cd rev11
+cd 450L_v0.119.0062\
+cd WindowsSupportApps\
+ls
+RegisterDLL.cmd
+CSA.Crystal.Tools.exe 
+CSA.Crystal.CommDisplay.exe 
+cd ../../../..
+cd scripts
+ResetFactoryDefaults.py 
+python_safety.cmd 
+python ResetFactoryDefaults.py 
+cd ..
+cd source\EIP\CAT_Safety_Host_Toolkit\
+python megaBuild.py -p ENETR --load
+cd tools\
+dir *.py
+python FlashCSHT.py -p ENETR
+python FlashCSHT.py -n ..\products\ENETR\nvs
+dir
+python dblog_safeio.py --jlink -p ENETR
+c:\Users\RSt.Pie\Envs\safety\Scripts\deactivate.bat 
+pip install --user pylint
+python3 -m pip install --user pylint
+python_safety.cmd
+python
+exit

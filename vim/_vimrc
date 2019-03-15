@@ -1,0 +1,57 @@
+set nocompatible
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'altercation/vim-colors-solarized'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'octol/vim-cpp-enhanced-highlight'
+Plugin 'tpope/vim-vinegar'
+Plugin 'tpope/vim-markdown'
+
+call vundle#end()
+filetype plugin indent on
+
+if !empty($ConEmuBuild)
+    set encoding=utf-8
+    set fileencoding=utf-8
+    set termencoding=utf8
+    set term=xterm
+    set t_Co=256
+    let &t_AB="\e[48;5;%dm"
+    let &t_AF="\e[38;5;%dm"
+endif
+
+syntax enable
+"set background=dark
+"colorscheme solarized
+set number
+set tabstop=4
+set softtabstop=4
+set expandtab
+set showcmd
+set wildmenu
+set lazyredraw
+set showmatch
+set incsearch
+set hlsearch
+set colorcolumn=80
+set backspace=2
+let g:airline_theme = 'solarized'
+let g:airline_solarized_bg = 'dark'
+let g:airline_powerline_fonts = 1
+let g:airline#extensions#tabline#enabled = 1
+inoremap <Char-0x07F> <BS>
+nnoremap <Char-0x07F> <BS>
+
+if has("gui_running")
+    set guifont=Hack:h10
+    colorscheme solarized
+    set background=dark
+    set dir=$TEMP
+    set encoding=utf-8
+    set fileencoding=utf-8
+endif
