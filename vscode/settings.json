@@ -2,6 +2,9 @@
 {
     "telemetry.enableTelemetry": false,
     "workbench.statusBar.feedback.visible": false,
+    "workbench.iconTheme": "solarized",
+    "workbench.colorTheme": "Rick's Solarized Dark",
+    "workbench.editor.highlightModifiedTabs": true,
     "editor.fontFamily": "Hack Nerd Font, Fantasque Sans Mono, Fira Code, Consolas, monospace",
     "editor.fontSize": 12,
     "editor.rulers": [ 80 ],

@@ -55,6 +55,10 @@ user_pref("webgl.disable-extensions", false);
 user_pref("webgl.min_capability_mode", false);  
 /* 2012: disable two more webgl preferences [FF51+] [REVERT] ***/
 user_pref("webgl.enable-webgl2", true);
+/* 2030: disable auto-play of HTML5 media [FF63+]
+ * 0=Allowed (default), 1=Blocked, 2=Prompt
+ * [SETUP-WEB] This may break video playback on various sites ***/
+user_pref("media.autoplay.default", 2);
 /* 2212: limit events that can cause a popup [REVERT] */
 user_pref("dom.popup_allowed_events", "change click dblclick mouseup notificationclick reset submit");
 /* 2302: disable service workers [FF32, FF44-compat] [UMATRIX] */
@@ -98,5 +102,10 @@ user_pref("layout.spellcheckDefault", 2);
 user_pref("network.manage-offline-status", false); 
 user_pref("browser.link.open_newwindow.override.external", 3);
 user_pref("browser.tabs.loadDivertedInBackground", true);
-user_pref("browser.tabs.loadInBackground", false);      
-user_pref("security.webauth.u2f", true);
+user_pref("browser.tabs.loadInBackground", false);
+user_pref("security.webauth.u2f",true);
+user_pref("media.autoplay.allow-muted", false);
+/****
+END OF THE LINE
+****/
+user_pref("_user.js.parrot", "SUCCESS: No no he's not dead, he's, he's restin'!");

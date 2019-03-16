@@ -18,14 +18,14 @@
 	tool = winmerge
 [mergetool]
 	keepBackup = false
+[credential]
+	helper = manager
 [pull]
 	rebase = false
 [fetch]
 	prune = false
 [rebase]
 	autoStash = false
-[credential]
-	helper = manager
 [http]
 	sslCAInfo = C:/Users/Rst.Pie/.gitssl/ca-bundle.crt
 [winUpdater]
