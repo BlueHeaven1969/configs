@@ -1,19 +1,22 @@
 set nocompatible
-filetype off
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+call plug#begin('~/vimfiles/plugged')
 
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'altercation/vim-colors-solarized'
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'airblade/vim-gitgutter'
-Plugin 'octol/vim-cpp-enhanced-highlight'
-Plugin 'tpope/vim-vinegar'
-Plugin 'tpope/vim-markdown'
+Plug 'altercation/vim-colors-solarized'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'airblade/vim-gitgutter'
+Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'tpope/vim-vinegar'
+Plug 'tpope/vim-markdown'
+Plug 'Shougo/deoplete.nvim'
+Plug 'roxma/nvim-yarp'
+Plug 'roxma/vim-hug-neovim-rpc'
+Plug 'Shougo/neco-syntax'
+Plug 'ujihisa/neco-look'
+Plug 'Shougo/deoplete-clangx'
+Plug 'deoplete-plugins/deoplete-jedi'
 
-call vundle#end()
-filetype plugin indent on
+call plug#end()
 
 if !empty($ConEmuBuild)
     set encoding=utf-8
@@ -26,8 +29,8 @@ if !empty($ConEmuBuild)
 endif
 
 syntax enable
-"set background=dark
-"colorscheme solarized
+set background=dark
+colorscheme solarized
 set number
 set tabstop=4
 set softtabstop=4
@@ -44,6 +47,7 @@ let g:airline_theme = 'solarized'
 let g:airline_solarized_bg = 'dark'
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
+let g:deoplete#enable_at_startup = 1
 inoremap <Char-0x07F> <BS>
 nnoremap <Char-0x07F> <BS>
 

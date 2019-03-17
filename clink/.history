@@ -1,0 +1,27 @@
+exit
+set
+exit
+set
+exit
+ls
+exit
+exit
+vim
+nvim
+ls
+nvim _vimrc
+exit
+nvim
+scoop uninstall neovim
+vim
+chcp 64001
+exit
+nvim
+scoop uninstall neovim
+chcp 64001
+chcp 65001
+scoop search silver
+scoop install ag
+scoop search fzf
+scoop install fzf
+vim
