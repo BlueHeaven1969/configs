@@ -29,8 +29,8 @@ if !empty($ConEmuBuild)
 endif
 
 syntax enable
-set background=dark
-colorscheme solarized
+"set background=dark
+"colorscheme solarized
 set number
 set tabstop=4
 set softtabstop=4
@@ -43,6 +43,7 @@ set incsearch
 set hlsearch
 set colorcolumn=80
 set backspace=2
+"set termguicolors
 let g:airline_theme = 'solarized'
 let g:airline_solarized_bg = 'dark'
 let g:airline_powerline_fonts = 1
