@@ -1,16 +1,33 @@
 // Place your settings in this file to overwrite the default settings
 {
     "telemetry.enableTelemetry": false,
+    "extensions.autoUpdate": false,
     "workbench.statusBar.feedback.visible": false,
     "workbench.iconTheme": "solarized",
     "workbench.colorTheme": "Rick's Solarized Dark",
     "workbench.editor.highlightModifiedTabs": true,
-    "editor.fontFamily": "Hack Nerd Font, Fantasque Sans Mono, Fira Code, Consolas, monospace",
+    "workbench.enableExperiments": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.detectIndentation": false,
+    "editor.smoothScrolling": true,
+    "editor.minimap.maxColumn": 90,
+    "editor.fontFamily": "Hack Nerd Font, Hack, Fira Code, monospace",
     "editor.fontSize": 12,
     "editor.rulers": [ 80 ],
     "editor.formatOnType": false,
-    "editor.renderControlCharacters": false,
+    "editor.folding": false,
+    "search.showLineNumbers": true,
     "search.useIgnoreFiles": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.html": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
     "files.exclude": {
         "**/*.pyc": true,
         "**/.git": true,
@@ -77,7 +94,10 @@
     "doxdocgen.file.fileTemplate": "@file {name}",
     "doxdocgen.generic.authorTag": "@author Rick St Pierre",
     "doxdocgen.generic.authorName": "Rick St Pierre",
-    "C_Cpp.clang_format_path": "C:/Users/Rst.Pie/scoop/apps/LLVM/current/bin/clang-format.exe",
+    "C_Cpp.clang_format_path": "${env:USERPROFILE}/scoop/apps/LLVM/current/bin/clang-format.exe",
+    "C_Cpp.updateChannel": "Insiders",
+    "vim.overrideCopy": true,
+    "vim.useCtrlKeys": true,
     "vim.handleKeys": {
         "<C-d>": true,
         "<C-k>": false
@@ -86,9 +106,6 @@
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.fontFamily": "Hack Nerd Font, Hack",
     "terminal.integrated.shell.windows": "cmd.exe",
-    "terminal.integrated.shellArgs.windows": [
-        "/k", "C:\\Users\\Rst.Pie\\scoop\\apps\\cmder\\current\\vendor\\init.bat"
-    ],
     "[markdown]": {
         "editor.wordWrap": "off",
         "editor.quickSuggestions": false
@@ -116,7 +133,7 @@
         "/[A-Z]{2,}/g",
         "/cr[\\w]*_[\\w]*/g"
     ],
-    "projects.configPath": "C:/Users/Rst.Pie/Projects/projects.json",
+    "projects.configPath": "${env:USERPROFILE}/Projects/projects.json",
     "projects.checkDirty": true,
     "projects.showBranch":true,
     "projects.viewAllEnabled": true,
@@ -126,26 +143,5 @@
         "master",
         "CR50-INT"
     ],
-    "workbench.iconTheme": "solarized",
-    "workbench.colorTheme": "Rick's Solarized Dark",
-    "workbench.editor.highlightModifiedTabs": true,
-    "editor.renderWhitespace": "none",
     "debug.toolBarLocation": "docked",
-    "search.exclude": {
-        "**/node_modules": true,
-        "**/bower_components": true,
-        "**/*.html": true
-    },
-    "C_Cpp.updateChannel": "Insiders",
-    "editor.detectIndentation": false,
-    "editor.smoothScrolling": true,
-    "editor.minimap.maxColumn": 90,
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "workbench.enableExperiments": false,
-    "editor.minimap.renderCharacters": false,
-    "diffEditor.ignoreTrimWhitespace": true,
-    "search.showLineNumbers": true,
-    "terminal.integrated.rendererType": "dom",
-    "extensions.autoUpdate": false,
 }
