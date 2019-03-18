@@ -40,20 +40,38 @@ ansiEscChar = "\x1b"
 ansiFgClrBlack = "30"
 ansiFgClrRed = "31"
 ansiFgClrGreen = "32"
-ansiFgClrYellow = "33"
+ansiFgClrYellow = "36"
 ansiFgClrBlue = "34"
 ansiFgClrMagenta = "35"
-ansiFgClrCyan = "36"
+ansiFgClrCyan = "33"
 ansiFgClrWhite = "37"
 -- ANSI Background Colors
 ansiBgClrBlack = "40"
 ansiBgClrRed = "41"
 ansiBgClrGreen = "42"
-ansiBgClrYellow = "43"
+ansiBgClrYellow = "46"
 ansiBgClrBlue = "44"
 ansiBgClrMagenta = "45"
-ansiBgClrCyan = "46"
+ansiBgClrCyan = "43"
 ansiBgClrWhite = "47"
+-- ANSI Bright Foreground Colors
+ansiFgClrBlackBr = "90"
+ansiFgClrRedBr = "91"
+ansiFgClrGreenBr = "92"
+ansiFgClrYellowBr = "96"
+ansiFgClrBlueBr = "94"
+ansiFgClrMagentaBr = "95"
+ansiFgClrCyanBr = "93"
+ansiFgClrWhiteBr = "97"
+-- ANSI Bright Background Colors
+ansiBgClrBlackBr = "100"
+ansiBgClrRedBr = "101"
+ansiBgClrGreenBr = "102"
+ansiBgClrYellowBr = "106"
+ansiBgClrBlueBr = "104"
+ansiBgClrMagentaBr = "105"
+ansiBgClrCyanBr = "103"
+ansiBgClrWhiteBr = "107"
 
 -- Colors
 colorBlack = {
@@ -87,6 +105,39 @@ colorCyan = {
 colorWhite = {
 	foreground = ansiFgClrWhite,
 	background = ansiBgClrWhite
+}
+-- Bright Colors
+colorBlackBr = {
+	foreground = ansiFgClrBlackBr,
+	background = ansiBgClrBlackBr
+}
+colorRedBr = {
+	foreground = ansiFgClrRedBr,
+	background = ansiBgClrRedBr
+}
+colorGreenBr = {
+	foreground = ansiFgClrGreenBr,
+	background = ansiBgClrGreenBr
+}
+colorYellowBr = {
+	foreground = ansiFgClrYellowBr,
+	background = ansiBgClrYellowBr
+}
+colorBlueBr = {
+	foreground = ansiFgClrBlueBr,
+	background = ansiBgClrBlueBr
+}
+colorMagentaBr = {
+	foreground = ansiFgClrMagentaBr,
+	background = ansiBgClrMagentaBr
+}
+colorCyanBr = {
+	foreground = ansiFgClrCyanBr,
+	background = ansiBgClrCyanBr
+}
+colorWhiteBr = {
+	foreground = ansiFgClrWhiteBr,
+	background = ansiBgClrWhiteBr
 }
 
 -- Variables to maintain prompt state

@@ -1,0 +1,17 @@
+bierner.markdown-checkbox
+bierner.markdown-emoji
+cschlosser.doxdocgen
+dan-c-underwood.arm
+donjayamanne.githistory
+fabiospampinato.vscode-projects-plus
+Gruntfuggly.todo-tree
+jebbs.plantuml
+jeff-hykin.better-cpp-syntax
+marus25.cortex-debug
+ms-python.python
+ms-vscode.cpptools
+rsp.rick-solarized
+slevesque.vscode-hexdump
+streetsidesoftware.code-spell-checker
+twxs.cmake
+vscodevim.vim

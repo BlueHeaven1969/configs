@@ -14,7 +14,7 @@
     "editor.detectIndentation": false,
     "editor.smoothScrolling": true,
     "editor.minimap.maxColumn": 90,
-    "editor.fontFamily": "Hack Nerd Font, Hack, Fira Code, monospace",
+    "editor.fontFamily": "Hack NF, Hack, Fira Code, monospace",
     "editor.fontSize": 12,
     "editor.rulers": [ 80 ],
     "editor.formatOnType": false,
@@ -104,7 +104,7 @@
     },
     "breadcrumbs.enabled": true,
     "terminal.integrated.fontSize": 12,
-    "terminal.integrated.fontFamily": "Hack Nerd Font, Hack",
+    "terminal.integrated.fontFamily": "Hack NF, Hack",
     "terminal.integrated.shell.windows": "cmd.exe",
     "[markdown]": {
         "editor.wordWrap": "off",

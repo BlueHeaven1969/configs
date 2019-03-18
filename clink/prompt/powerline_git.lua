@@ -1,18 +1,4 @@
 -- Constants
-local segmentColors = {
-    clean = {
-        fill = colorGreen,
-        text = colorWhite
-    },
-    dirty = {
-        fill = colorYellow,
-        text = colorBlack
-    },
-    conflict = {
-        fill = colorRed,
-        text = colorWhite
-    }
-}
 
 ---
 -- Finds out the name of the current branch
@@ -99,25 +85,8 @@ local function init()
             -- local gitConflict = get_git_conflict()
             segment.text = " "..plc_git_branchSymbol.." "..branch.." "
 
-
-            -- if gitConflict then
-            --    segment.textColor = segmentColors.conflict.text
-            --    segment.fillColor = segmentColors.conflict.fill
-            --    if plc_git_conflictSymbol then
-            --        segment.text = segment.text..plc_git_conflictSymbol
-            --    end 
-            --    return
-            --end 
-
-            --if gitStatus then
-            --    segment.textColor = segmentColors.clean.text
-            --    segment.fillColor = segmentColors.clean.fill
-            --    segment.text = segment.text..""
-            --    return
-            --end
-
-            segment.textColor = segmentColors.dirty.text
-            segment.fillColor = segmentColors.dirty.fill
+            segment.textColor = colorBlackBr
+            segment.fillColor = colorGreenBr
             -- segment.text = segment.text.."± "
 		else
 			segment.isNeeded = false

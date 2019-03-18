@@ -1,8 +1,8 @@
 -- Constants
 local exports = require('path')
 local segmentColors = {
-    fill = colorCyan,
-    text = colorWhite
+    fill = colorCyanBr,
+    text = colorBlackBr
 }
 
 function get_virtual_env(env_var)

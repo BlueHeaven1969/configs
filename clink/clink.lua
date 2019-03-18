@@ -380,11 +380,11 @@ local function svn_prompt_filter()
 end
 
 -- insert the set_prompt at the very beginning so that it runs first
-clink.prompt.register_filter(set_prompt_filter, 1)
-clink.prompt.register_filter(hg_prompt_filter, 50)
-clink.prompt.register_filter(git_prompt_filter, 50)
-clink.prompt.register_filter(svn_prompt_filter, 50)
-clink.prompt.register_filter(percent_prompt_filter, 51)
+--clink.prompt.register_filter(set_prompt_filter, 1)
+--clink.prompt.register_filter(hg_prompt_filter, 50)
+--clink.prompt.register_filter(git_prompt_filter, 50)
+--clink.prompt.register_filter(svn_prompt_filter, 50)
+--clink.prompt.register_filter(percent_prompt_filter, 51)
 
 local completions_dir = clink.get_env('USERPROFILE')..'/scoop/persist/clink/clink-completions/'
 for _,lua_module in ipairs(clink.find_files(completions_dir..'*.lua')) do

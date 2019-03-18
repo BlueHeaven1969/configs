@@ -34,8 +34,8 @@ end
 local segment = {
     isNeeded = true,
     text = "",
-    textColor = colorWhite, 
-    fillColor = colorBlue
+    textColor = colorBlackBr, 
+    fillColor = colorBlueBr
 }
 
 local function nocase(s)
