@@ -1,4 +1,3 @@
-// Place your settings in this file to overwrite the default settings
 {
     "telemetry.enableTelemetry": false,
     "extensions.autoUpdate": false,
@@ -96,16 +95,20 @@
     "doxdocgen.generic.authorName": "Rick St Pierre",
     "C_Cpp.clang_format_path": "${env:USERPROFILE}/scoop/apps/LLVM/current/bin/clang-format.exe",
     "C_Cpp.updateChannel": "Insiders",
+    "C_Cpp.autocomplete": "Disabled",
+    "C_Cpp.formatting": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.intelliSenseEngine": "Disabled",
     "vim.overrideCopy": true,
-    "vim.useCtrlKeys": true,
-    "vim.handleKeys": {
-        "<C-d>": true,
-        "<C-k>": false
-    },
+    "vim.highlightedyank.color": "rgba(211, 54, 130, 0.5)",
+    "vim.highlightedyank.duration": 500,
+    "vim.highlightedyank.enable": true,
     "breadcrumbs.enabled": true,
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.fontFamily": "Hack NF, Hack",
     "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/k", "C:/Users/rsp/scoop/apps/conemu/current/conemu/cmdinit.cmd"],
+    "terminal.integrated.windowsEnableConpty": true,
     "[markdown]": {
         "editor.wordWrap": "off",
         "editor.quickSuggestions": false
@@ -114,6 +117,7 @@
     "git.enableSmartCommit": true,
     "git.inputValidation": "off",
     "git.confirmSync": false,
+    "git.enableCommitSigning": true,
     "cSpell.enabledLanguageIds": [
         "asciidoc",
         "markdown",
@@ -123,25 +127,29 @@
         "typescript",
     ],
     "cSpell.allowCompoundWords": true,
-    "cSpell.userWords": [
-        "logix",
-        "sdcard",
-        "vlatest",
-        "wuppertal"
-    ],
     "cSpell.ignoreRegExpList": [
         "/[A-Z]{2,}/g",
         "/cr[\\w]*_[\\w]*/g"
     ],
-    "projects.configPath": "${env:USERPROFILE}/Projects/projects.json",
-    "projects.checkDirty": true,
-    "projects.showBranch":true,
-    "projects.viewAllEnabled": true,
-    "projects.sortGroups": false,
-    "projects.sortProjects": false,
-    "projects.ignoreBranches": [
-        "master",
-        "CR50-INT"
-    ],
+    "cortex-debug.JLinkGDBServerPath": "C:/Program Files (x86)/SEGGER/JLink_V640/JLinkGDBServerCL.exe",
     "debug.toolBarLocation": "docked",
+    "cquery.launch.command":"C:/Users/rsp/Documents/projects/cquery/build/release/bin/cquery.exe",
+    "cquery.launch.args":["-fno-ms-extensions","-fno-ms-compatibility","-fno-delayed-template-parsing"],
+    "cquery.cacheDirectory": "C:/Users/rsp/.cquery-cache",
+    "cquery.highlighting.enabled.types": true,
+    "cquery.highlighting.enabled.freeStandingFunctions": true,
+    "cquery.highlighting.enabled.memberFunctions": true,
+    "cquery.highlighting.enabled.freeStandingVariables": true,
+    "cquery.highlighting.enabled.memberVariables": true,
+    "cquery.highlighting.enabled.namespaces": true,
+    "cquery.highlighting.enabled.macros": true,
+    "cquery.highlighting.enabled.enums": true,
+    "cquery.highlighting.enabled.typeAliases": true,
+    "cquery.highlighting.enabled.enumConstants": true,
+    "cquery.highlighting.enabled.staticMemberFunctions": true,
+    "cquery.highlighting.enabled.parameters": true,
+    "cquery.highlighting.enabled.templateParameters": true,
+    "cquery.highlighting.enabled.staticMemberVariables": true,
+    "cquery.highlighting.enabled.globalVariables": true,
+    "cquery.misc.status": "detailed",
 }
