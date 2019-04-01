@@ -29,6 +29,10 @@ user_pref("browser.urlbar.suggest.history", true);
 user_pref("browser.urlbar.autoFill", true);
 /* 0860: disable search and form history [REVERT] */
 user_pref("browser.formfill.enable", true); 
+/* 0901: disable saving passwords
+ * [NOTE] This does not clear any passwords already saved
+ * [SETTING] Privacy & Security>Forms & Passwords>Ask to save logins and passwords for websites ***/
+user_pref("signon.rememberSignons", false);
 /* 1008: set DNS cache and expiration time (default 400 and 60, same as Tor Browser) [UPDATE] ***/
 user_pref("network.dnsCacheExpiration", 3600);              
 user_pref("network.dnsCacheExpirationGracePeriod", 3600);    
