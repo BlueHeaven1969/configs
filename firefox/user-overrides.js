@@ -1,5 +1,7 @@
 user_pref("_user.js.parrot", "syntax error @ Rick's Overrides"); // troubleshooting pref - do not edit
 /**/
+/* 0301b: disable auto-CHECKING for extension and theme updates ***/
+user_pref("extensions.update.enabled", false);
 /* 0370: disable Pocket [FF46+] [REVERT] */
 user_pref("extensions.pocket.enabled", true); 
 /* 0410: disable "Block dangerous and deceptive content" [ENABLE]
@@ -55,10 +57,6 @@ user_pref("webgl.disable-extensions", false);
 user_pref("webgl.min_capability_mode", false);  
 /* 2012: disable two more webgl preferences [FF51+] [REVERT] ***/
 user_pref("webgl.enable-webgl2", true);
-/* 2030: disable auto-play of HTML5 media [FF63+]
- * 0=Allowed (default), 1=Blocked, 2=Prompt
- * [SETUP-WEB] This may break video playback on various sites ***/
-user_pref("media.autoplay.default", 2);
 /* 2212: limit events that can cause a popup [REVERT] */
 user_pref("dom.popup_allowed_events", "change click dblclick mouseup notificationclick reset submit");
 /* 2302: disable service workers [FF32, FF44-compat] [UMATRIX] */
