@@ -1,0 +1,249 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.23 (2ee355d)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2019-04-03T10:43:52-0400",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 6401675955483954625,
+         "label" : "C:\\",
+         "time" : "2019-04-02T17:26:03-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13052353612305200797,
+         "label" : "DuckDuckGo",
+         "time" : "2019-04-02T17:37:03-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1485275054106232780,
+         "label" : "Switch To...",
+         "time" : "2019-04-02T17:54:45-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11830874327435031584,
+         "label" : "Switch To",
+         "time" : "2019-04-02T17:54:45-0400"
+      },
+      {
+         "action" : null,
+         "item" : 107037676436224396,
+         "label" : "firefox.exe",
+         "time" : "2019-04-02T18:01:23-0400"
+      },
+      {
+         "action" : null,
+         "item" : 15781698090780769360,
+         "label" : "Bookmark: Boston LGBT Film Festival (Firefox)",
+         "time" : "2019-04-02T18:04:39-0400"
+      },
+      {
+         "action" : null,
+         "item" : 2844236073738632200,
+         "label" : "Mozilla Firefox",
+         "time" : "2019-04-02T18:05:46-0400"
+      },
+      {
+         "action" : null,
+         "item" : 18248626174306144131,
+         "label" : "Git Extensions",
+         "time" : "2019-04-02T18:09:40-0400"
+      },
+      {
+         "action" : null,
+         "item" : 690281960525131449,
+         "label" : "Collaborator Client GUI",
+         "time" : "2019-04-02T18:17:14-0400"
+      },
+      {
+         "action" : null,
+         "item" : 15781698090780769360,
+         "label" : "Bookmark: Boston LGBT Film Festival (Firefox)",
+         "time" : "2019-04-03T10:29:26-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-03T10:29:37-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10207235895162428035,
+         "label" : "saflogs",
+         "time" : "2019-04-03T10:42:50-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10207235895162428035,
+         "label" : "saflogs",
+         "time" : "2019-04-03T10:43:52-0400"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "forbidden",
+            "category" : "url",
+            "hit_hint" : "noargs",
+            "id" : 15781698090780769360,
+            "label" : "Bookmark: Boston LGBT Film Festival (Firefox)",
+            "loop_on_suggest" : false,
+            "plugin" : "Bookmarks.Bookmarks",
+            "short_desc" : "",
+            "target" : "http://www.bostonlgbtfilmfest.net/"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6401675955483954625,
+            "label" : "C:\\",
+            "loop_on_suggest" : true,
+            "plugin" : "FileBrowser.FileBrowser",
+            "short_desc" : "",
+            "target" : "C:\\"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 690281960525131449,
+            "label" : "Collaborator Client GUI",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Collaborator Client",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Collaborator Client\\Collaborator Client GUI.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 13052353612305200797,
+            "label" : "DuckDuckGo",
+            "loop_on_suggest" : false,
+            "plugin" : "WebSearch.WebSearch",
+            "short_desc" : "Search DuckDuckGo",
+            "target" : "site=%27duckduckgo%27"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 307004736900211778,
+            "label" : "ff",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Users\\Rst.Pie\\scoop\\apps\\firefox\\current\\firefox.exe\"",
+            "target" : "ff"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 107037676436224396,
+            "label" : "firefox.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\Users\\RSt.Pie\\scoop\\shims\\firefox.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 18248626174306144131,
+            "label" : "Git Extensions",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Git Extensions.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2844236073738632200,
+            "label" : "Mozilla Firefox",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Mozilla Firefox.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 10207235895162428035,
+            "label" : "saflogs",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Users\\Rst.Pie\\Projects\\Scripts\\PullSafetyLog.cmd\"",
+            "target" : "saflogs"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "file",
+            "hit_hint" : "noargs",
+            "id" : 11830874327435031584,
+            "label" : "Switch To",
+            "loop_on_suggest" : false,
+            "plugin" : "TaskSwitcher.TaskSwitcher",
+            "short_desc" : "Switch To: EipApp.c - eip (Workspace) - Visual Studio Code (Code)",
+            "target" : "C:\\Users\\RSt.Pie\\scoop\\apps\\vscode-portable\\1.32.3\\Code.exe"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 1485275054106232780,
+            "label" : "Switch To...",
+            "loop_on_suggest" : false,
+            "plugin" : "TaskSwitcher.TaskSwitcher",
+            "short_desc" : "Switch to a running application",
+            "target" : "switchto"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 6401675955483954625 ],
+            "search" : "/"
+         },
+         {
+            "items" : [ 690281960525131449 ],
+            "search" : "collab"
+         },
+         {
+            "items" : [ 307004736900211778, 15781698090780769360 ],
+            "search" : "ff"
+         },
+         {
+            "items" : [ 2844236073738632200, 107037676436224396 ],
+            "search" : "fire"
+         },
+         {
+            "items" : [ 18248626174306144131 ],
+            "search" : "gitex"
+         },
+         {
+            "items" : [ 10207235895162428035 ],
+            "search" : "saf"
+         },
+         {
+            "items" : [ 10207235895162428035 ],
+            "search" : "saflogs"
+         },
+         {
+            "items" : [ 13052353612305200797 ],
+            "search" : "webseach dd"
+         }
+      ]
+   }
+}

@@ -1,0 +1,14 @@
+1. Download LLVM  and clang source
+2. Unzip both in directory (ie llvm8) side by side
+3. create directory llvm-8.0.0.build and enter directory
+4. run cmake in VS x64 command prompt:
+   cmake ../llvm-8.0.0.src -G"Visual Studio 15 2017 Win64" -DLLVM_TARGETS_TO_BUILD="X86" -DCMAKE_INSTALL_PREFIX=C:\Users\Rst.Pie\Tools\llvm8 -DCMAKE_BUILD_TYPE=Release 
+5. run msbuild in VS x64 command prompt:
+   msbuild /m /p:Configuration=Release INSTALL.vcxproj
+6. Repeat 4 and 5 for cfe-8.0.0.build:
+   cmake ../cfe-8.0.0.src -G"Visual Studio 15 2017 Win64" -DLLVM_TARGETS_TO_BUILD="X86" -DCMAKE_INSTALL_PREFIX=C:\Users\Rst.Pie\Tools\llvm8 
+   msbuild /m p:Configuration=Release INSTALL.vcxproj
+7. Update ccls git repo
+8. cmake ../ccls.src -G"Visual Studio 15 2017 Win64" -BRelease -DCMAKE_BUILD_TYPE=Release -DCMAKE_PREFIX_PATH=C:/Users/Rst.Pie/Tools/LLVM -DCMAKE_INSTALL_PREFIX=C:/Users/Rst.Pie/Tools/LLVM
+   cd Release
+   msbuild /m /p:Configuration=Release INSTALL.vcxproj
