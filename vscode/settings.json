@@ -1,7 +1,11 @@
 // Place your settings in this file to overwrite the default settings
 {
+    // VSCODE SETTINGS
     "telemetry.enableTelemetry": false,
     "extensions.autoUpdate": false,
+    "extensions.ignoreRecommendations": true,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "breadcrumbs.enabled": true,
     "workbench.statusBar.feedback.visible": false,
     "workbench.iconTheme": "solarized",
     "workbench.colorTheme": "Rick's Solarized Dark",
@@ -10,6 +14,7 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "diffEditor.ignoreTrimWhitespace": true,
+    "debug.toolBarLocation": "docked",
     "editor.minimap.renderCharacters": false,
     "editor.detectIndentation": false,
     "editor.smoothScrolling": true,
@@ -17,7 +22,8 @@
     "editor.fontFamily": "Hack NF, Hack, Fira Code, monospace",
     "editor.fontSize": 12,
     "editor.rulers": [ 80 ],
-    "editor.formatOnType": false,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
     "editor.folding": false,
     "search.showLineNumbers": true,
     "search.useIgnoreFiles": false,
@@ -40,6 +46,17 @@
         "**/.settings": true,
         "**/.ccls-cache": true
     },
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Hack NF, Hack",
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/k", "C:/Users/Rst.Pie/.vscode.cmd"
+    ],
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.inputValidation": "off",
+    "git.confirmSync": false,
+    // ToDoTree EXTENSION SETTINGS
     "todo-tree.tags": [
         "TODO",
         "FIXME",
@@ -85,6 +102,7 @@
         }
     },
     "todo-tree.expanded": true,
+    // DOXDOCGEN EXTENSION SETTINGS
     "doxdocgen.c.commentPrefix": "/// ",
     "doxdocgen.c.firstLine": "///-----------------------------------------------------------------------------",
     "doxdocgen.c.lastLine": "///------------------------------------------------------------------------------",
@@ -92,13 +110,17 @@
     "doxdocgen.file.fileTemplate": "@file {name}",
     "doxdocgen.generic.authorTag": "@author Rick St Pierre",
     "doxdocgen.generic.authorName": "Rick St Pierre",
+    // GITEXTENSTIONS SETTINGS
     "gitExtensions.exe.path": "C:/Users/Rst.Pie/scoop/apps/gitextensions-dev/current/gitextensions/gitextensions.exe",
+    // VIM SETTINGS
     "vim.overrideCopy": true,
     "vim.useCtrlKeys": true,
     "vim.highlightedyank.enable":true,
     "vim.highlightedyank.color":"rgba(211, 54, 130, 0.5)",
     "vim.highlightedyank.duration":500,
+    // CCLS SETTINGS
     "ccls.cache.directory": "${workspaceFolder}/.vscode/.ccls-cache",
+    "ccls.index.onChange": true,
     "ccls.theme.dark.skippedRange.backgroundColor": "rgba(0,36,47)",
     "ccls.theme.dark.skippedRange.textColor": "rgb(88,110,117)",
     "ccls.highlighting.enabled.enums": true,
@@ -125,21 +147,7 @@
     "ccls.highlighting.colors.types": [ "#cb4b16" ],
     "ccls.highlighting.colors.typeAliases": [ "#b58900" ],
     "ccls.codeLens.enabled": false,
-    "breadcrumbs.enabled": true,
-    "terminal.integrated.fontSize": 12,
-    "terminal.integrated.fontFamily": "Hack NF, Hack",
-    "terminal.integrated.shell.windows": "cmd.exe",
-    "terminal.integrated.shellArgs.windows": [
-        "/k", "C:/Users/Rst.Pie/.vscode.cmd"
-    ],
-    "[markdown]": {
-        "editor.wordWrap": "off",
-        "editor.quickSuggestions": false
-    },
-    "git.autofetch": true,
-    "git.enableSmartCommit": true,
-    "git.inputValidation": "off",
-    "git.confirmSync": false,
+    // CSPELL EXTENSION SETTINGS
     "cSpell.enabledLanguageIds": [
         "asciidoc",
         "markdown",
@@ -159,6 +167,7 @@
         "/[A-Z]{2,}/g",
         "/cr[\\w]*_[\\w]*/g"
     ],
+    // PROJECTS+ EXTENSION SETTINGS
     "projects.configPath": "C:/Users/Rst.Pie/Projects/projects.json",
     "projects.checkDirty": true,
     "projects.showBranch":true,
@@ -169,15 +178,12 @@
         "master",
         "CR50-INT"
     ],
-    "debug.toolBarLocation": "docked",
-    "extensions.ignoreRecommendations": true,
-    "extensions.showRecommendationsOnlyOnDemand": true,
-    "ccls.index.onChange": true,
-    "gitlens.currentLine.enabled": false,
-    "gitlens.hovers.currentLine.over": "line",
-    "gitlens.hovers.enabled": false,
-    "gitlens.codeLens.enabled": false,
+    // LANGUAGE SPECIFIC SETTINGS
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": false
+    },
     "[c]": {
-        "editor.defaultFormatter": "ccls-project.ccls"
+        "editor.defaultFormatter": "LaurentTreguier.uncrustify"
     },
 }
