@@ -1,0 +1,4 @@
+! Title: Rick's Ublock Filters
+! Description: Filters to fix things I find annoying
+! Expires: 5 days
+!
