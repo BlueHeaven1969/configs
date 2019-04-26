@@ -3,7 +3,7 @@
       "creator" : "Keypirinha v2.23 (2ee355d)",
       "creator_url" : "http://keypirinha.com/",
       "format" : 102,
-      "modified" : "2019-04-03T10:43:52-0400",
+      "modified" : "2019-04-26T15:39:14-0400",
       "type" : "history"
    },
    "history" : [
@@ -84,6 +84,1242 @@
          "item" : 10207235895162428035,
          "label" : "saflogs",
          "time" : "2019-04-03T10:43:52-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-03T19:52:30-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-04T10:42:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-04T12:15:36-0400"
+      },
+      {
+         "action" : null,
+         "item" : 12112892945614654744,
+         "label" : "Notepad++",
+         "time" : "2019-04-04T13:28:36-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-04T17:46:27-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14226607404542140165,
+         "label" : "sp",
+         "time" : "2019-04-04T17:46:43-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-05T10:30:07-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-05T12:26:31-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-05T16:39:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-05T19:06:27-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-06T20:44:45-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-06T22:55:59-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-08T10:33:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-08T10:40:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-08T11:00:46-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-08T11:43:59-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-08T11:52:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17206343524679408240,
+         "label" : "PulseView",
+         "time" : "2019-04-08T12:11:03-0400"
+      },
+      {
+         "action" : null,
+         "item" : 18168495158365668489,
+         "label" : "Keypirinha: Console",
+         "time" : "2019-04-08T12:40:52-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2019-04-08T12:43:18-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13903072334099508694,
+         "label" : "PackageControl: Install Package",
+         "time" : "2019-04-08T12:53:49-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17577183290702030469,
+         "label" : "Zeal",
+         "time" : "2019-04-08T12:56:11-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17577183290702030469,
+         "label" : "Zeal",
+         "time" : "2019-04-08T13:22:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17577183290702030469,
+         "label" : "Zeal",
+         "time" : "2019-04-08T13:28:47-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17206343524679408240,
+         "label" : "PulseView",
+         "time" : "2019-04-08T13:32:40-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14580246279257990316,
+         "label" : "Wireshark",
+         "time" : "2019-04-08T13:34:52-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-09T10:27:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-09T10:32:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-09T11:08:23-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-09T11:09:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-09T11:23:02-0400"
+      },
+      {
+         "action" : null,
+         "item" : 2867053665542538823,
+         "label" : "ps",
+         "time" : "2019-04-09T11:30:45-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-09T11:31:55-0400"
+      },
+      {
+         "action" : null,
+         "item" : 9929297908889248668,
+         "label" : "SumatraPDF",
+         "time" : "2019-04-09T13:26:43-0400"
+      },
+      {
+         "action" : null,
+         "item" : 6291301339168694414,
+         "label" : "RSLinx Classic",
+         "time" : "2019-04-09T14:22:45-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-09T14:51:37-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-09T14:53:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-09T14:55:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 2867053665542538823,
+         "label" : "ps",
+         "time" : "2019-04-09T15:12:07-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-09T19:06:55-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-10T10:24:35-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-10T10:24:57-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-10T10:33:57-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17206343524679408240,
+         "label" : "PulseView",
+         "time" : "2019-04-10T10:34:12-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-10T10:46:57-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14580246279257990316,
+         "label" : "Wireshark",
+         "time" : "2019-04-10T10:57:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-10T11:04:13-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-10T12:15:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17577183290702030469,
+         "label" : "Zeal",
+         "time" : "2019-04-10T12:26:51-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-10T13:44:54-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17577183290702030469,
+         "label" : "Zeal",
+         "time" : "2019-04-10T15:04:21-0400"
+      },
+      {
+         "action" : null,
+         "item" : 16113900334376201173,
+         "label" : "calc",
+         "time" : "2019-04-10T15:46:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4664987582024594744,
+         "label" : "IAR Embedded Workbench",
+         "time" : "2019-04-10T16:19:01-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-10T16:26:35-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-10T18:58:04-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-10T19:57:34-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-11T10:35:39-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-11T10:35:53-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-11T10:39:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-11T10:50:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4664987582024594744,
+         "label" : "IAR Embedded Workbench",
+         "time" : "2019-04-11T10:51:13-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-11T11:11:50-0400"
+      },
+      {
+         "action" : null,
+         "item" : 16113900334376201173,
+         "label" : "calc",
+         "time" : "2019-04-11T11:17:33-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17577183290702030469,
+         "label" : "Zeal",
+         "time" : "2019-04-11T14:20:15-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-11T19:03:55-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-12T10:35:30-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-12T10:36:22-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-12T10:42:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-12T10:57:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4135212443525875227,
+         "label" : "npp",
+         "time" : "2019-04-12T10:57:51-0400"
+      },
+      {
+         "action" : null,
+         "item" : 2800825727440068816,
+         "label" : "Word 2013",
+         "time" : "2019-04-12T10:58:35-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4135212443525875227,
+         "label" : "npp",
+         "time" : "2019-04-12T11:01:22-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-12T13:15:26-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-12T13:24:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 690281960525131449,
+         "label" : "Collaborator Client GUI",
+         "time" : "2019-04-12T13:41:39-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-12T13:52:52-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-12T15:48:08-0400"
+      },
+      {
+         "action" : null,
+         "item" : 690281960525131449,
+         "label" : "Collaborator Client GUI",
+         "time" : "2019-04-12T16:43:35-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-12T17:33:30-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-12T17:40:28-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-12T18:44:39-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-15T10:44:31-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-15T10:45:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-15T10:45:23-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-15T11:15:34-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-15T11:31:09-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-15T11:38:43-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-15T15:52:02-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-15T16:42:24-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-15T18:36:04-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-15T18:48:47-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-15T19:30:32-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14580246279257990316,
+         "label" : "Wireshark",
+         "time" : "2019-04-15T19:56:56-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-15T19:58:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-16T10:32:01-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-16T10:45:14-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-16T11:40:12-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-16T11:59:03-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-16T13:41:16-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-16T14:28:07-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14580246279257990316,
+         "label" : "Wireshark",
+         "time" : "2019-04-16T17:10:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14226607404542140165,
+         "label" : "sp",
+         "time" : "2019-04-16T18:42:40-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-16T19:42:26-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-17T10:40:23-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-17T10:42:04-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-17T11:08:06-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-17T12:09:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-17T12:40:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-17T13:29:42-0400"
+      },
+      {
+         "action" : null,
+         "item" : 690281960525131449,
+         "label" : "Collaborator Client GUI",
+         "time" : "2019-04-17T17:28:24-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-17T18:20:23-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-17T18:41:00-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-17T19:27:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-17T19:29:59-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-17T19:38:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-18T10:33:06-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-18T10:34:14-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-18T10:37:52-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-18T10:49:15-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-18T11:10:33-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-18T11:14:09-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-18T11:15:18-0400"
+      },
+      {
+         "action" : null,
+         "item" : 5844597351489267470,
+         "label" : "Excel 2013",
+         "time" : "2019-04-18T11:33:30-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4135212443525875227,
+         "label" : "npp",
+         "time" : "2019-04-18T17:11:42-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-18T18:35:03-0400"
+      },
+      {
+         "action" : null,
+         "item" : 8413618772553930320,
+         "label" : "gitx",
+         "time" : "2019-04-18T19:47:27-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-19T10:38:16-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-19T10:43:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-19T10:59:35-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-19T11:01:59-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-19T11:36:26-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-19T11:40:02-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-19T11:45:04-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4135212443525875227,
+         "label" : "npp",
+         "time" : "2019-04-19T11:54:32-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-19T15:19:12-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-19T17:40:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-19T19:20:05-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-19T19:46:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-19T19:58:45-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-22T11:17:31-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-22T11:17:47-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-22T11:18:38-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-22T11:18:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 3019287387836948585,
+         "label" : "Control Panel: Programs and Features",
+         "time" : "2019-04-22T11:24:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14087437042277748389,
+         "label" : "Control Panel: System",
+         "time" : "2019-04-22T11:35:01-0400"
+      },
+      {
+         "action" : null,
+         "item" : 14087437042277748389,
+         "label" : "Control Panel: System",
+         "time" : "2019-04-22T11:38:13-0400"
+      },
+      {
+         "action" : null,
+         "item" : 4135212443525875227,
+         "label" : "npp",
+         "time" : "2019-04-22T11:39:47-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-22T11:45:34-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-22T17:44:47-0400"
+      },
+      {
+         "action" : null,
+         "item" : 9929297908889248668,
+         "label" : "SumatraPDF",
+         "time" : "2019-04-22T18:47:57-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-24T10:46:30-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-24T10:46:33-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-24T10:47:29-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-24T10:52:47-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T10:57:21-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-24T11:39:56-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-24T11:42:13-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-24T12:12:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-24T12:12:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-24T12:13:22-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T12:28:43-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-24T14:34:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T15:00:13-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-24T15:02:42-0400"
+      },
+      {
+         "action" : null,
+         "item" : 1524913209528287661,
+         "label" : "Internet Explorer",
+         "time" : "2019-04-24T16:24:50-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T18:05:11-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T18:06:24-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T18:10:15-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-24T18:50:24-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-24T18:50:35-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-24T18:57:56-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T19:11:00-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-24T19:53:08-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-25T10:44:20-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-25T10:47:34-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-25T10:47:38-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-25T10:59:16-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-25T10:59:21-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-25T11:38:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-25T11:41:39-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-25T13:22:24-0400"
+      },
+      {
+         "action" : null,
+         "item" : 17206343524679408240,
+         "label" : "PulseView",
+         "time" : "2019-04-25T17:34:38-0400"
+      },
+      {
+         "action" : null,
+         "item" : 12446007221866603810,
+         "label" : "PulseView",
+         "time" : "2019-04-25T17:34:52-0400"
+      },
+      {
+         "action" : null,
+         "item" : 10161867907586642106,
+         "label" : "Outlook 2013",
+         "time" : "2019-04-26T10:31:33-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T10:33:48-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-26T10:56:32-0400"
+      },
+      {
+         "action" : null,
+         "item" : 13513809669157698454,
+         "label" : "cmd",
+         "time" : "2019-04-26T11:23:43-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-26T11:38:41-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-26T11:44:17-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-26T11:52:53-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T12:23:17-0400"
+      },
+      {
+         "action" : null,
+         "item" : 11052564524579277781,
+         "label" : "Visual Studio Code",
+         "time" : "2019-04-26T12:35:26-0400"
+      },
+      {
+         "action" : null,
+         "item" : 307004736900211778,
+         "label" : "ff",
+         "time" : "2019-04-26T12:37:04-0400"
+      },
+      {
+         "action" : null,
+         "item" : 16519326107476667420,
+         "label" : "J-Link RTT Viewer V6.34a",
+         "time" : "2019-04-26T13:10:14-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T13:10:22-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T13:34:00-0400"
+      },
+      {
+         "action" : null,
+         "item" : 16519326107476667420,
+         "label" : "J-Link RTT Viewer V6.34a",
+         "time" : "2019-04-26T14:00:54-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T14:01:00-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T14:22:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 5810861833388192450,
+         "label" : "Everything",
+         "time" : "2019-04-26T14:30:19-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T14:33:07-0400"
+      },
+      {
+         "action" : null,
+         "item" : 6604788085129329512,
+         "label" : "explorer.exe",
+         "time" : "2019-04-26T14:34:18-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T15:16:44-0400"
+      },
+      {
+         "action" : null,
+         "item" : 6796599659173402759,
+         "label" : "XYplorer",
+         "time" : "2019-04-26T15:17:10-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T15:32:40-0400"
+      },
+      {
+         "action" : null,
+         "item" : 810011762833996472,
+         "label" : "xx",
+         "time" : "2019-04-26T15:39:14-0400"
       }
    ],
    "sets" : {
@@ -112,6 +1348,28 @@
             "target" : "C:\\"
          },
          {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 16113900334376201173,
+            "label" : "calc",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Windows\\system32\\calc.exe\"",
+            "target" : "calc"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 13513809669157698454,
+            "label" : "cmd",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Users\\RSt.Pie\\scoop\\apps\\conemu\\current\\ConEmu.exe\"",
+            "target" : "cmd"
+         },
+         {
             "args_hint" : "accepted",
             "category" : "file",
             "hit_hint" : "keepall",
@@ -123,6 +1381,28 @@
             "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Collaborator Client\\Collaborator Client GUI.lnk"
          },
          {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 3019287387836948585,
+            "label" : "Control Panel: Programs and Features",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "Uninstall or change programs on your computer.",
+            "target" : "{7b81be6a-ce2b-4676-a29e-eb907a5126c5}"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 14087437042277748389,
+            "label" : "Control Panel: System",
+            "loop_on_suggest" : false,
+            "plugin" : "ControlPanel.ControlPanel",
+            "short_desc" : "View information about your computer, and change settings for hardware, performance, and remote connections.",
+            "target" : "{BB06C0E4-D293-4f75-8A90-CB05B6477EEE}"
+         },
+         {
             "args_hint" : "accepted",
             "category" : "reference",
             "hit_hint" : "noargs",
@@ -132,6 +1412,39 @@
             "plugin" : "WebSearch.WebSearch",
             "short_desc" : "Search DuckDuckGo",
             "target" : "site=%27duckduckgo%27"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5810861833388192450,
+            "label" : "Everything",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Everything.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 5844597351489267470,
+            "label" : "Excel 2013",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Microsoft Office 2013",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Excel 2013.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6604788085129329512,
+            "label" : "explorer.exe",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.EnvPath",
+            "short_desc" : "",
+            "target" : "C:\\WINDOWS\\explorer.exe"
          },
          {
             "args_hint" : "forbidden",
@@ -167,6 +1480,61 @@
             "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Git Extensions.lnk"
          },
          {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 8413618772553930320,
+            "label" : "gitx",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Users\\RSt.Pie\\scoop\\apps\\gitextensions-dev\\current\\GitExtensions\\GitExtensions.exe\"",
+            "target" : "gitx"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 4664987582024594744,
+            "label" : "IAR Embedded Workbench",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\IAR Systems\\IAR Embedded Workbench for ARM 7.40",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IAR Systems\\IAR Embedded Workbench for ARM 7.40\\IAR Embedded Workbench.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 1524913209528287661,
+            "label" : "Internet Explorer",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Internet Explorer.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 16519326107476667420,
+            "label" : "J-Link RTT Viewer V6.34a",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\SEGGER\\J-Link V6.34a",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\SEGGER\\J-Link V6.34a\\J-Link RTT Viewer V6.34a.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 18168495158365668489,
+            "label" : "Keypirinha: Console",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Show Keypirinha's console window",
+            "target" : "console"
+         },
+         {
             "args_hint" : "accepted",
             "category" : "file",
             "hit_hint" : "keepall",
@@ -178,6 +1546,94 @@
             "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Mozilla Firefox.lnk"
          },
          {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12112892945614654744,
+            "label" : "Notepad++",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Notepad++.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 4135212443525875227,
+            "label" : "npp",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Users\\RSt.Pie\\scoop\\apps\\notepadplusplus\\current\\notepad++.exe\"",
+            "target" : "npp"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 10161867907586642106,
+            "label" : "Outlook 2013",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Microsoft Office 2013",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Outlook 2013.lnk"
+         },
+         {
+            "args_hint" : "required",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 13903072334099508694,
+            "label" : "PackageControl: Install Package",
+            "loop_on_suggest" : false,
+            "plugin" : "PackageControl.PackageControl",
+            "short_desc" : "Installs a new packages from the repositiory",
+            "target" : "install"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 2867053665542538823,
+            "label" : "ps",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Users\\RSt.Pie\\scoop\\apps\\processhacker\\current\\ProcessHacker.exe\"",
+            "target" : "ps"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 12446007221866603810,
+            "label" : "PulseView",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\PulseView.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 17206343524679408240,
+            "label" : "PulseView",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\sigrok\\PulseView",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\sigrok\\PulseView\\PulseView.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6291301339168694414,
+            "label" : "RSLinx Classic",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Rockwell Software\\RSLinx",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Rockwell Software\\RSLinx\\RSLinx Classic.lnk"
+         },
+         {
             "args_hint" : "forbidden",
             "category" : "#1001",
             "hit_hint" : "noargs",
@@ -187,6 +1643,28 @@
             "plugin" : "Apps.CustomCmds",
             "short_desc" : "Custom command: \"C:\\Users\\Rst.Pie\\Projects\\Scripts\\PullSafetyLog.cmd\"",
             "target" : "saflogs"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "reference",
+            "hit_hint" : "noargs",
+            "id" : 14226607404542140165,
+            "label" : "sp",
+            "loop_on_suggest" : false,
+            "plugin" : "WebSearch.WebSearch",
+            "short_desc" : "Search sp",
+            "target" : "site=%27sp%27"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 9929297908889248668,
+            "label" : "SumatraPDF",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\SumatraPDF.lnk"
          },
          {
             "args_hint" : "required",
@@ -209,6 +1687,72 @@
             "plugin" : "TaskSwitcher.TaskSwitcher",
             "short_desc" : "Switch to a running application",
             "target" : "switchto"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 11052564524579277781,
+            "label" : "Visual Studio Code",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Visual Studio Code.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 14580246279257990316,
+            "label" : "Wireshark",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Wireshark.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 2800825727440068816,
+            "label" : "Word 2013",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Microsoft Office 2013",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office 2013\\Word 2013.lnk"
+         },
+         {
+            "args_hint" : "forbidden",
+            "category" : "#1001",
+            "hit_hint" : "noargs",
+            "id" : 810011762833996472,
+            "label" : "xx",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.CustomCmds",
+            "short_desc" : "Custom command: \"C:\\Program Files\\zabkat\\xplorer2\\xplorer2_64.exe\"",
+            "target" : "xx"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 6796599659173402759,
+            "label" : "XYplorer",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\XYplorer.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 17577183290702030469,
+            "label" : "Zeal",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Scoop Apps",
+            "target" : "C:\\Users\\RSt.Pie\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Scoop Apps\\Zeal.lnk"
          }
       ],
       "terms" : [
@@ -217,8 +1761,40 @@
             "search" : "/"
          },
          {
+            "items" : [ 16113900334376201173 ],
+            "search" : "cal"
+         },
+         {
+            "items" : [ 13513809669157698454 ],
+            "search" : "cmd"
+         },
+         {
+            "items" : [ 690281960525131449 ],
+            "search" : "coll"
+         },
+         {
             "items" : [ 690281960525131449 ],
             "search" : "collab"
+         },
+         {
+            "items" : [ 18168495158365668489 ],
+            "search" : "consol"
+         },
+         {
+            "items" : [ 5810861833388192450 ],
+            "search" : "everyt"
+         },
+         {
+            "items" : [ 5844597351489267470 ],
+            "search" : "exc"
+         },
+         {
+            "items" : [ 6604788085129329512, 1524913209528287661 ],
+            "search" : "expl"
+         },
+         {
+            "items" : [ 1524913209528287661 ],
+            "search" : "explorer"
          },
          {
             "items" : [ 307004736900211778, 15781698090780769360 ],
@@ -233,6 +1809,74 @@
             "search" : "gitex"
          },
          {
+            "items" : [ 8413618772553930320 ],
+            "search" : "gitx"
+         },
+         {
+            "items" : [ 4664987582024594744 ],
+            "search" : "iar"
+         },
+         {
+            "items" : [ 1524913209528287661 ],
+            "search" : "ie"
+         },
+         {
+            "items" : [ 1524913209528287661 ],
+            "search" : "iexp"
+         },
+         {
+            "items" : [ 1524913209528287661 ],
+            "search" : "int"
+         },
+         {
+            "items" : [ 1524913209528287661 ],
+            "search" : "inter"
+         },
+         {
+            "items" : [ 12112892945614654744 ],
+            "search" : "notepa"
+         },
+         {
+            "items" : [ 4135212443525875227 ],
+            "search" : "npp"
+         },
+         {
+            "items" : [ 10161867907586642106 ],
+            "search" : "out"
+         },
+         {
+            "items" : [ 10161867907586642106 ],
+            "search" : "outl"
+         },
+         {
+            "items" : [ 10161867907586642106 ],
+            "search" : "outlo"
+         },
+         {
+            "items" : [ 3019287387836948585 ],
+            "search" : "programs"
+         },
+         {
+            "items" : [ 2867053665542538823 ],
+            "search" : "ps"
+         },
+         {
+            "items" : [ 17206343524679408240 ],
+            "search" : "pul"
+         },
+         {
+            "items" : [ 17206343524679408240 ],
+            "search" : "puls"
+         },
+         {
+            "items" : [ 12446007221866603810, 17206343524679408240 ],
+            "search" : "pulse"
+         },
+         {
+            "items" : [ 6291301339168694414 ],
+            "search" : "rsl"
+         },
+         {
             "items" : [ 10207235895162428035 ],
             "search" : "saf"
          },
@@ -241,8 +1885,64 @@
             "search" : "saflogs"
          },
          {
+            "items" : [ 14226607404542140165 ],
+            "search" : "sp"
+         },
+         {
+            "items" : [ 9929297908889248668 ],
+            "search" : "suma"
+         },
+         {
+            "items" : [ 9929297908889248668 ],
+            "search" : "sumatr"
+         },
+         {
+            "items" : [ 14087437042277748389 ],
+            "search" : "system"
+         },
+         {
+            "items" : [ 11052564524579277781 ],
+            "search" : "vsc"
+         },
+         {
+            "items" : [ 11052564524579277781 ],
+            "search" : "vscode"
+         },
+         {
+            "items" : [ 16519326107476667420 ],
+            "search" : "vv"
+         },
+         {
             "items" : [ 13052353612305200797 ],
             "search" : "webseach dd"
+         },
+         {
+            "items" : [ 14580246279257990316 ],
+            "search" : "wire"
+         },
+         {
+            "items" : [ 2800825727440068816 ],
+            "search" : "word"
+         },
+         {
+            "items" : [ 810011762833996472 ],
+            "search" : "xx"
+         },
+         {
+            "items" : [ 6796599659173402759 ],
+            "search" : "xypl"
+         },
+         {
+            "items" : [ 17577183290702030469 ],
+            "search" : "z"
+         },
+         {
+            "items" : [ 17577183290702030469 ],
+            "search" : "ze"
+         },
+         {
+            "items" : [ 17577183290702030469 ],
+            "search" : "zeal"
          }
       ]
    }
