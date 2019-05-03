@@ -2,8 +2,6 @@
 ! Description: Filters to fix things I find annoying
 ! Expires: 5 days
 !
-! Disable Third Party Fonts
-*$font,third-party
 ! Another help desk I don't need
 ||*.ladesk.com/*
 
