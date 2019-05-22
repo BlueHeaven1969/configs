@@ -56,6 +56,8 @@ user_pref("privacy.cpd.history", false);
 user_pref("privacy.cpd.sessions", false);   
 /* 4501: enable privacy.resistFingerprinting [FF41+] [REVERT] */
 user_pref("privacy.resistFingerprinting", false);   
+/* 4504: enable RFP letterboxing [FF67+] [REVERT] */
+user_pref("privacy.resistFingerprinting.letterboxing", true);
 /* 4503: disable mozAddonManager Web API [FF57+] [REVERT] */ 
 user_pref("privacy.resistFingerprinting.block_mozAddonManager", false); 
 /* 5000: PERSONAL BEHAVIOR */
