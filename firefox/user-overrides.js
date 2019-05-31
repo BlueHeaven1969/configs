@@ -65,6 +65,7 @@ user_pref("browser.tabs.closeWindowWithLastTab", false);
 user_pref("browser.tabs.warnOnClose", false); 
 user_pref("browser.tabs.warnOnCloseOtherTabs", false); 
 user_pref("browser.tabs.warnOnOpen", false);
+user_pref("browser.search.openintab", true);
 user_pref("general.warnOnAboutConfig", false);
 user_pref("layout.spellcheckDefault", 2); 
 user_pref("network.manage-offline-status", false); 
@@ -73,6 +74,8 @@ user_pref("browser.tabs.loadDivertedInBackground", true);
 user_pref("browser.tabs.loadInBackground", false);
 user_pref("security.webauth.u2f",true);
 user_pref("media.autoplay.allow-muted", false);
+user_pref("network.negotiate-auth.trusted-uris", ".ra-int.com,.rockwell.com,.rockwellautomation.com");
+user_pref("network.automatic-ntlm-auth.trusted-uris", ".ra-int.com,.rockwell.com,.rockwellautomation.com");
 /****
 END OF THE LINE
 ****/
