@@ -41,10 +41,12 @@ user_pref("dom.webnotifications.serviceworker.enabled", true);
 user_pref("dom.event.clipboardevents.enabled", true); 
 /* 2508: disable hardware acceleration to reduce graphics fingerprinting [REVERT]*/
 user_pref("layers.acceleration.disabled", false); 
+/* 2618: disable exposure of system colors to CSS or canvas [FF44+]*/
+//user_pref("ui.use_standins_for_native_colors", false);
 /* 2654: disable "open with" in download dialog [FF50+] [REVERT] */
 user_pref("browser.download.forbid_open_with", false);
 /* 2701: disable 3rd-party cookies and site-data [UMATRIX] */
-user_pref("network.cookie.cookieBehavior", 4);
+user_pref("network.cookie.cookieBehavior", 0);
 /* 2803: set what history items to clear on shutdown [REVERT] */
 user_pref("privacy.clearOnShutdown.cookies", false);   
 user_pref("privacy.clearOnShutdown.history", false);     
@@ -73,6 +75,7 @@ user_pref("browser.tabs.loadDivertedInBackground", true);
 user_pref("browser.tabs.loadInBackground", false);
 user_pref("security.webauth.u2f",true);
 user_pref("media.autoplay.allow-muted", false);
+user_pref("browser.search.openintab", true);
 /****
 END OF THE LINE
 ****/
