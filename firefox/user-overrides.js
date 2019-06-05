@@ -76,6 +76,8 @@ user_pref("browser.tabs.loadInBackground", false);
 user_pref("security.webauth.u2f",true);
 user_pref("media.autoplay.allow-muted", false);
 user_pref("browser.search.openintab", true);
+user_pref("network.negotiate-auth.trusted-uris", ".ra-int.com,.rockwell.com,.rockwellautomation.com");
+user_pref("network.automatic-ntlm-auth.trusted-uris", ".ra-int.com,.rockwell.com,.rockwellautomation.com");
 /****
 END OF THE LINE
 ****/
