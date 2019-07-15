@@ -4,6 +4,4 @@
 !
 ! Another help desk I don't need
 ||*.ladesk.com/*
-! Block third party fonts
-*$font,third-party
 
