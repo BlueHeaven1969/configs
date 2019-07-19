@@ -1,5 +1,9 @@
 amazon.com
 smile.amazon.com
+atlassian.com
+id.atlassian.com
+atlassian.net
+rockwellautomation.atlassian.net
 bibliocommons.com
 bpl.bibliocommons.com
 discogs.com
@@ -16,6 +20,7 @@ head-fi.org
 my.healthequity.com
 hydrogenaud.io
 librarything.com
+login.microsoftonline.com
 morningstar.com
 members.morningstar.com
 netflix.com
@@ -37,3 +42,5 @@ mail.protonmail.com
 play.qobuz.com
 reddit.com
 startpage.com
+yammer.com
+persona.yammer.com
