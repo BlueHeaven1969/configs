@@ -11,3 +11,9 @@
 ||softwaretestinghelp.com
 
 ! Useless websites that like to show up on search results
+||toptenreviews.com
+||gearhungry.com
+||dontwasteyourmoney.com
+
+! Websites I have no interest in ever visiting .. EVER
+||facebook.com
