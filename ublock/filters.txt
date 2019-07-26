@@ -5,3 +5,9 @@
 ! Another help desk I don't need
 ||*.ladesk.com/*
 
+! These websites pop up windows while reading
+! Therefore I will not use them
+||stackshare.io
+||softwaretestinghelp.com
+
+! Useless websites that like to show up on search results
