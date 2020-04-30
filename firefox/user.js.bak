@@ -119,7 +119,7 @@ user_pref("media.getusermedia.browser.enabled", false);
 user_pref("media.getusermedia.audiocapture.enabled", false);
 user_pref("permissions.default.camera", 2);
 user_pref("permissions.default.microphone", 2);
-user_pref("media.autoplay.default", 5); // [DEFAULT: 1 in FF67+]
+user_pref("media.autoplay.default", 1); // [DEFAULT: 1 in FF67+]
 user_pref("media.autoplay.enabled.user-gestures-needed", false);
 user_pref("media.block-autoplay-until-in-foreground", true);
 user_pref("browser.helperApps.deleteTempFileOnExit", true);

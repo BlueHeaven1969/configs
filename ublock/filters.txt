@@ -20,3 +20,21 @@
 ||whatsapp.com
 ||tumblr.com
 ||pinterest.com
+
+! Filter domains from DDG
+duckduckgo.com##.links_deep:has-text(lifewire.com)
+duckduckgo.com##.links_deep:has-text(zhihu.com)
+duckduckgo.com##.links_deep:has-text(qiita.com)
+duckduckgo.com##.links_deep:has-text(10bace.com)
+duckduckgo.com##.links_deep:has-text(teratail.com)
+duckduckgo.com##.links_deep:has-text(gearhungry.com)
+duckduckgo.com##.links_deep:has-text(dontwasteyourmoney.com)
+duckduckgo.com##.links_deep:has-text(toptenreviews.com)
+duckduckgo.com##.links_deep:has-text(instagram.com)
+duckduckgo.com##.links_deep:has-text(whatsapp.com)
+duckduckgo.com##.links_deep:has-text(tumblr.com)
+duckduckgo.com##.links_deep:has-text(pinterest.com)
+duckduckgo.com##.links_deep:has-text(stackshare.io)
+duckduckgo.com##.links_deep:has-text(softwaretestinghelp.com)
+duckduckgo.com##.links_deep:has-text(heavy.com)
+duckduckgo.com##.links_deep:has-text(roundpulse.com)
