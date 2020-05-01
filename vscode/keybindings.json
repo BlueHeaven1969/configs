@@ -49,7 +49,7 @@
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "f6",
+        "key": "alt+f6",
         "command": "editor.action.formatSelection",
         "when": "editorHasSelection && editorTextFocus && !editorReadonly"
     },
@@ -117,39 +117,19 @@
         "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+f7",
-        "command": "C_Cpp.SwitchHeaderSource",
-        "when": "editorTextFocus && editorLangId == 'c'"
-    },
-    {
         "key": "alt+o",
         "command": "-C_Cpp.SwitchHeaderSource",
         "when": "editorTextFocus && editorLangId == 'c'"
     },
     {
-        "key": "ctrl+f7",
-        "command": "C_Cpp.SwitchHeaderSource",
-        "when": "editorTextFocus && editorLangId == 'cpp'"
-    },
-    {
         "key": "alt+o",
         "command": "-C_Cpp.SwitchHeaderSource",
-        "when": "editorTextFocus && editorLangId == 'cpp'"
-    },
-    {
-        "key": "alt+f9",
-        "command": "C_Cpp.Navigate",
         "when": "editorTextFocus && editorLangId == 'cpp'"
     },
     {
         "key": "alt+n",
         "command": "-C_Cpp.Navigate",
         "when": "editorTextFocus && editorLangId == 'cpp'"
-    },
-    {
-        "key": "alt+f9",
-        "command": "C_Cpp.Navigate",
-        "when": "editorTextFocus && editorLangId == 'c'"
     },
     {
         "key": "alt+n",
@@ -259,16 +239,7 @@
         "when": "inDebugMode"
     },
     {
-        "key": "f10",
-        "command": "projects.open",
-        "when": "!inDebugMode"
-    },
-    {
-        "key": "ctrl+alt+p",
-        "command": "-projects.open"
-    },
-    {
-        "key": "ctrl+f9",
+        "key": "ctrl+shift+f10",
         "command": "editor.action.toggleRenderWhitespace"
     },
     {
@@ -566,7 +537,7 @@
         "command": "-workbench.action.newWindow"
     },
     {
-        "key": "shift+f12",
+        "key": "shift+alt+f9",
         "command": "editor.action.revealDefinitionAside",
         "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
     },
@@ -596,7 +567,7 @@
         "when": "editorHasImplementationProvider && editorTextFocus && !isInEmbeddedEditor"
     },
     {
-        "key": "alt+f12",
+        "key": "f12",
         "command": "editor.action.peekDefinition",
         "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
     },
@@ -916,7 +887,7 @@
         "when": "!searchViewletVisible"
     },
     {
-        "key": "ctrl+alt+f10 \\",
+        "key": "ctrl+f10 \\",
         "command": "workbench.action.splitEditor"
     },
     {
@@ -1004,18 +975,6 @@
         "command": "-workbench.action.zoomOut"
     },
     {
-        "key": "ctrl+shift+alt+f10",
-        "command": "ccls.reload"
-    },
-    {
-        "key": "ctrl+shift+alt+f11",
-        "command": "ccls.restart"
-    },
-    {
-        "key": "ctrl+shift+f11",
-        "command": "ccls.vars"
-    },
-    {
         "key": "ctrl+f10 r",
         "command": "workbench.view.extension.references-view"
     },
@@ -1024,26 +983,12 @@
         "command": "workbench.view.extension.todo-tree-container"
     },
     {
-        "key": "ctrl+f7",
-        "command": "togglehs.toggleHS"
-    },
-    {
         "key": "f4",
         "command": "-togglehs.toggleHS"
     },
     {
-        "key": "shift+f1",
-        "command": "extension.dash.specific",
-        "when": "editorTextFocus"
-    },
-    {
         "key": "ctrl+h",
         "command": "-extension.dash.specific",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "ctrl+alt+f1",
-        "command": "extension.dash.customSyntax",
         "when": "editorTextFocus"
     },
     {
@@ -1052,18 +997,8 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "ctrl+shift+f1",
-        "command": "extension.dash.emptySyntax",
-        "when": "editorTextFocus"
-    },
-    {
         "key": "ctrl+shift+h",
         "command": "-extension.dash.emptySyntax",
-        "when": "editorTextFocus"
-    },
-    {
-        "key": "shift+alt+f1",
-        "command": "extension.dash.all",
         "when": "editorTextFocus"
     },
     {
@@ -1093,15 +1028,194 @@
         "command": "workbench.action.showCommands"
     },
     {
+        "key": "shift+alt+f8",
+        "command": "workbench.files.action.compareFileWith"
+    },
+    {
+        "key": "ctrl+shift+f11",
+        "command": "workbench.action.toggleFullScreen"
+    },
+    {
+        "key": "f11",
+        "command": "-workbench.action.toggleFullScreen"
+    },
+    {
+        "key": "ctrl+f12",
+        "command": "-C_Cpp.GoToDeclaration",
+        "when": "editorTextFocus && editorLangId == 'c'"
+    },
+    {
+        "key": "ctrl+f12",
+        "command": "-C_Cpp.GoToDeclaration",
+        "when": "editorTextFocus && editorLangId == 'cpp'"
+    },
+    {
+        "key": "shift+f9",
+        "command": "-editor.debug.action.toggleInlineBreakpoint",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "-bookmarks.jumpToNext",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+j",
+        "command": "-bookmarks.jumpToPrevious",
+        "when": "editorTextFocus"
+    },
+    {
         "key": "ctrl+f6",
-        "command": "extension.gitextensions.filehistory"
+        "command": "git-graph.view"
     },
     {
         "key": "ctrl+shift+f6",
-        "command": "extension.gitextensions.browse"
+        "command": "gitlens.toggleFileBlame",
+        "when": "editorTextFocus && config.gitlens.keymap == 'alternate' && gitlens:activeFileStatus =~ /blameable/"
     },
     {
-        "key": "alt+f6",
-        "command": "workbench.files.action.compareFileWith"
+        "key": "alt+b",
+        "command": "-gitlens.toggleFileBlame",
+        "when": "editorTextFocus && config.gitlens.keymap == 'alternate' && gitlens:activeFileStatus =~ /blameable/"
+    },
+    {
+        "key": "ctrl+alt+f6",
+        "command": "gitlens.toggleFileRecentChanges"
+    },
+    {
+        "key": "shift+alt+f6",
+        "command": "gitlens.diffWorkingWith"
+    },
+    {
+        "key": "ctrl+d",
+        "command": "-list.focusPageDown",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "shift+f12",
+        "command": "-editor.action.goToReferences",
+        "when": "editorHasReferenceProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+    {
+        "key": "ctrl+shift+f12",
+        "command": "-editor.action.peekImplementation",
+        "when": "editorHasImplementationProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+    {
+        "key": "shift+f12",
+        "command": "-goToPreviousReference",
+        "when": "inReferenceSearchEditor || referenceSearchVisible"
+    },
+    {
+        "key": "ctrl+f1",
+        "command": "-PowerShell.ShowHelp",
+        "when": "editorTextFocus && editorLangId == 'powershell'"
+    },
+    {
+        "key": "ctrl+f12",
+        "command": "editor.action.peekDeclaration"
+    },
+    {
+        "key": "alt+o",
+        "command": "-extension.switch"
+    },
+    {
+        "key": "f9",
+        "command": "editor.action.revealDeclaration"
+    },
+    {
+        "key": "shift+f9",
+        "command": "editor.action.revealDefinition",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "f12",
+        "command": "-editor.action.revealDefinition",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "ctrl+shift+f9",
+        "command": "editor.action.openDeclarationToTheSide"
+    },
+    {
+        "key": "alt+f9",
+        "command": "editor.action.goToTypeDefinition"
+    },
+    {
+        "key": "f12",
+        "command": "-editor.gotoNextSymbolFromResult",
+        "when": "hasSymbols"
+    },
+    {
+        "key": "f12",
+        "command": "-goToNextReference",
+        "when": "inReferenceSearchEditor || referenceSearchVisible"
+    },
+    {
+        "key": "alt+f12",
+        "command": "editor.action.peekTypeDefinition"
+    },
+    {
+        "key": "ctrl+alt+f9",
+        "command": "editor.debug.action.toggleBreakpoint",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "f9",
+        "command": "-editor.debug.action.toggleBreakpoint",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+f9",
+        "command": "references-view.find",
+        "when": "editorHasReferenceProvider"
+    },
+    {
+        "key": "shift+alt+f12",
+        "command": "-references-view.find",
+        "when": "editorHasReferenceProvider"
+    },
+    {
+        "key": "alt+o",
+        "command": "-clangd-vscode.switchheadersource",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+f7",
+        "command": "extension.switch"
+    },
+    {
+        "key": "ctrl+shift+f12",
+        "command": "clangd-vscode.switchheadersource"
+    },
+    {
+        "key": "shift+alt+f12",
+        "command": "toggle",
+        "when": "editorTextFocus",
+        "args": {
+            "id": "LineNumbers",
+            "value": [
+                {
+                    "editor.lineNumbers": "relative"
+                },
+                {
+                    "editor.lineNumbers": "on"
+                }
+            ]
+        }
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.closeGroup",
+        "when": "activeEditorGroupEmpty && multipleEditorGroups"
     }
 ]

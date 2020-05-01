@@ -6,24 +6,21 @@
     "extensions.ignoreRecommendations": true,
     "extensions.showRecommendationsOnlyOnDemand": true,
     "breadcrumbs.enabled": true,
-    "workbench.statusBar.feedback.visible": false,
-    "workbench.iconTheme": "solarized",
-    "workbench.colorTheme": "Rick's Solarized Dark",
     "workbench.editor.highlightModifiedTabs": true,
     "workbench.enableExperiments": false,
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
-    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.colorTheme": "Rick's Solarized Dark",
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "diffEditor.ignoreTrimWhitespace": false,
     "debug.toolBarLocation": "docked",
-    "editor.minimap.renderCharacters": false,
     "editor.detectIndentation": false,
-    "editor.smoothScrolling": true,
     "editor.minimap.maxColumn": 90,
-    "editor.fontFamily": "Hack NF, Hack, Fira Code, monospace",
-    "editor.fontSize": 12,
-    "editor.rulers": [ 80 ],
-    "editor.formatOnType": true,
-    "editor.formatOnPaste": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.fontFamily": "Hack NF, Fira Code, monospace",
+    "editor.rulers": [
+        80, 100
+    ],
     "editor.folding": false,
     "search.showLineNumbers": true,
     "search.useIgnoreFiles": false,
@@ -31,6 +28,9 @@
         "**/node_modules": true,
         "**/bower_components": true,
         "**/*.html": true
+    },
+    "files.associations": {
+        "*.h": "c",
     },
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
@@ -44,43 +44,61 @@
         "**/.project": true,
         "**/.pydevproject": true,
         "**/.settings": true,
-        "**/.ccls-cache": true
+        "**/.ccls-cache": true,
+        "**/ipch": true
     },
     "terminal.integrated.fontSize": 12,
     "terminal.integrated.fontFamily": "Hack NF, Hack",
-    "terminal.integrated.shell.windows": "cmd.exe",
-    "terminal.integrated.shellArgs.windows": [
-        "/k", "C:/Users/Rst.Pie/.vscode.cmd"
-    ],
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "update.mode": "manual",
+    "telemetry.enableCrashReporter": false,
+    "npm.fetchOnlinePackageInfo": false,
+    "editor.fontSize": 12,
+    "editor.renderControlCharacters": false,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "workbench.editor.revealIfOpen": true,
+    "editor.lineNumbers": "on",
+    "workbench.iconTheme": "solarized",
+    "workbench.editor.closeEmptyGroups": false,
+    "search.quickOpen.includeHistory": false,
+    //"terminal.integrated.shellArgs.windows": [
+    //    "/k", "C:/Users/Rst.Pie/.vscode.cmd"
+    //],
     "git.autofetch": true,
     "git.enableSmartCommit": true,
     "git.inputValidation": "off",
     "git.confirmSync": false,
+    "git.autofetchPeriod": 750,
     // ToDoTree EXTENSION SETTINGS
-    "todo-tree.tags": [
+    "todo-tree.filtering.excludeGlobs": [
+        "**/_cores/**"
+    ],
+    "todo-tree.general.tags": [
         "TODO",
         "FIXME",
         "NOTE",
         "#warning",
         "#error",
-        "xxRSPxx"
+        "xxRSPxx",
+        "BOOKMARK"
     ],
-    "todo-tree.showInExplorer": false,
-    "todo-tree.defaultHighlight": {
-        "foreground": "#85a900",
-        "background": "#001e29",
-        "iconColour": "#85a900",
-        "type": "text"
+    "todo-tree.tree.showInExplorer": false,
+    "todo-tree.highlights.defaultHighlight": {
+        "background": "#859900",
+        "foreground": "#859900",
+        "opacity": 20,
+        "type": "text",
+        "fontWeight": "bold"
     },
-    "todo-tree.customHighlight": {
+    "todo-tree.highlights.customHighlight": {
         "TODO": {
             "foreground": "#b58900",
-            "iconColour": "#b58900",
+            "background": "#b58900",
         },
         "FIXME": {
             "icon": "bug",
-            "iconColour": "#cb4b16",
-            "foreground": "#cb4b16"
+            "foreground": "#cb4b16",
+            "background": "#cb4b16",
         },
         "NOTE": {
             "icon": "info"
@@ -88,20 +106,27 @@
         "#warning": {
             "icon": "alert",
             "foreground": "#d33682",
-            "iconColour": "#d33682"
+            "background": "#d33682",
         },
         "#error": {
             "icon": "stop",
             "foreground": "#dc322f",
-            "iconColour": "#dc322f"
+            "background": "#dc322f",
         },
         "xxRSPxx": {
             "icon": "issue-opened",
-            "iconColour": "#6c71c4",
-            "foreground": "#6c71c4"
+            "foreground": "#6c71c4",
+            "background": "#6c71c4",
+        },
+        "BOOKMARK": {
+            "icon": "bookmark",
+            "foreground": "#2aa198",
+            "background": "#2aa198",
         }
     },
-    "todo-tree.expanded": true,
+    "todo-tree.tree.expanded": true,
+    "todo-tree.tree.labelFormat":"(${line}) ${tag} ${after}",
+    "todo-tree.tree.showScanModeButton": true,
     // DOXDOCGEN EXTENSION SETTINGS
     "doxdocgen.c.commentPrefix": "/// ",
     "doxdocgen.c.firstLine": "///-----------------------------------------------------------------------------",
@@ -111,61 +136,190 @@
     "doxdocgen.generic.authorTag": "@author Rick St Pierre",
     "doxdocgen.generic.authorName": "Rick St Pierre",
     // GITEXTENSTIONS SETTINGS
-    "gitExtensions.exe.path": "C:/Users/Rst.Pie/scoop/apps/gitextensions-dev/current/gitextensions/gitextensions.exe",
+    "gitExtensions.exe.path": "C:/Users/Rst.Pie/scoop/apps/gitextensions/current/gitextensions.exe",
     // VIM SETTINGS
     "vim.overrideCopy": true,
     "vim.useCtrlKeys": true,
     "vim.highlightedyank.enable":true,
     "vim.highlightedyank.color":"rgba(211, 54, 130, 0.5)",
     "vim.highlightedyank.duration":500,
-    // CCLS SETTINGS
-    "ccls.cache.directory": "${workspaceFolder}/.vscode/.ccls-cache",
-    "ccls.index.onChange": true,
-    "ccls.theme.dark.skippedRange.backgroundColor": "rgba(0,36,47)",
-    "ccls.theme.dark.skippedRange.textColor": "rgb(88,110,117)",
-    "ccls.highlighting.enabled.enums": true,
-    "ccls.highlighting.enabled.enumConstants": true,
-    "ccls.highlighting.enabled.freeStandingFunctions": true,
-    "ccls.highlighting.enabled.freeStandingVariables": true,
-    "ccls.highlighting.enabled.globalVariables": true,
-    "ccls.highlighting.enabled.macros": true,
-    "ccls.highlighting.enabled.parameters": true,
-    "ccls.highlighting.enabled.typeAliases": true,
-    "ccls.highlighting.bold.enumConstants": false,
-    "ccls.highlighting.bold.namespaces": false,
-    "ccls.highlighting.bold.globalVariables": true,
-    "ccls.highlighting.bold.typeAliases": false,
-    "ccls.highlighting.italic.enums": true,
-    "ccls.highlighting.enabled.types": true,
-    "ccls.highlighting.colors.freeStandingFunctions": [ "#dc322f" ],
-    "ccls.highlighting.colors.enumConstants":[ "#859900" ],
-    "ccls.highlighting.colors.enums":[ "#2aa198"],
-    "ccls.highlighting.colors.freeStandingVariables": [ "#268bd2" ],
-    "ccls.highlighting.colors.parameters": [ "#268bd2" ],
-    "ccls.highlighting.colors.globalVariables": [ "#6c71c4" ],
-    "ccls.highlighting.colors.macros": [ "#d33682" ],
-    "ccls.highlighting.colors.types": [ "#cb4b16" ],
-    "ccls.highlighting.colors.typeAliases": [ "#b58900" ],
-    "ccls.codeLens.enabled": false,
+    "vim.hlsearch": true,
+    "vim.searchHighlightColor": "rgba(42, 161, 152, 0.8)",
+    "vim.searchHighlightTextColor": "rgba(0, 29, 41, 1.0)",
+    "vim.leader": "<Space>",
+    "vim.cursorStylePerMode.visual": "underline",
+    "vim.cursorStylePerMode.visualblock": "block-outline",
+    "vim.cursorStylePerMode.visualline": "underline-thin",
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": ["j", "k"],
+            "after": ["<ESC>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<C-h>"],
+            "after": ["<C-w>", "h"]
+        },
+        {
+            "before": ["<C-j>"],
+            "after": ["<C-w>", "j"]
+        },
+        {
+            "before": ["<C-k>"],
+            "after": ["<C-w>", "k"]
+        },
+        {
+            "before": ["<C-l>"],
+            "after": ["<C-w>", "l"]
+        },
+        {
+            "before": ["<Leader>", "t", "n"],
+            "commands": [":tabnext"]
+        },
+        {
+            "before": ["<Leader>", "t", "p"],
+            "commands": [":tabprev"]
+        },
+        {
+            "before": ["<Leader>", "/"],
+            "commands": [":noh"]
+        },
+        {
+            "before": ["<Leader>", "g", "h"],
+            "commands": ["extension.switch"]
+        },
+        {
+            "before": ["<Leader>", "p"],
+            "commands": ["workbench.action.showCommands"]
+        },
+        {
+            "before": ["<Leader>", "s", "f"],
+            "commands": ["workbench.action.gotoSymbol"]
+        },
+        {
+            "before": ["<Leader>", "s", "w"],
+            "commands": ["workbench.action.showAllSymbols"]
+        },
+        {
+            "before": ["<Leader>", "g", "d"],
+            "commands": ["editor.action.revealDefinitionAside"]
+        },
+        {
+            "before": ["<Leader>", "s", "d"],
+            "commands": ["editor.action.peekDefinition"]
+        },
+        {
+            "before": ["<Leader>", "s", "r"],
+            "commands": ["editor.action.referenceSearch.trigger"]
+        },
+        {
+            "before": ["<Leader>", "m", "h"],
+            "commands": ["workbench.action.moveEditorToLeftGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "j"],
+            "commands": ["workbench.action.moveEditorToAboveGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "k"],
+            "commands": ["workbench.action.moveEditorToBelowGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "l"],
+            "commands": ["workbench.action.moveEditorToRightGroup"]
+        },
+        {
+            "before": ["<Leader>", "n", "n"],
+            "commands": [
+                {
+                    "command": "toggle",
+                    "args": {
+                        "id": "LineNumbers",
+                        "value": [
+                            {
+                                "editor.lineNumbers": "relative"
+                            },
+                            {
+                                "editor.lineNumbers": "on"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+    ],
+    "vim.neovimPath": "C:/Users/Rst.Pie/scoop/apps/neovim/current/bin/nvim.exe",
+    "vim.enableNeovim": true,
+    // C/C++ SETTINGS
+    "C_Cpp.clang_format_sortIncludes": false,
+    "C_Cpp.enhancedColorization": "Enabled",
+    "C_Cpp.experimentalFeatures": "Enabled",
+    "C_Cpp.clang_format_fallbackStyle": "Mozilla",
+    "C_Cpp.updateChannel": "Insiders",
     // CSPELL EXTENSION SETTINGS
-    "cSpell.enabledLanguageIds": [
+    "cSpell.enableFiletypes": [
+        "!json",
+        "!typescript",
+        "!yaml",
         "asciidoc",
+        "cpp",
+        "html",
         "markdown",
         "plaintext",
-        "restructuredtext",
-        "text",
-        "typescript",
+        "text"
     ],
-    "cSpell.allowCompoundWords": true,
+    "cSpell.ignorePaths": [
+        "**/package-lock.json",
+        "**/node_modules/**",
+        "**/vscode-extension/**",
+        "**/.git/**",
+        ".vscode",
+        "typings",
+        ".clang-format"
+    ],
     "cSpell.userWords": [
+        "Ftalk",
+        "Incip",
+        "adex",
+        "asms",
+        "assy",
+        "dblog",
+        "deassert",
+        "decryptor",
+        "encryptor",
+        "hilite",
+        "leds",
+        "linv",
         "logix",
+        "mult",
+        "nucleo",
+        "scid",
         "sdcard",
+        "treck",
+        "uncommented",
         "vlatest",
         "wuppertal"
     ],
+    "cSpell.allowCompoundWords": true,
+    "cSpell.languageSettings":[
+        {
+            "languageId": "cpp,c",
+            "includeRegExpList": [
+                "CStyleComment"
+            ]
+        },
+        {
+            "languageId": "python",
+            "includeRegExpList": [
+                "/#.*/",
+                "/('''|\"\"\")[^\\1]+?\\1/g"
+            ]
+        }
+    ],
     "cSpell.ignoreRegExpList": [
-        "/[A-Z]{2,}/g",
-        "/cr[\\w]*_[\\w]*/g"
+        "/[^a-z][A-Z]{2,}[^a-rt-z]/g",
+        "/[\\w].*[.,_][\\w].*/g"
     ],
     // PROJECTS+ EXTENSION SETTINGS
     "projects.configPath": "C:/Users/Rst.Pie/Projects/projects.json",
@@ -178,12 +332,140 @@
         "master",
         "CR50-INT"
     ],
+    // C/C++ ADVANCED LINT SETTINGS
+    "c-cpp-flylint.flexelint.enable": false,
+    "c-cpp-flylint.cppcheck.addons":[
+        "threadsafety"
+    ],
+    "c-cpp-flylint.cppcheck.severityLevels": {
+        "error": "Information",
+        "warning": "Information",
+        "style": "Information",
+        "performance": "Information",
+        "portability": "Information",
+        "information": "Information"
+    },
+    "c-cpp-flylint.clang.severityLevels": {
+        "fatal": "Error",
+        "error": "Error",
+        "warning": "Warning",
+        "note": "Information"
+    },
+    "c-cpp-flylint.cppcheck.platform": "unix32",
+    "c-cpp-flylint.cppcheck.enable": false,
+    "c-cpp-flylint.debug": true,
+    // GITLAB EXTENSION SETTINGS
+    "gitlab.instanceUrl":"https://ragitlab3.ra.rockwell.com/",
+    "gitlab.remoteName": "incremental",
+    "gitlab.pipelineGitRemoteName": "Gitlab",
+    "gitlab.enableExperimentalFeatures": true,
+    "gitlab.ignoreCertificateErrors": true,
+    // YAML EXTENSION SETTINGS
+    "yaml.schemas": {
+        "file:///c%3A/Users/RSt.Pie/scoop/apps/vscode-portable/1.44.2/data/extensions/atlassian.atlascode-2.5.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    // GITLENS EXTENSION SETTINGS
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.mode.statusBar.enabled": false,
+    "gitlens.defaultGravatarsStyle": "identicon",
     // LANGUAGE SPECIFIC SETTINGS
     "[markdown]": {
         "editor.wordWrap": "off",
         "editor.quickSuggestions": false
     },
-    "[c]": {
-        "editor.defaultFormatter": "LaurentTreguier.uncrustify"
-    },
+    //"[c]": {
+    //    "editor.defaultFormatter": "ms-vscode.cpptools"
+    //},
+    // VS CODE PRINTING FREE SETTINGS
+    "print.browserPath": "C:\\Users\\RSt.Pie\\scoop\\apps\\firefox\\current\\firefox.exe",
+    "print.colourScheme": "github",
+    "print.printAndClose": false,
+    // JIRA SETTINGS
+    "atlascode.jira.jqlList": [
+        {
+            "enabled": false,
+            "id": "f617fdf6-cea3-4cf4-90bf-67a6d7cf5141",
+            "monitor": false,
+            "name": "My rockwellautomation Issues",
+            "query": "assignee = currentUser() ORDER BY lastViewed DESC ",
+            "siteId": "99cf3c85-081b-430f-bd50-0297866f748d"
+        },
+        {
+            "enabled": true,
+            "id": "75c1b2d2-fd67-4b74-a096-d496389c23b8",
+            "monitor": true,
+            "name": "My open tasks",
+            "query": "assignee = currentUser() AND status != Closed AND type != Anomaly ORDER BY priority",
+            "siteId": "99cf3c85-081b-430f-bd50-0297866f748d"
+        },
+        {
+            "enabled": true,
+            "id": "c2bdc61b-9692-45b4-a4e5-a8d455dbe268",
+            "monitor": true,
+            "name": "Unassigned CR50 Tasks",
+            "query": "project = \"SSCB CR50: Firmware\" AND assignee is EMPTY AND type != Anomaly  ORDER BY priority",
+            "siteId": "99cf3c85-081b-430f-bd50-0297866f748d"
+        },
+        {
+            "enabled": true,
+            "id": "23e78291-d419-4c0b-9ae7-df0d1d6cd002",
+            "monitor": true,
+            "name": "My open anomalies",
+            "query": "assignee = currentUser() AND status != Closed AND type = Anomaly  ORDER BY priority",
+            "siteId": "99cf3c85-081b-430f-bd50-0297866f748d"
+        },
+        {
+            "enabled": true,
+            "id": "d1bb0950-0d4e-4c62-a8ae-7c9e28d9b28a",
+            "monitor": true,
+            "name": "Unassigned CR50 Anomalies",
+            "query": "project = \"SSCB CR50: Firmware\" AND assignee is EMPTY AND type = Anomaly  ORDER BY priority",
+            "siteId": "99cf3c85-081b-430f-bd50-0297866f748d"
+        }
+    ],
+    "atlascode.bitbucket.enabled": false,
+    "atlascode.jira.todoIssues.enabled": false,
+    // GITLENS SETTINGS
+    "gitlens.hovers.enabled": false,
+    // CCLS SETTINGS
+    "ccls.launch.command": "C:/Users/Rst.Pie/Tools/ccls/ccls.exe",
+    "ccls.clang.resourceDir": "C:/Users/Rst.Pie/Projects/Source-external/llvm-project_9/Release/lib/clang/9.0.1/include",
+    //"ccls.clang.resourceDir": "C:/Users/Rst.Pie/Projects/Source-external/llvm-project_10/Release/lib/clang/10.0.0/include",
+    "ccls.highlight.function.face":[ "enabled" ],
+    "ccls.highlight.function.colors":[ "#cb4b16" ],
+    "ccls.highlight.variable.face":[ "enabled"],
+    "ccls.highlight.variable.colors": [ "#6c71c4" ],
+    "ccls.highlight.type.face": [ "enabled" ],
+    "ccls.highlight.typeAlias.face":[ "type" ],
+    "ccls.highlight.type.colors":[ "#b58900" ],
+    "ccls.highlight.namespace.colors": [ "#2aa198" ],
+    "ccls.highlight.macro.colors": [
+        "#d33682"
+    ],
+    //"ccls.launch.args": [ "--log-file=C:/Users/Rst.Pie/ccls.log", "-v=2"],
+    "ccls.codeLens.enabled": false,
+    "ccls.index.onChange": true,
+    //"ccls.index.threads": 1,
+    // PYTHON SETTINGS
+    "python.testing.cwd": "./CR50Toolbox2",
+    "pythonTestExplorer.testFramework": "pytest",
+    "python.linting.pylintArgs": [
+        "--disable=all",
+        "--enable=F,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode,E0001,E0011,E0012,E0100,E0101,E0102,E0103,E0104,E0105,E0107,E0108,E0110,E0111,E0112,E0113,E0114,E0115,E0116,E0117,E0118,E0202,E0203,E0211,E0213,E0236,E0237,E0238,E0239,E0240,E0241,E0301,E0302,E0303,E0401,E0402,E0601,E0602,E0603,E0604,E0611,E0632,E0633,E0701,E0702,E0703,E0704,E0710,E0711,E0712,E1003,E1101,E1102,E1111,E1120,E1121,E1123,E1124,E1125,E1126,E1127,E1128,E1129,E1130,E1131,E1132,E1133,E1134,E1135,E1136,E1137,E1138,E1139,E1200,E1201,E1205,E1206,E1300,E1301,E1302,E1303,E1304,E1305,E1306,E1310,E1700,E1701"
+    ],
+    "python.jediEnabled": false,
+    // CLANGD SETTINGS
+    "clangd.semanticHighlighting": false,
+    "clangd.path": "C:/Users/Rst.Pie/tools/rsp-clangd/bin/clangd",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.renderLineHighlight": "all",
+    "editor.minimap.showSlider": "always",
+    "editor.acceptSuggestionOnEnter": "off",
+    "update.enableWindowsBackgroundUpdates": false,
+    // MORE SETTINGS HERE
+
+    // AND HERE
 }
