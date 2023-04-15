@@ -1,0 +1,665 @@
+// Place your settings in this file to overwrite the default settings
+{
+    // VSCODE SETTINGS
+    "telemetry.enableTelemetry": false,
+    "extensions.autoUpdate": false,
+    "extensions.ignoreRecommendations": true,
+    "breadcrumbs.enabled": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.enableExperiments": false,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "debug.toolBarLocation": "docked",
+    "editor.detectIndentation": false,
+    "editor.minimap.maxColumn": 90,
+    "editor.minimap.renderCharacters": false,
+    "editor.fontFamily": "Hack NF, MesloLGM NF, FiraCode NF, monospace",
+    "editor.rulers": [
+        80, 100
+    ],
+    "editor.folding": false,
+    "search.showLineNumbers": true,
+    "search.useIgnoreFiles": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.html": true
+    },
+    "files.associations": {
+        "*.h": "c",
+    },
+    "files.insertFinalNewline": true,
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.project": true,
+        "**/.pydevproject": true,
+        "**/.settings": true,
+        "**/.ccls-cache": true,
+        "**/ipch": true
+    },
+    "terminal.integrated.fontFamily": "Hack NF, MesloLGM NF, Hack",
+    "update.mode": "manual",
+    "telemetry.enableCrashReporter": false,
+    "npm.fetchOnlinePackageInfo": false,
+    "editor.renderControlCharacters": false,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "workbench.editor.revealIfOpen": true,
+    "editor.lineNumbers": "on",
+    "workbench.editor.closeEmptyGroups": false,
+    "search.quickOpen.includeHistory": false,
+    "git.enableSmartCommit": true,
+    "git.inputValidation": "off",
+    "git.confirmSync": false,
+    // ToDoTree EXTENSION SETTINGS
+    "todo-tree.filtering.excludeGlobs": [
+        "**/EDLT_4_1_1/**"
+    ],
+    "todo-tree.general.tags": [
+        "TODO",
+        "FIXME",
+        "NOTE",
+        "#warning",
+        "#error",
+        "xxRSPxx",
+        "BOOKMARK",
+        "[ ]",
+        "[x]"
+    ],
+    "todo-tree.highlights.defaultHighlight": {
+        "background": "#859900",
+        "foreground": "#859900",
+        "opacity": 20,
+        "type": "tag",
+        "fontWeight": "bold"
+    },
+    "todo-tree.highlights.customHighlight": {
+
+
+        "TODO": {
+            "foreground": "#b58900",
+            "background": "#b58900",
+        },
+        "FIXME": {
+            "icon": "bug",
+            "foreground": "#cb4b16",
+            "background": "#cb4b16",
+        },
+        "NOTE": {
+            "icon": "info"
+        },
+        "#warning": {
+            "icon": "alert",
+            "foreground": "#d33682",
+            "background": "#d33682",
+        },
+        "#error": {
+            "icon": "stop",
+            "foreground": "#dc322f",
+            "background": "#dc322f",
+        },
+        "xxRSPxx": {
+            "icon": "issue-opened",
+            "foreground": "#6c71c4",
+            "background": "#6c71c4",
+        },
+        "BOOKMARK": {
+            "icon": "bookmark",
+            "foreground": "#2aa198",
+            "background": "#2aa198",
+        }
+    },
+    "todo-tree.tree.expanded": true,
+    "todo-tree.tree.labelFormat":"(${line}) ${tag} ${after}",
+    // DOXDOCGEN EXTENSION SETTINGS
+    "doxdocgen.c.commentPrefix": "/// ",
+    "doxdocgen.c.firstLine": "///-----------------------------------------------------------------------------",
+    "doxdocgen.c.lastLine": "///------------------------------------------------------------------------------",
+    "doxdocgen.c.triggerSequence": "///-",
+    "doxdocgen.file.fileTemplate": "@file {name}",
+    "doxdocgen.generic.authorTag": "@author Rick St Pierre",
+    "doxdocgen.generic.authorName": "Rick St Pierre",
+    // GITEXTENSTIONS SETTINGS
+    "gitExtensions.exe.path": "C:/Users/Rst.Pie/scoop/apps/gitextensions/current/gitextensions.exe",
+    // VIM SETTINGS
+    "vim.overrideCopy": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.highlightedyank.enable":true,
+    "vim.highlightedyank.color":"rgba(211, 54, 130, 0.5)",
+    "vim.highlightedyank.duration":500,
+    "vim.hlsearch": true,
+    "vim.searchHighlightColor": "rgba(42, 161, 152, 0.8)",
+    "vim.searchHighlightTextColor": "rgba(0, 29, 41, 1.0)",
+    "vim.leader": "<Space>",
+    "vim.cursorStylePerMode.visual": "underline",
+    "vim.cursorStylePerMode.visualblock": "block-outline",
+    "vim.cursorStylePerMode.visualline": "underline-thin",
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": ["j", "k"],
+            "after": ["<ESC>"]
+        },
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<C-h>"],
+            "after": ["<C-w>", "h"]
+        },
+        {
+            "before": ["<C-j>"],
+            "after": ["<C-w>", "j"]
+        },
+        {
+            "before": ["<C-k>"],
+            "after": ["<C-w>", "k"]
+        },
+        {
+            "before": ["<C-l>"],
+            "after": ["<C-w>", "l"]
+        },
+        {
+            "before": ["<Leader>", "t", "n"],
+            "commands": [":tabnext"]
+        },
+        {
+            "before": ["<Leader>", "t", "p"],
+            "commands": [":tabprev"]
+        },
+        {
+            "before": ["<Leader>", "/"],
+            "commands": [":noh"]
+        },
+        {
+            "before": ["<Leader>", "p"],
+            "commands": ["workbench.action.showCommands"]
+        },
+        {
+            "before": ["<Leader>", "s", "f"],
+            "commands": ["workbench.action.gotoSymbol"]
+        },
+        {
+            "before": ["<Leader>", "s", "w"],
+            "commands": ["workbench.action.showAllSymbols"]
+        },
+        {
+            "before": ["<Leader>", "s", "d"],
+            "commands": ["editor.action.peekDefinition"]
+        },
+        {
+            "before": ["<Leader>", "s", "i"],
+            "commands": ["editor.action.peekDeclaration"]
+        },
+        {
+            "before": ["<Leader>", "s", "t"],
+            "commands": ["editor.action.peekTypeDefinition"]
+        },
+        {
+            "before": ["<Leader>", "s", "r"],
+            "commands": ["editor.action.referenceSearch.trigger"]
+        },
+        {
+            "before": ["<Leader>", "s", "a"],
+            "commands": ["references-view.findReferences"]
+        },
+        {
+            "before": ["<Leader>", "s", "h"],
+            "commands": ["clangd.switchheadersource"]
+        },
+        {
+            "before": ["<Leader>", "f", "f"],
+            "commands": ["workbench.action.findInFiles"]
+        },
+        {
+            "before": ["<Leader>", "f", "n"],
+            "commands": ["editor.action.nextMatchFindAction"]
+        },
+        {
+            "before": ["<Leader>", "f", "p"],
+            "commands": ["editor.action.previousSelectionMatchFindAction"]
+        },
+        {
+            "before": ["<Leader>", "f", "s"],
+            "commands": ["editor.action.formatSelection"]
+        },
+        {
+            "before": ["<Leader>", "f", "d"],
+            "commands": ["editor.action.formatDocument"]
+        },
+        {
+            "before": ["<Leader>", "f", "p"],
+            "commands": ["editor.action.previousSelectionMatchFindAction"]
+        },
+        {
+            "before": ["<Leader>", "g", "D"],
+            "commands": ["editor.action.revealDefinitionAside"]
+        },
+        {
+            "before": ["<Leader>", "g", "d"],
+            "commands": ["editor.action.revealDefinition"]
+        },
+        {
+            "before": ["<Leader>", "g", "I"],
+            "commands": ["editor.action.revealDeclarationAside"]
+        },
+        {
+            "before": ["<Leader>", "g", "i"],
+            "commands": ["editor.action.revealDeclaration"]
+        },
+        {
+            "before": ["<Leader>", "m", "h"],
+            "commands": ["workbench.action.moveEditorToLeftGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "j"],
+            "commands": ["workbench.action.moveEditorToAboveGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "k"],
+            "commands": ["workbench.action.moveEditorToBelowGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "l"],
+            "commands": ["workbench.action.moveEditorToRightGroup"]
+        },
+        {
+            "before": ["<Leader>", "c", "c"],
+            "commands": ["editor.action.clipboardCopyAction"]
+        },
+        {
+            "before": ["<Leader>", "c", "x"],
+            "commands": ["editor.action.clipboardCutAction"]
+        },
+        {
+            "before": ["<Leader>", "c", "v"],
+            "commands": ["editor.action.clipboardPasteAction"]
+        },
+        {
+            "before": ["<Leader>", "n", "w"],
+            "commands": ["editor.action.toggleRenderWhitespace"]
+        },
+        {
+            "before": ["<Leader>", "q"],
+            "commands": ["workbench.action.quickOpen"]
+        },
+        {
+            "before": ["<Leader>", "n", "n"],
+            "commands": [
+                {
+                    "command": "toggle",
+                    "args": {
+                        "id": "LineNumbers",
+                        "value": [
+                            {
+                                "editor.lineNumbers": "relative"
+                            },
+                            {
+                                "editor.lineNumbers": "on"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "before": [
+                "u"
+            ],
+            "after": [],
+            "commands": [
+                {
+                    "command": "undo"
+                }
+            ]
+        },
+        {
+            "before": [
+                "<C-r>"
+            ],
+            "after": [],
+            "commands": [
+                {
+                    "command": "redo"
+                }
+            ]
+        }
+    ],
+    "vim.visualModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<Leader>", "p"],
+            "commands": ["workbench.action.showCommands"]
+        },
+        {
+            "before": ["<Leader>", "s", "f"],
+            "commands": ["workbench.action.gotoSymbol"]
+        },
+        {
+            "before": ["<Leader>", "s", "w"],
+            "commands": ["workbench.action.showAllSymbols"]
+        },
+        {
+            "before": ["<Leader>", "s", "d"],
+            "commands": ["editor.action.peekDefinition"]
+        },
+        {
+            "before": ["<Leader>", "s", "i"],
+            "commands": ["editor.action.peekDeclaration"]
+        },
+        {
+            "before": ["<Leader>", "s", "t"],
+            "commands": ["editor.action.peekTypeDefinition"]
+        },
+        {
+            "before": ["<Leader>", "s", "r"],
+            "commands": ["editor.action.referenceSearch.trigger"]
+        },
+        {
+            "before": ["<Leader>", "s", "a"],
+            "commands": ["references-view.findReferences"]
+        },
+        {
+            "before": ["<Leader>", "s", "h"],
+            "commands": ["clangd.switchheadersource"]
+        },
+        {
+            "before": ["<Leader>", "f", "f"],
+            "commands": ["workbench.action.findInFiles"]
+        },
+        {
+            "before": ["<Leader>", "f", "n"],
+            "commands": ["editor.action.nextMatchFindAction"]
+        },
+        {
+            "before": ["<Leader>", "f", "p"],
+            "commands": ["editor.action.previousSelectionMatchFindAction"]
+        },
+        {
+            "before": ["<Leader>", "f", "s"],
+            "commands": ["editor.action.formatSelection"]
+        },
+        {
+            "before": ["<Leader>", "f", "d"],
+            "commands": ["editor.action.formatDocument"]
+        },
+        {
+            "before": ["<Leader>", "f", "p"],
+            "commands": ["editor.action.previousSelectionMatchFindAction"]
+        },
+        {
+            "before": ["<Leader>", "g", "D"],
+            "commands": ["editor.action.revealDefinitionAside"]
+        },
+        {
+            "before": ["<Leader>", "g", "d"],
+            "commands": ["editor.action.revealDefinition"]
+        },
+        {
+            "before": ["<Leader>", "g", "I"],
+            "commands": ["editor.action.revealDeclarationAside"]
+        },
+        {
+            "before": ["<Leader>", "g", "i"],
+            "commands": ["editor.action.revealDeclaration"]
+        },
+        {
+            "before": ["<Leader>", "m", "h"],
+            "commands": ["workbench.action.moveEditorToLeftGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "j"],
+            "commands": ["workbench.action.moveEditorToAboveGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "k"],
+            "commands": ["workbench.action.moveEditorToBelowGroup"]
+        },
+        {
+            "before": ["<Leader>", "m", "l"],
+            "commands": ["workbench.action.moveEditorToRightGroup"]
+        },
+        {
+            "before": ["<Leader>", "c", "c"],
+            "commands": ["editor.action.clipboardCopyAction"]
+        },
+        {
+            "before": ["<Leader>", "c", "x"],
+            "commands": ["editor.action.clipboardCutAction"]
+        },
+        {
+            "before": ["<Leader>", "c", "v"],
+            "commands": ["editor.action.clipboardPasteAction"]
+        },
+        {
+            "before": ["<Leader>", "n", "w"],
+            "commands": ["editor.action.toggleRenderWhitespace"]
+        },
+        {
+            "before": ["<Leader>", "q"],
+            "commands": ["workbench.action.quickOpen"]
+        },
+        {
+            "before": ["<Leader>", "n", "n"],
+            "commands": [
+                {
+                    "command": "toggle",
+                    "args": {
+                        "id": "LineNumbers",
+                        "value": [
+                            {
+                                "editor.lineNumbers": "relative"
+                            },
+                            {
+                                "editor.lineNumbers": "on"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "vim.neovimPath": "C:/Users/Rst.Pie/scoop/apps/neovim/current/bin/nvim.exe",
+    "vim.enableNeovim": true,
+    // C/C++ SETTINGS
+    "C_Cpp.clang_format_sortIncludes": false,
+    "C_Cpp.enhancedColorization": "Enabled",
+    "C_Cpp.experimentalFeatures": "Enabled",
+    "C_Cpp.clang_format_fallbackStyle": "Mozilla",
+    "C_Cpp.updateChannel": "Insiders",
+    // CSPELL EXTENSION SETTINGS
+    "cSpell.enableFiletypes": [
+        "!json",
+        "!typescript",
+        "!yaml",
+        "asciidoc",
+        "cpp",
+        "html",
+        "markdown",
+        "plaintext",
+        "text"
+    ],
+    "cSpell.ignorePaths": [
+        "**/package-lock.json",
+        "**/node_modules/**",
+        "**/vscode-extension/**",
+        "**/.git/**",
+        ".vscode",
+        "typings",
+        ".clang-format"
+    ],
+    "cSpell.userWords": [
+        "adex",
+        "asms",
+        "assy",
+        "comms",
+        "dblog",
+        "dblogtime",
+        "deassert",
+        "decryptor",
+        "Ekey",
+        "encryptor",
+        "Epath",
+        "Ftalk",
+        "hilite",
+        "Incip",
+        "leds",
+        "linv",
+        "logix",
+        "mult",
+        "nucleo",
+        "permalock",
+        "permalocked",
+        "renesas",
+        "repost",
+        "scid",
+        "sdcard",
+        "skinparam",
+        "treck",
+        "uncommented",
+        "vlatest",
+        "wuppertal"
+    ],
+    "cSpell.allowCompoundWords": true,
+    "cSpell.languageSettings":[
+        {
+            "languageId": "cpp,c",
+            "includeRegExpList": [
+                "CStyleComment"
+            ]
+        },
+        {
+            "languageId": "python",
+            "includeRegExpList": [
+                "/#.*/",
+                "/('''|\"\"\")[^\\1]+?\\1/g"
+            ]
+        }
+    ],
+    "cSpell.ignoreRegExpList": [
+        "/[^a-z][A-Z]{2,}[^a-rt-z]/g",
+        "/[\\w].*[.,_][\\w].*/g"
+    ],
+    // PROJECTS+ EXTENSION SETTINGS
+    "projects.configPath": "C:/Users/Rst.Pie/Projects/projects.json",
+    "projects.checkDirty": true,
+    "projects.showBranch":true,
+    "projects.viewAllEnabled": true,
+    "projects.sortGroups": false,
+    "projects.sortProjects": false,
+    "projects.ignoreBranches": [
+        "master",
+        "CR50-INT"
+    ],
+    // YAML EXTENSION SETTINGS
+    "yaml.schemas": {
+        "file:///c%3A/Users/RSt.Pie/scoop/apps/vscode-portable/1.55.1/data/extensions/atlassian.atlascode-2.8.6/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    // GITLENS EXTENSION SETTINGS
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "gitlens.mode.statusBar.enabled": false,
+    "gitlens.defaultGravatarsStyle": "identicon",
+    "gitlens.hovers.enabled": false,
+    // LANGUAGE SPECIFIC SETTINGS
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
+    //"[c]": {
+    //    "editor.defaultFormatter": "ms-vscode.cpptools"
+    //},
+    // VS CODE PRINTING FREE SETTINGS
+    "print.browserPath": "C:\\Users\\RSt.Pie\\scoop\\apps\\firefox\\current\\firefox.exe",
+    "print.colourScheme": "github",
+    "print.printAndClose": false,
+    // PYTHON SETTINGS
+    "pythonTestExplorer.testFramework": "pytest",
+    "python.linting.pylintArgs": [
+        "--disable=all",
+        "--enable=F,unreachable,duplicate-key,unnecessary-semicolon,global-variable-not-assigned,unused-variable,binary-op-exception,bad-format-string,anomalous-backslash-in-string,bad-open-mode,E0001,E0011,E0012,E0100,E0101,E0102,E0103,E0104,E0105,E0107,E0108,E0110,E0111,E0112,E0113,E0114,E0115,E0116,E0117,E0118,E0202,E0203,E0211,E0213,E0236,E0237,E0238,E0239,E0240,E0241,E0301,E0302,E0303,E0401,E0402,E0601,E0602,E0603,E0604,E0611,E0632,E0633,E0701,E0702,E0703,E0704,E0710,E0711,E0712,E1003,E1101,E1102,E1111,E1120,E1121,E1123,E1124,E1125,E1126,E1127,E1128,E1129,E1130,E1131,E1132,E1133,E1134,E1135,E1136,E1137,E1138,E1139,E1200,E1201,E1205,E1206,E1300,E1301,E1302,E1303,E1304,E1305,E1306,E1310,E1700,E1701"
+    ],
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.renderLineHighlight": "all",
+    "editor.minimap.showSlider": "always",
+    "editor.acceptSuggestionOnEnter": "off",
+    "update.enableWindowsBackgroundUpdates": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "gitlens.advanced.messages": {
+        "suppressImproperWorkspaceCasingWarning": true
+    },
+    "cortex-debug.armToolchainPath": "C:\\Users\\RSt.Pie\\Tools\\gcc-arm-none-eabi-10.3-2021.10\\bin",
+    "cortex-debug.gdbPath": "C:\\Users\\Rst.Pie\\Tools\\gcc-arm-none-eabi-10.3-2021.10\\bin\\arm-none-eabi-gdb-py.exe",
+    "cortex-debug.JLinkGDBServerPath": "C:\\Program Files\\SEGGER\\JLink\\JLinkGDBServerCL.exe",
+    "cortex-debug.enableTelemetry": false,
+    "editor.fontSize": 12,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "todo-tree.filtering.ignoreGitSubmodules": true,
+    "todo-tree.tree.showCountsInTree": true,
+    "todo-tree.tree.trackFile": false,
+    "todo-tree.tree.scanMode": "workspace only",
+    "todo-tree.tree.buttons.scanMode": true,
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "telemetry.telemetryLevel": "off",
+    "editor.guides.bracketPairs": true,
+    "redhat.telemetry.enabled": false,
+    "testExplorer.useNativeTesting": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.enabled": false,
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\Rst.Pie\\Projects\\Source",
+        "C:\\Users\\Rst.Pie\\Projects\\Source-external"
+    ],
+    "files.eol": "\r\n",
+    "git.mergeEditor": true,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.renderWhitespace": "none",
+    "clangd.path": "c:\\Users\\RSt.Pie\\scoop\\apps\\vscode\\1.77.1\\data\\user-data\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\15.0.6\\clangd_15.0.6\\bin\\clangd.exe",
+    "clangd.checkUpdates": true,
+    "workbench.iconTheme": "solarized",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1,
+        "vscodevim.vim": 1
+    },
+    "editor.cursorSurroundingLines": 3,
+    "editor.suggest.selectionMode": "whenTriggerCharacter",
+    "editor.suggest.shareSuggestSelections": true,
+    "clangd.arguments": [
+        "--query-driver=\"C:/Users/Rst.Pie/Projects/Source/armedlt5/bin/iccarm.exe\""
+    ],
+    "workbench.colorTheme": "Rick's Solarized Dark",
+    "workbench.sideBar.location": "right",
+    "vim.easymotion": true,
+    "vim.easymotionDimColor": "#657b83",
+    "vim.easymotionIncSearchForegroundColor": "#859900",
+    "vim.easymotionMarkerBackgroundColor": "#001e29",
+    "vim.easymotionMarkerForegroundColorOneChar": "#dc322f",
+    "vim.easymotionMarkerForegroundColorTwoCharFirst": "#cb4b16",
+    "vim.easymotionMarkerForegroundColorTwoCharSecond": "#6c71c4",
+    "errorLens.gutterIconsEnabled": true,
+    "errorLens.gutterIconSet": "defaultOutline",
+    "errorLens.messageMaxChars": 0,
+    "errorLens.messageEnabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    // MORE SETTINGS HERE
+
+    // AND HERE
+}
